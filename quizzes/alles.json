@@ -1,0 +1,776 @@
+{
+  "questions": [
+    {
+      "type": "multiple",
+      "question": "Waar staat 'Searching For Utopia' van Jan Fabre?",
+      "answers": ["Nieuwpoort", "Middelkerke", "Blankenberge", "oostende"],
+      "correct": "Nieuwpoort",
+      "image": "https://cdn-cms.bookingexperts.com/media/1671/6/optimized.jpg",
+      "round": "ABC"
+    },
+    {  
+      "type": "open",
+      "question": "Hoe heet deze witte praline van Leonidas?",
+      "answers": ["Manon", "Praliné Royale", "Gianduja", "Marron Glacé"],
+      "correct": "Manon",
+      "image": "https://www.leonidas.com/sites/default/files/styles/ballotin/public/2022-04/profil_ballotin_manon_blanc_cafe_300g.png?itok=wJpKDQmx",
+      "round": "ABC"
+    },
+    {
+      "type": "open",
+      "question": "Hoe heet dit Dinsey charachter?",
+      "correct": "Ursula",
+      "image": "https://www.themousestories.com/wp-content/uploads/2022/01/ursula-quote.jpg",
+      "round": "ABC"
+    },
+    {
+      "type": "multiple",
+      "question": "Cowboy Henk is een Belgische stripreeks, getekend door welke striptekenaar?",
+      "answers": ["Herr Seele", "Hergé", "Denis Bodart", "Paul Cubelier"],
+      "correct": "Herr Seele",
+      "image": "https://cdn3.depoort.com/c/591-category_header_crop/cowboy-henk-borgerhoff-en-lamberigts.jpg",
+      "round": "ABC"
+    },
+    {
+      "type": "open",
+      "question": "Welke racketsport zien we hier?",
+      "correct": "Pickleball",
+      "image": "https://cdn.prod.website-files.com/6390c2d9fbb8357ffc404b63/6612f97cff3fd2e80bcb5b1c_What%20is%20Pickleball.png",
+      "round": "ABC"
+    },
+    {
+      "type": "open",
+      "question": "Welke Amerikaase fantasie serie zien we hier(....: Warrior Princess)?",
+      "correct": "Xena",
+      "image": "https://hollywoodtheatre.org/wp-content/uploads/2025/02/Xena_thumbnail_March_2025.jpg",
+      "round": "ABC"
+    },
+    {
+      "type": "open",
+      "question": "Welke vlaamse infectiologe speelde er een belangrijke rol in de tijden van Covid-19?",
+      "correct": ["Erika Vlieghe","Vlieghe"],
+      "image": "https://images.vrt.be/vrtnws_share/2020/12/19/43ae69da-4207-11eb-aae0-02b7b76bf47f.jpg",
+      "round": "ABC"
+    },
+    {
+      "type": "open",
+      "question": "Wat is de naam van de enige italiaanse trappist?",
+      "correct": "Tre Fontane",
+      "image": "https://www.biernet.nl/images/blog/50717-Trappistenbier.jpg",
+      "round": "ABC"
+    },
+    {
+      "type": "open",
+      "question": "Welke vlag zien we hier?",
+      "correct": ["Albanië","Albanie"],
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/Flag_of_Albania.svg/640px-Flag_of_Albania.svg.png",
+      "round": "ABC"
+    },
+    {
+      "type": "open",
+      "question": "Welke britse metalband is dit?",
+      "correct": "Iron Maiden",
+      "image": "https://www.ironmaiden.com/files/2024/08/WS_2023_Lineup.jpg",
+      "round": "ABC"
+    },
+    {
+      "type": "open",
+      "question": "Welk Marvel karakter is dit?",
+      "correct": "Cable",
+      "image": "https://cdn.marvel.com/content/1x/cable_2017_1_page.jpg",
+      "round": "ABC"
+    },
+    {
+      "type": "multiple",
+      "question": "Waarvoor staat de afkorting GIF?",
+      "answers": ["Graphics Interchange Format", "Global Information Format", "General Image Format", "Graphic Interface File"],
+      "correct": "Graphics Interchange Format",
+      "image": "https://mir-s3-cdn-cf.behance.net/project_modules/hd/5eeea355389655.59822ff824b72.gif",
+      "round": "ABC"
+    },
+    {
+      "type": "open",
+      "question": "Hoe heet deze Amerikaanse fast-food keten?",
+      "correct": "Wendy's",
+      "image": "https://www.allrecipes.com/thmb/OAf4L1kfq2ZF7Lsk8aEkO_esINY=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/AR-wendys-logo-burst-2x1-1e1b1b59df7b4dc1bae23ef9ddf9453d.jpg",
+      "round": "ABC"
+    },
+    {
+      "type": "open",
+      "question": "Vanaf welke haven vertrok de Titanic op haar eerste en enige reis??",
+      "correct": "Southampton",
+      "image": "https://britishtitanicsociety.com/wp-content/uploads/2022/05/titanic_600dpi-3-o7tme1spdjz42ft1dp5k5xgu3x4bppsr27l9fcs80w.jpg",
+      "round": "ABC"
+    },
+    {
+      "type": "open",
+      "question": "Hoe noem je een drankje dat snel gekoeld wordt en vaak met ijs wordt geserveerd, zoals een ijskoffie in Frankrijk of Griekenland?",
+      "correct": "Frappé",
+      "image": "https://radar.avrotros.nl/cms-assets/da937278-8e18-4f3c-bbc1-227ed0b838cd?key=og-image",
+      "round": "ABC"
+    },
+    {
+      "type": "open",
+      "question": "Welke witte bergbloem wordt bezongen in 'The Sound of Music' en is een symbool van Oostenrijk?",
+      "correct": "Edelweiss",
+      "image": "https://blog.3bee.com/_next/image/?url=https%3A%2F%2Fapi-backend-assets.s3.eu-south-1.amazonaws.com%2Fprivate%2Ffiler_public%2F95%2Fc3%2F95c347e8-ac8c-4e35-8b28-b14b663ac5c4%2F8edd77e5-4c0a-4445-8376-37c0a7dbfc0a.jpg&w=3840&q=75",
+      "round": "ABC"
+    },
+    {
+      "type": "open",
+      "question": "Hoe wordt het genoemd in darts als een pijl exact in de achterkant van een andere pijl terechtkomt?",
+      "correct": "Robin Hood",
+      "image": "https://www.gbnews.com/media-library/image.jpg?id=50969348&width=980",
+      "round": "ABC"
+    },
+    {
+      "type": "open",
+      "question": "Welke Franse componist schreef het beroemde Can-Can muziekstuk uit 'Orphée aux enfers'?",
+      "correct": ["Jacques Offenbach", "Offenbach"],
+      "image": "https://upload.wikimedia.org/wikipedia/commons/b/b5/Jacques_Offenbach_by_F%C3%A9lix_Nadar_%28restored%29.jpg",
+      "round": "ABC"
+    },
+    {
+      "type": "open",
+      "question": "Wat is het pseudoniem van de Belgische kunstenaar Luc Charles Zeebroek, bekend van absurde cartoons en de strip 'Cowboy Henk'?",
+      "correct": ["Kamagurka"],
+      "image": "https://images.kunstveiling.be/tmp-755f0b47a591e97619d67f10dff42b49-kamagurka_s1500.jpeg",
+      "round": "ABC"
+    },
+    {
+      "type": "open",
+      "question": "Wie werd in 2023 de jongste speler ooit die debuteerde én scoorde voor het Spaanse nationale elftal?",
+      "correct": ["Lamine Yamal", "Yamal"],
+      "image": "https://www.aljazeera.com/wp-content/uploads/2025/04/GettyImages-2212791115-1746042016.jpg?resize=770%2C513&quality=80",
+      "round": "ABC"
+    },
+    {
+      "type": "open",
+      "question": "Vul aan: Als de vos de passie preekt, ...",
+      "correct": ["boer let op je ganzen", "boer pas op je kippen"],
+      "image": "https://lbweng.rosselcdn.net/sites/default/files/dpistyles_v2/ena_16_9_extra_big/2024/02/13/node_18842/142030/public/2024/02/13/B9735916066Z.1_20240213180129_000%2BGSLO923R5.1-0.jpg?itok=zBjJcQ7P1707843769",
+      "round": "ABC"
+    },
+    {
+      "type": "open",
+      "question": "Welke vlag zie je hier?",
+      "correct": "Qatar",
+      "image": "https://img.goodfon.com/original/5000x3334/0/d0/qatari-qatar-flag-of-qatar-qatar-large-flag-flag.jpg",
+      "round": "ABC"
+    },
+    {
+      "type": "open",
+      "question": "Wat is het chemisch symbool van het element ZR op de tabel van Mendeljev?",
+      "correct": "Zirconium ",
+      "image": "https://www.shutterstock.com/image-vector/mendeleev-periodic-table-elements-vector-260nw-479313628.jpg",
+      "round": "ABC"
+    },
+    {
+      "type": "open",
+      "question": "Welke acteur speelde James Bond in de film 'On Her Majesty's Secret Service'?",
+      "correct": ["George Lazenby", "Lazenby"],
+      "image": "https://i.namu.wiki/i/Mjm1FwW0hyFBT0w39ZKSEOM2fcYnrLFGazQaAg4k18Qct5tIATrGYeCQmi7y15oTAtbj1hnEvHub8hHwYpx_Sw.webp",
+      "round": "ABC"
+    },
+    {
+      "type": "open",
+      "question": "Welke dictator regeerde over Haïti?",
+      "correct": ["François Duvalier", "Papa Doc", "Duvalier"],
+      "image": "https://i.guim.co.uk/img/static/sys-images/Guardian/Pix/pictures/2013/5/1/1367421395836/Francois-Duvalier-006.jpg?width=465&dpr=1&s=none&crop=none",
+      "round": "ABC"
+    },
+    {
+      "type": "open",
+      "question": "Wie was de Vlaamse verzetsstrijder die samen met Pieter de Coninck een belangrijke rol speelde in de Guldensporenslag van 1302?",
+      "correct": ["Jan Breydel","Breydel"],
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/50/Statue_of_Jan_Breydel_%26_Pieter_de_Coninck%2C_Bruges.jpg/330px-Statue_of_Jan_Breydel_%26_Pieter_de_Coninck%2C_Bruges.jpg",
+      "round": "ABC"
+    },
+
+
+
+    {
+      "type": "open",
+      "question": "Welke Italiaanse blauwschimmelkaas, afkomstig uit de regio Lombardije, staat bekend om zijn romige textuur en uitgesproken smaak?",
+      "correct": ["gorgonzola"],
+      "image": "https://cdn.prod.website-files.com/6176b4d499ce9047c9f6d033/6256a832e92d6d3f59941b33_StudioSmaak_halfhardekaas.jpg",
+      "round": "R1"
+    },
+    {
+      "type": "open",
+      "question": "Wat betekent de term 'emetofobie'?",
+      "correct": ["braken", "overgeven"],
+      "image": "https://www.kaponline.nl/content/uploads/sites/13/2021/02/angst-exposure-iStock-1137802287-1.jpg",
+      "round": "R1"
+    },
+    {
+      "type": "open",
+      "question": "Welke Amerikaanse auteur en senator uit Ohio werd bekend door zijn memoire 'Hillbilly Elegy' over zijn jeugd in een arbeidersgezin in Appalachia?",
+      "correct": ["J.D. Vance", "Vance", "James David Vance"],
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQsEO6--zs78O2GmSwxvGc5YyK18-EX6WOpAA&s",
+      "round": "R1"
+    },
+    {
+      "type": "open",
+      "question": "Hoe heet het kleine, giftige visje dat vaak in ondiep zeewater langs de Nederlandse kust wordt aangetroffen en berucht is om de pijnlijke steken die het kan veroorzaken?",
+      "correct": ["pietermannetje", "pieterman"],
+      "image": "https://www.rodekruis.nl/wp-content/uploads/2021/04/Pieterman_Hans-Hillewaert.jpg",
+      "round": "R1"
+    },
+    {
+      "type": "open",
+      "question": "Wat is de naam van de smalle zeestraat die Europa en Azië scheidt en de Zwarte Zee verbindt met de Zee van Marmara?",
+      "correct": ["bosporus", "de bosporus"],
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ea/Istanbul_and_Bosporus_big.jpg/960px-Istanbul_and_Bosporus_big.jpg",
+      "round": "R1"
+    },
+    {
+      "type": "open",
+      "question": "Wie is de Britse schrijver van Indiase afkomst die het controversiële boek 'De Duivelsverzen' schreef?",
+      "correct": ["Salman Rushdie", "Rushdie"],
+      "image": "https://prod-img.standaard.be/public/nieuws/4o38py-a1dbc29e-7c65-48ed-9617-1b61d3236047.jpg/alternates/THREE_TWO_1620/a1dbc29e-7c65-48ed-9617-1b61d3236047.jpg",
+      "round": "R1"
+    },
+    {
+      "type": "open",
+      "question": "Welke Sovjetleider, bekend om zijn lange ambtsperiode en kenmerkende wenkbrauwen, zie je op deze foto?",
+      "correct": ["Brezjnev", "Leonid Brezjnev"],
+      "image": "https://images.vrt.be/orig/2021/10/04/1229ab32-24f9-11ec-b07d-02b7b76bf47f.png?w=960",
+      "round": "R1"
+    },
+    {
+      "type": "open",
+      "question": "In welke sport pakte een Belgisch team zowel een zilveren als een gouden medaille op de Olympische Spelen?",
+      "correct": ["cheerleaden", "cheerleading"],
+      "image": "https://influencersofsports.com/wp-content/uploads/ALT-Olympische-Spelen-.jpg",
+      "round": "R1"
+    },
+    {
+      "type": "open",
+      "question": "Hoe heet de film van regisseur Richard Linklater uit 2014 die over een periode van twaalf jaar werd opgenomen en het opgroeien van een jongen volgt?",
+      "correct": ["Boyhood"],
+      "image": "https://www.moviemeter.nl/afbeeldingen/artikel/1920x1080/boyhood-van-richard-linklater-is-vanavond-te-zien-op-televisie-119111699532864.jpg",
+      "round": "R1"
+    },
+    {
+      "type": "open",
+      "question": "Hoe heet de wereldberoemde technoclub in Berlijn die bekendstaat om zijn strenge deurbeleid en legendarische feesten?",
+      "correct": ["Berghain"],
+      "image": "https://www.yourlittleblackbook.me/wp-content/uploads/2013/10/Berghain-berlin-club-5-1024x868.jpg",
+      "round": "R1"
+    },
+
+
+
+{
+  "type": "open",
+  "question": "Wat is de kookterm voor een stuk vlees dat slechts heel kort gebakken is en aan de binnenkant nog bijna rauw is?",
+  "correct": ["blue"],
+  "image": "https://media.npr.org/assets/img/2019/09/26/gettyimages-542502429-f0c6e6f45927963e0e7960a1b23f929c75defc72.jpg?s=1100&c=50&f=jpeg",
+  "round": "R2 - Kleur"
+},
+{
+  "type": "open",
+  "question": "Welke aandoening, die vaak wijst op leverproblemen, zorgt voor een gele verkleuring van de huid en het oogwit?",
+  "correct": ["geelzucht"],
+  "image": "https://image.gezondheid.be/XTRA/123_geelzucht_ogen_oog_lever_2022.jpg",
+  "round": "R2 - Kleur"
+},
+{
+  "type": "open",
+  "question": "Hoe heet de hoofdrolspeelster uit de gelijknamige film van Quentin Tarantino uit 1997, gebaseerd op een boek van Elmore Leonard?",
+  "correct": ["Jackie Brown"],
+  "image": "https://m.media-amazon.com/images/M/MV5BMTU0NzQxODU4Ml5BMl5BanBnXkFtZTcwOTM0OTAyNg@@._V1_.jpg",
+  "round": "R2 - Kleur"
+},
+{
+  "type": "open",
+  "question": "Hoe heet de tuinbehandeling waarbij de grasmat met messen wordt ingesneden om mos en dood gras te verwijderen en de bodem beter te laten ademen?",
+  "correct": ["verticuteren"],
+  "image": "https://www.pokon.nl/image/2ae74b41-4c14-4828-a4f9-f02d586ffef5/b379f46e-fa65-11e5-841d-faab690c03e8/b379f46e-fa65-11e5-841d-faab690c03e8.jpeg?rev=1714538615&widthParam=1081&heightParam=525&extension=webp",
+  "round": "R2 - Kleur"
+},
+{
+  "type": "open",
+  "question": "Wat is de naam van het beroemde nationale park in de Verenigde Staten dat bekendstaat om zijn geisers en kleurrijke warmwaterbronnen?",
+  "correct": ["Yellowstone"],
+  "image": "https://amerika.be/wp-content/uploads/2019/10/yellowstone-national-park.jpg",
+  "round": "Kleur"
+},
+{
+  "type": "open",
+  "question": "Hoe heet de bestsellerroman van E.L. James die een trilogie vormde en later werd verfilmd, bekend om zijn erotische thema's?",
+  "correct": ["50 Shades of Grey", "Fifty Shades of Grey"],
+  "image": "https://dl6pgk4f88hky.cloudfront.net/2021/06/462847454_0-scaled.jpg",
+  "round": "Kleur"
+},
+{
+  "type": "open",
+  "question": "Welke communistische beweging stond onder leiding van Pol Pot en was verantwoordelijk voor het regime in Cambodja in de jaren 1970?",
+  "correct": ["Khmer Rouge", "De Rode Khmer","Rode Khmer"],
+  "image": "https://images-bonnier.imgix.net/files/his/production/2019/09/09043549/pol-pot2-yxte8d7akgdccl5ptz3n5w.jpg?auto=format,compress&crop=focalpoint&fp-x=0.5&fp-y=0.5&ar=1.5:1&w=922&q=80&fit=crop",
+  "round": "R2 - Kleur"
+},
+{
+  "type": "open",
+  "question": "Hoe heet het wereldberoemde nationale rugbyteam van Nieuw-Zeeland, bekend om hun haka-dans?",
+  "correct": ["All Blacks", "de All Blacks"],
+  "image": "https://i.ytimg.com/vi/yiKFYTFJ_kw/sddefault.jpg",
+  "round": "R2 - Kleur"
+},
+{
+  "type": "open",
+  "question": "Welke Vlaamse film, geregisseerd door Ernest Claase, is gebaseerd op de gelijknamige jeugdroman over een ondeugende jongen uit Sichem?",
+  "correct": ["De Witte van Sichem"],
+  "image": "https://images.vrt.be/w1280h672_seo_vrtmax_overlay/2016/07/29/b342adbc-558d-11e6-94b1-00163edf843f.png?gravity=50p%2C50p",
+  "round": "R2 - Kleur"
+},
+{
+  "type": "open",
+  "question": "Welke Amerikaanse zangeres, bekend om haar krachtige stem en hits als 'Just Give Me a Reason' en 'So What', staat bekend onder de artiestennaam met een uitroepteken erin?",
+  "correct": ["P!nk", "Pink"],
+  "image": "https://t3.ftcdn.net/jpg/02/21/36/46/360_F_221364612_g7V74caMhrOe5AF7kM0NLAzBKvz0eQFB.jpg",
+  "round": "R2 - Kleur"
+},
+
+
+
+{
+  "type": "open",
+  "question": "Welke gefermenteerde drank op basis van thee, bekend om zijn probiotische eigenschappen en lichtzure smaak, wint aan populariteit als een gezond alternatief voor frisdrank?",
+  "correct": ["kombucha"],
+  "image": "https://cdn.shopify.com/s/files/1/0833/3924/7942/files/SCOBY.png?v=1722510640",
+  "round": "R3"
+},
+{
+  "type": "open",
+  "question": "Welke geneesmiddel uit de jaren 50 en 60, oorspronkelijk voorgeschreven tegen zwangerschapsmisselijkheid, werd berucht vanwege de geboorteafwijkingen die het veroorzaakte?",
+  "correct": ["Softenon", "Thalidomide"],
+  "image": "https://isgeschiedenis.nl/sites/isgeschiedenis.nl/files/styles/detailpag/public/800px-ncp14053.jpg",
+  "round": "R3"
+},
+{
+  "type": "open",
+  "question": "Welke Belgische klimaatactiviste werd bekend als mede-oprichtster van Youth for Climate en speelde een prominente rol in de klimaatmarsen van 2019?",
+  "correct": ["Aurélie Boffé", "Aurelie Boffe"],
+  "image": "https://www.vub.be/sites/default/files/2024-10/20241007_VUB_Aur%C3%A9lie%20Boff%C3%A9_ByThierryGeenen0003.jpg",
+  "round": "R3"
+},
+{
+  "type": "open",
+  "question": "Wat is de naam van de populaire kamerplant met rechtopstaande, zwaardvormige bladeren, die ook wel bekendstaat als 'vrouwentong'?",
+  "correct": ["Sanseveria", "Sansevieria"],
+  "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Snake_plant.jpg/960px-Snake_plant.jpg",
+  "round": "R3"
+},
+{
+  "type": "open",
+  "question": "Hoe heet het afgelegen eiland in de Indische Oceaan dat bewoond wordt door een van de laatste geïsoleerde stammen ter wereld, en waar bezoekers streng worden geweerd?",
+  "correct": ["North Sentinel Island", "Noord-Sentinel eiland", "Noord Sentinel Island"],
+  "image": "https://i.natgeofe.com/n/5a042595-bdb4-4fe1-aeac-5e50cd104ba4/01_sentinel_840149.jpg",
+  "round": "R3"
+},
+{
+  "type": "open",
+  "question": "Hoe heet de satirische rubriek in het Belgische weekblad Humo waarin een fictief Vlaams dorp wordt opgevoerd dat symbool staat voor bekrompenheid en absurdisme?",
+  "correct": ["Het gat van de wereld"],
+  "image": "https://image.humo.be/255991033/width/2480/nu-in-humo-openingsbeeld",
+  "round": "R3"
+},
+{
+  "type": "open",
+  "question": "In welke Amerikaanse stad weigerde Rosa Parks in 1955 haar zitplaats in de bus af te staan, wat leidde tot de beroemde busboycot en een keerpunt werd in de burgerrechtenbeweging?",
+  "correct": ["Montgomery"],
+  "image": "https://images.bonnier.cloud/files/his/production/2022/06/22144736/facebook-rosa-parks.jpg?max-w=1200&max-h=630&fit=crop",
+  "round": "R3"
+},
+{
+  "type": "open",
+  "question": "Welke Nederlandse wielrenster, bekend om haar sprintkwaliteiten, won meerdere etappes in de Tour de France Femmes en rijdt sinds 2023 voor Team SD Worx?",
+  "correct": ["Lorena Wiebes", "Wiebes"],
+  "image": "https://www.wielerflits.be/wp-content/uploads/2024/08/OS-24-Wiebes-vooraf-1-sm-1-scaled-1200x800.jpg",
+  "round": "R3"
+},
+{
+  "type": "open",
+  "question": "Welke Amerikaanse regisseur, bekend om zijn unieke visuele stijl en symmetrische beeldtaal, maakte films als *The Grand Budapest Hotel* en *The Royal Tenenbaums*?",
+  "correct": ["Wes Anderson"],
+  "image": "https://budapest-travel-tips.com/wp-content/uploads/2019/05/Grand_Budapest_Hotel_film.jpg",
+  "round": "R3"
+},
+{
+  "type": "open",
+  "question": "Welke Italiaanse popgroep, bekend van het nummer 'Sarà perché ti amo', trad regelmatig op in het legendarische San Siro-stadion in Milaan?",
+  "correct": ["Ricchi e Poveri", "Richi e Povveri"],
+  "image": "https://cdn-images.dzcdn.net/images/artist/ddafc65f2103161d307df0c40754969f/1900x1900-000000-80-0-0.jpg",
+  "round": "R3"
+},
+
+
+
+{
+  "type": "open",
+  "question": "Welke Amerikaanse televisieserie, gebaseerd op een restaurant in Chicago, draait om het chaotische leven van chef-kok Carmy en zijn familie?",
+  "correct": ["The Bear"],
+  "image": "https://image.volkskrant.nl/222549789/width/2480/jeremy-allen-white-in-the-bear",
+  "round": "R4 - Dieren"
+},
+{
+  "type": "open",
+  "question": "Welke uitgestorven knaagdierensoort, zo groot als een kleine koe, staat bekend als de grootste muis die ooit heeft geleefd?",
+  "correct": ["mammoetmuis", "Josephoartigasia","mammoet"],
+  "image": "https://image.demorgen.be/254335600/width/2480/de-genetisch-gemodificeerde-muis-die-lange-haren-heeft",
+  "round": "R4 - Dieren"
+},
+{
+  "type": "open",
+  "question": "Welke Duitse geestelijke die van 2005 tot 2013 het hoofd was van de Katholieke Kerk?",
+  "correct": ["Ratzinger", "Paus Benedictus XVI", "Joseph Ratzinger"],
+  "image": "https://prod-img.hbvl.be/public/nieuws/qsqig2-b7f3c5f70275ed4aff4eac336e68d390af7126d7452eb46fde2d5426f03f8f2a.jpg/alternates/THREE_TWO_1620/b7f3c5f70275ed4aff4eac336e68d390af7126d7452eb46fde2d5426f03f8f2a.jpg",
+  "round": "R4 - Dieren"
+},
+{
+  "type": "open",
+  "question": "Welke plant met grote, schermvormige witte bloemen en holle stengels staat bekend om zijn giftigheid?",
+  "correct": ["berenklauw"],
+  "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/HeracleumSphondylium2.jpg/1200px-HeracleumSphondylium2.jpg",
+  "round": "R4 - Dieren"
+},
+{
+  "type": "open",
+  "question": "Welke knaagdier, bekend om zijn dammen en holen in rivieren, leeft ook in het Pajottenland, een regio in België?",
+  "correct": ["bever"],
+  "image": "https://www.pajottenland.be/application/files/6715/9724/1624/3_bs_-_bruegels_landschap.jpg",
+  "round": "R4 - Dieren"
+},
+{
+  "type": "open",
+  "question": "Welk dier uit de Chinese dierenriem staat symbool voor wijsheid en flexibiliteit en komt na de draak?",
+  "correct": ["slang"],
+  "image": "https://thumbs.dreamstime.com/z/chinese-calendar-animals-round-signs-years-starts-to-48732811.jpg",
+  "round": "R4 - Dieren"
+},
+{
+  "type": "open",
+  "question": "Welke oude Griekse arts, bekend als de 'vader van de geneeskunde', wordt vaak afgebeeld met een slang die rond een staf kronkelt, een symbool dat ook in de dierkunde voorkomt?",
+  "correct": ["Hippocrates"],
+  "image": "https://historiek.net/wp-content/uploads-phistor1/2009/09/Hippocrates-illustratie-uit-1925-e1453542467464.jpg",
+  "round": "R4 - Dieren"
+},
+{
+  "type": "open",
+  "question": "Welke Belgische wielrenner staat bekend om zijn klimkwaliteiten en draagt een achternaam die ook verwijst naar een zoogdier?",
+  "correct": ["Dirk De Mol", "De Mol"],
+  "image": "https://www.wielerflits.be/wp-content/uploads/2023/08/CORVOS_00020328-037-e1689860080941.jpg",
+  "round": "R4 - Dieren"
+},
+{
+  "type": "open",
+  "question": "Welke term verwijst naar een onverwachte, zeldzame gebeurtenis met grote impact, en is ook de titel van een bekende film over een ballerina?",
+  "correct": ["Black Swan"],
+  "image": "https://www.filmlinc.org/wp-content/uploads/2024/05/natalie-portman-black-swan-121422-db2c09466554482dbcf11f1b75aa7a14-1-1600x900-c-default.jpg",
+  "round": "R4 - Dieren"
+},
+{
+  "type": "open",
+  "question": "Welke Britse rockband uit de jaren 60, bekend van hits als 'The House of the Rising Sun', wordt genoemd naar een groep levende wezens?",
+  "correct": ["The Animals"],
+  "image": "https://media.npr.org/assets/img/2014/05/01/via-abkco-records-23937edfc07c43f6faf2d6154e9608fbcbc662c9.jpeg?s=1100&c=50&f=jpeg",
+  "round": "R4 - Dieren"
+},
+
+
+
+
+{
+  "type": "open",
+  "question": "Welk populaire kant-en-klare lunchproduct uit de Verenigde Staten, vaak bestaande uit crackers, kaas en vlees, werd in de jaren 80 geïntroduceerd door Oscar Mayer?",
+  "correct": ["Lunchables"],
+  "image": "https://cloudfront-eu-central-1.images.arcpublishing.com/williamreed/NHJOK32XVFK7LHTRVFJA6K72SU.jpg",
+  "round": "R5"
+},
+{
+  "type": "open",
+  "question": "Welke theoretische natuurkundige benadering probeert de elementaire deeltjes en krachten in het universum te verklaren als trillende eendimensionale objecten?",
+  "correct": ["String Theory","snaartheorie","stringtheorie"],
+  "image": "https://www.advancedsciencenews.com/wp-content/uploads/2022/08/Grid-portal-on-a-black-background.jpg",
+  "round": "R5"
+},
+{
+  "type": "open",
+  "question": "Wat is de echte naam van de Belgische YouTuber die bekendstaat onder het pseudoniem Acid en vaak maatschappelijke kwesties aankaart op zijn kanaal?",
+  "correct": ["Nathan Vandergunst","Vandergunst"],
+  "image": "https://image.demorgen.be/255409065/width/2480/nathan-vandergunst-aka-acid-screenshot-uit-video-meest-getalenteerde",
+  "round": "R5"
+},
+{
+  "type": "open",
+  "question": "Welke grote, snelbewegende spinnenfamilie, bekend om hun krabachtige poten en jacht zonder web, worden vaak aangetroffen in warme klimaten zoals Australië en Azië?",
+  "correct": ["Huntsman spiders","Huntsman"],
+  "image": "https://static0.gamerantimages.com/wordpress/wp-content/uploads/2022/06/skyrim-spider-eyha.jpg",
+  "round": "R5"
+},
+{
+  "type": "open",
+  "question": "Wat is de hoofdstad van Costa Rica, gelegen in het centrale deel van het land en bekend om zijn culturele instellingen zoals het Nationaal Theater?",
+  "correct": ["San José", "San Jose"],
+  "image": "https://www.lauwers.be/media/SwingContent/1/9/7/6/0/adobestock_261488168.jpg?width=1920&rmode=min&quality=90&format=webp&token=BHHPCHFp%2BmX4RVYU%2B3R9%2FaXnJ8pEF%2FY5a44p7UgZheg%3D",
+  "round": "R5"
+},
+{
+  "type": "open",
+  "question": "Welke Ierse auteur, bekend van romans als 'Normal People' en 'Conversations with Friends', staat bekend om haar scherpe observaties van moderne relaties en sociale klasse?",
+  "correct": ["Sally Rooney","Rooney"],
+  "image": "https://prod-img.standaard.be/public/nieuws/v27qa9-sally-rooney-27-lef.-patrick-bolger/alternates/THREE_TWO_1620/Sally%20Rooney%2027%20lef.%20Patrick%20Bolger",
+  "round": "R5"
+},
+{
+  "type": "open",
+  "question": "Welke NASA spaceshuttle verongelukte tragisch in 1986 tijdens de lancering, waarbij alle zeven bemanningsleden om het leven kwamen?",
+  "correct": ["Challenger", "Space Shuttle Challenger"],
+  "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSrH5GD5-P1KThYNlYNt8EWxokni3DH8Xqxfg&s",
+  "round": "R5"
+},
+{
+  "type": "open",
+  "question": "Welke beroemde arena in New York City staat bekend als de 'World’s Most Famous Arena' en is de thuisbasis van de New York Knicks en New York Rangers?",
+  "correct": ["Madison Square Garden"],
+  "image": "https://res.cloudinary.com/hello-tickets/image/upload/c_limit,f_auto,q_auto,w_900/v1716377398/cxyhse3fqt1xadkamekr.jpg",
+  "round": "R5"
+},
+{
+  "type": "open",
+  "question": "Welke populaire Belgische televisieserie, gestart in 2013, volgt het leven van een familie van uitbaters van een autohandel en combineert drama met humor?",
+  "correct": ["Verschoten & Zoon","Verschoten en Zoon"],
+  "image": "https://images1.persgroep.net/rcs/n5TzQPezed9cP2wVwSl169Ru7z0/diocontent/232341639/_focus/0.5/0.5/_fill/1768/994?appId=3a216f06aa8c2cdd889c30f3dad70c9a&format=webp",
+  "round": "R5"
+},
+{
+  "type": "open",
+  "question": "Welk Belgisch koor, opgericht in 1968, staat bekend om zijn a capella zang en hedendaagse muziekproducties?",
+  "correct": ["Scala"],
+  "image": "https://images.hln.be/ZDg4ZDBjNGI1M2EwZTk4ZWVkMzcvZGlvLzY1MDM5MjY3L2ZpbGwvMTIwMC82NzU/scala-met-steven-amp-stijn-kolacny",
+  "round": "R5"
+},
+
+
+
+{
+  "type": "open",
+  "question": "Welke rivier in Frankrijk, een zijrivier van de Loire, zie je hier op de foto?",
+  "correct": ["Doneau","Donau"],
+  "image": "https://www.thematravel.be/sites/default/files/styles/paragraph_gallery_image_full/public/2023-03/Donau%20-%20Schlinge_1.jpg?itok=UnlT9nrv",
+  "round": "R6 - Noten"
+},
+{
+  "type": "open",
+  "question": "Welke Nederlandse meester-schilder uit de 17e eeuw staat bekend om zijn zelfportretten en het beroemde werk 'De Nachtwacht'?",
+  "correct": ["Rembrandt van Rijn","Rembrandt"],
+  "image": "https://images.tijd.be/view?iid=dc:9947540&context=ONLINE&ratio=16/9&width=640&u=1506628845000",
+  "round": "R6 - Noten"
+},
+{
+  "type": "open",
+  "question": "Welke organel in eukaryote cellen staat bekend als de 'energiecentrale' omdat het ATP produceert via cellulaire ademhaling?",
+  "correct": ["mitochondria", "mitochondrion"],
+  "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/Animal_mitochondrion_diagram_en.svg/1200px-Animal_mitochondrion_diagram_en.svg.png",
+  "round": "R6 - Noten"
+},
+{
+  "type": "open",
+  "question": "Welke autonome eilandengroep in de Noord-Atlantische Oceaan behoort tot het Koninkrijk Denemarken en staat bekend om zijn ruige landschap en rijke cultuur?",
+  "correct": ["Faroer Eilanden", "Faroe Islands"],
+  "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQAxHBK3HSu4v4zK9inz2qcsh-ndikAhyuzmA&s",
+  "round": "R6 - Noten"
+},
+{
+  "type": "open",
+  "question": "Welke rol speelt Tom Hardy in de televisieserie 'Peaky Blinders'?",
+  "correct": ["Alfie Solomons", "Solomons"],
+  "image": "https://ahandtailoredsuit.com/cdn/shop/articles/559596372162_12a4abc3-67e4-445e-b733-683e0eca2b5b.jpg?v=1735589652&width=1920",
+  "round": "R6 - Noten"
+},
+{
+  "type": "open",
+  "question": "Wie is de Russische minister van Buitenlandse Zaken, bekend om zijn lange diplomatieke carrière sinds 2004?",
+  "correct": ["Sergej Lavrov", "Sergey Lavrov","Lavrov"],
+  "image": "https://s.france24.com/media/display/a50575e8-ca20-11ec-a3ac-005056a97e36/w:1280/p:16x9/lavrov-52.jpg",
+  "round": "R6 - Noten"
+},
+{
+  "type": "open",
+  "question": "Welke religieuze gemeenschap, oorspronkelijk afkomstig uit het Punjabgebied van India, staat bekend om het dragen van turbans en het volgen van de leer van Guru Nanak?",
+  "correct": ["Sikhs", "Sikh"],
+  "image": "https://image.volkskrant.nl/228861801/width/2480/amritpal-singh-sandhu-m-hier-bij-de-gouden-tempel-van-amritsar",
+  "round": "R6 - Noten"
+},
+{
+  "type": "open",
+  "question": "Welke Amerikaanse rapster, geboren als Jaylah Ji'mya Hickmon op 14 augustus 1998 in Tampa, Florida, brak door met haar virale TikTok-hit 'Yucky Blucky Fruitcake' en won in 2025 de Grammy voor Beste Rapalbum met haar mixtape 'Alligator Bites Never Heal'?",
+  "correct": ["Doechii","Doechi"],
+  "image": "https://i0.wp.com/diva-magazine.com/wp-content/uploads/2024/12/doechii.jpg?fit=3750%2C2109&ssl=1",
+  "round": "R6 - Noten"
+},
+{
+  "type": "open",
+  "question": "Welk wereldwijd bekend sportkleding- en schoenenmerk werd opgericht in 1958 in het Verenigd Koninkrijk en is vooral bekend om zijn fitness- en hardloopschoenen?",
+  "correct": ["Reebok"],
+  "image": "https://5.imimg.com/data5/SELLER/Default/2023/4/299117706/XR/PW/GJ/183498268/whatsapp-image-2023-04-08-at-1-57-57-pm-1--500x500.jpeg",
+  "round": "R6 - Noten"
+},
+{
+  "type": "open",
+  "question": "Wie was de Franse president van 1981 tot 1995, bekend om zijn lange politieke carrière en invloedrijke rol in de Europese politiek?",
+  "correct": ["François Mitterrand","Mitterrand"],
+  "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQUCdus4ayB3qE5KmlBlcO9rTrrRBDq5QJNZw&s",
+  "round": "R6 - Noten"
+},
+
+
+
+
+{
+  "type": "open",
+  "question": "Welke populaire energiedrank, mede opgericht door YouTubers Logan Paul en KSI, werd gelanceerd in 2022 en staat bekend om zijn verschillende smaken en kleurrijke verpakkingen?",
+  "correct": ["Prime", "Prime drink"],
+  "image": "https://i.ytimg.com/vi/wACEHF2_5LE/maxresdefault.jpg",
+  "round": "R7"
+},
+{
+  "type": "open",
+  "question": "Welke Deense natuurkundige is beroemd om zijn model van het atoom en zijn bijdragen aan de kwantummechanica?",
+  "correct": ["Niels Bohr", "Bohr"],
+  "image": "https://hetatoommodel.weebly.com/uploads/9/1/0/2/91026758/atoom-bohr_orig.jpg",
+  "round": "R7"
+},
+{
+  "type": "open",
+  "question": "Wie is de presentator van het Vlaamse televisieprogramma 'Terzake', bekend om zijn diepgaande interviews en maatschappelijke thema's?",
+  "correct": ["Eric Goens","Goens"],
+  "image": "https://image.humo.be/256174256/feature-crop/1200/675/afbeelding",
+  "round": "R7"
+},
+{
+  "type": "open",
+  "question": "Welk van de volgende dieren behoort tot de Afrikaanse 'Big Five' en staat bekend om zijn dikke huid en indrukwekkende hoorn(en)?",
+  "correct": ["Neushoorn", "Rhino", "Rhinoceros"],
+  "image": "https://media.tacdn.com/media/attractions-splice-spp-674x446/06/6c/2e/e6.jpg",
+  "round": "R7"
+},
+{
+  "type": "open",
+  "question": "Welke bergketen vormt de natuurlijke grens tussen Europa en Azië en ligt tussen de Zwarte Zee en de Kaspische Zee?",
+  "correct": ["Kaukasus", "Caucasus"],
+  "image": "https://media-cdn.tripadvisor.com/media/attractions-splice-spp-674x446/11/65/51/95.jpg",
+  "round": "R7"
+},
+{
+  "type": "open",
+  "question": "Welke Belgische kunstenaar, bekend om zijn expressieve en symbolistische schilderijen met maskers en carnavalscènes ('De intrige' op de afbeelding), wordt beschouwd als een pionier van het moderne expressionisme?",
+  "correct": ["James Ensor", "Ensor"],
+  "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTqAnlq45Q9hl3XtGtzdOrCiSOWeX6Dp0uNIQ&s",
+  "round": "R7"
+},
+{
+  "type": "open",
+  "question": "Welke gebeurtenis in november 1938, ook wel bekend als de 'Night of Broken Glass', markeerde een escalatie van geweld tegen Joden in nazi-Duitsland?",
+  "correct": ["Kristalnacht", "Night of Broken Glass"],
+  "image": "https://www.kijkmagazine.nl/app/uploads/sites/3/2020/05/kristallnacht.jpg",
+  "round": "R7"
+},
+{
+  "type": "open",
+  "question": "Welke NFL-team uit Philadelphia, opgericht in 1933, staat bekend om hun groene en witte kleuren en won hun eerste Super Bowl in 2018?",
+  "correct": ["Philadelphia Eagles", "Eagles","the Eagles"],
+  "image": "https://villanovan.com/wp-content/uploads/2025/03/Philadelphia-Eagles-Logo-eagle-drawing-1200x900.jpg",
+  "round": "R7"
+},
+{
+  "type": "open",
+  "question": "Welke epische oorlogsfilm uit 1998, geregisseerd door Steven Spielberg, volgt een missie om een soldaat te redden tijdens de Tweede Wereldoorlog?",
+  "correct": ["Saving Private Ryan"],
+  "image": "https://d-dayinfo.org/wp-content/uploads/2018/12/spr-miller-ryan.jpg",
+  "round": "R7"
+},
+{
+  "type": "open",
+  "question": "Wie is de beroemde Belgische schrijver en dichter, bekend van werken zoals 'Het verdriet van België'?",
+  "correct": ["Hugo Claus","Claus"],
+  "image": "https://literatuurmuseum.nl/media/uploads/image/Claus04-1980x_-quality(80).jpg",
+  "round": "R7"
+},
+
+
+
+{
+  "type": "open",
+  "question": "Welke seksueel overdraagbare aandoening, die ook veel voorkomt bij koala's, wordt veroorzaakt door een bacterie en verloopt vaak zonder symptomen?",
+  "correct": ["Chlamydia", "Chlamidia"],
+  "image": "https://d1jyxxz9imt9yb.cloudfront.net/medialib/1594/image/s1300x1300/DR_2020-01-18_Koroit-Victoria-AU_Bushfires-MosswoodWildlife-RescuedKoalas_1D_MelanieMahoney_094V1077_reduced.jpg",
+  "round": "R8"
+},
+{
+  "type": "open",
+  "question": "Welke pittige saus uit Noord-Afrika, gemaakt van chilipepers, knoflook en specerijen, wordt vaak gebruikt om gerechten extra smaak en warmte te geven?",
+  "correct": ["Harissa", "Harissa saus"],
+  "image": "https://assets.tmecosys.com/image/upload/t_web_rdp_recipe_584x480/img/recipe/ras/Assets/d84ccf8d-e9c3-406a-ac72-2c83a9dd2631/Derivates/77efbce3-a2cd-4727-a887-7405f6e9209f.jpg",
+  "round": "R8"
+},
+{
+  "type": "open",
+  "question": "Welke catchphrase riep het personage Jasmijn vaak wanneer ze het studentenhuis binnenkwam in het Vlaamse tv-programma W817?",
+  "correct": ["Iep", "Iep!"],
+  "image": "https://images3.persgroep.net/rcs/-trOALXmIBYP78fAw_pvuDJFo6E/diocontent/241906891/_fitwidth/1400?appId=038a353bad43ac27fd436dc5419c256b&quality=0.8",
+  "round": "R8"
+},
+{
+  "type": "open",
+  "question": "Welke Vlaamse radiopresentator en DJ is vooral bekend van zijn werk bij Studio Brussel?",
+  "correct": ["Raf Coppens","Coppens"],
+  "image": "https://www.nuus.be/wp-content/uploads/2020/01/5af94231-raf-coppens-stand-up-2-770x465.jpg",
+  "round": "R8"
+},
+{
+  "type": "open",
+  "question": "Wat is de term voor een woord dat het geluid nabootst dat het beschrijft, zoals 'toktok' voor het geluid van een vogel?",
+  "correct": ["Onomatopee", "Onomatopeeën"],
+  "image": "https://schrijf.be/images/blog/onomatopee_strip.jpg",
+  "round": "R8"
+},
+{
+  "type": "open",
+  "question": "Wat is de naam van de grootste Duitse luchtvaartmaatschappij en een van de grootste luchtvaartbedrijven in Europa?",
+  "correct": ["Lufthansa"],
+  "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQqQ2_GiPFIlre02b1P4y57jb3H5b3ZoRGRew&s",
+  "round": "R8"
+},
+{
+  "type": "open",
+  "question": "Welke Amerikaanse staat in het Midwesten staat bekend om zijn uitgestrekte landbouwgebieden en speelt een belangrijke rol in de eerste voorverkiezingen tijdens presidentscampagnes?",
+  "correct": ["Iowa"],
+  "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/60/Map_of_USA_IA.svg/1200px-Map_of_USA_IA.svg.png",
+  "round": "R8"
+},
+{
+  "type": "open",
+  "question": "Hoe heet het bedrijf dat wereldwijd bekend werd door het ontwikkelen van het populaire spel Candy Crush Saga?",
+  "correct": ["King"],
+  "image": "https://www.king.com/media/r3dbpf3e/candycrush.webp?width=1200&height=627&v=133867610452900000&format=webp&quality=85",
+  "round": "R8"
+},
+{
+  "type": "open",
+  "question": "Wat is de naam van de hond van stripfiguur Lucky Luke, bekend om zijn traagheid en droogkomische karakter?",
+  "correct": ["Rantanplan","Ratanplan"],
+  "image": "https://static.animeguides.com/guides/rantanplan/rantanplan1.jpg",
+  "round": "R8"
+},
+{
+  "type": "open",
+  "question": "Welke Belgische muzikant, wereldberoemd om zijn mondharmonicaspel, werkte samen met artiesten als Ella Fitzgerald en Quincy Jones?",
+  "correct": ["Toots Thielemans", "Jean 'Toots' Thielemans", "Toots"],
+  "image": "https://www.jazzism.nl/wp-content/uploads/2022/04/Toots-Thielemans-.jpeg",
+  "round": "R8"
+}
+  ]
+}
