@@ -1,7 +1,7 @@
 const QUIZZES = {
   "Alle Quizzen": "quizzes/alles.json",
-  "Quiz My Ass": "quizzes/quiz1.json",
-  "De Grote Mei Quiz": "quizzes/quiz2.json"
+  "Quiz My Ass": "quizzes/quiz-questions.json",
+  "De Grote Mei Quiz": "quizzes/quiz-questions2.json"
 };
 
 let questions = [];
