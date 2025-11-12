@@ -73,7 +73,7 @@
       "correct": ["Albanië","Albanie"],
       "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/Flag_of_Albania.svg/640px-Flag_of_Albania.svg.png",
       "round": "ABC",
-      "Thema": "Geographie"
+      "Thema": "Geografie"
     },
     {
       "type": "open",
@@ -176,9 +176,9 @@
       "type": "open",
       "question": "Welke vlag zie je hier?",
       "correct": "Qatar",
-      "image": "https://img.goodfon.com/original/5000x3334/0/d0/qatari-qatar-flag-of-qatar-qatar-large-flag-flag.jpg",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/Flag_of_Qatar_%283-2%29.svg/2560px-Flag_of_Qatar_%283-2%29.svg.png",
       "round": "ABC",
-      "Thema": "Geographie"
+      "Thema": "Geografie"
     },
     {
       "type": "open",
@@ -253,7 +253,7 @@
       "correct": ["bosporus", "de bosporus"],
       "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ea/Istanbul_and_Bosporus_big.jpg/960px-Istanbul_and_Bosporus_big.jpg",
       "round": "R1",
-      "Thema": "Geographie"
+      "Thema": "Geografie"
     },
     {
       "type": "open",
@@ -336,7 +336,7 @@
   "correct": ["Yellowstone"],
   "image": "https://amerika.be/wp-content/uploads/2019/10/yellowstone-national-park.jpg",
   "round": "Kleur",
-  "Thema": "Geographie"
+  "Thema": "Geografie"
 },
 {
   "type": "open",
@@ -419,7 +419,7 @@
   "correct": ["North Sentinel Island", "Noord-Sentinel eiland", "Noord Sentinel Island"],
   "image": "https://i.natgeofe.com/n/5a042595-bdb4-4fe1-aeac-5e50cd104ba4/01_sentinel_840149.jpg",
   "round": "R3",
-  "Thema": "Geographie"
+  "Thema": "Geografie"
 },
 {
   "type": "open",
@@ -586,7 +586,7 @@
   "correct": ["San José", "San Jose"],
   "image": "https://www.lauwers.be/media/SwingContent/1/9/7/6/0/adobestock_261488168.jpg?width=1920&rmode=min&quality=90&format=webp&token=BHHPCHFp%2BmX4RVYU%2B3R9%2FaXnJ8pEF%2FY5a44p7UgZheg%3D",
   "round": "R5",
-  "Thema": "Geographie"
+  "Thema": "Geografie"
 },
 {
   "type": "open",
@@ -637,7 +637,7 @@
   "correct": ["Doneau","Donau"],
   "image": "https://www.thematravel.be/sites/default/files/styles/paragraph_gallery_image_full/public/2023-03/Donau%20-%20Schlinge_1.jpg?itok=UnlT9nrv",
   "round": "R6 - Noten",
-  "Thema": "Geographie"
+  "Thema": "Geografie"
 },
 {
   "type": "open",
@@ -661,7 +661,7 @@
   "correct": ["Faroer Eilanden", "Faroe Islands"],
   "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQAxHBK3HSu4v4zK9inz2qcsh-ndikAhyuzmA&s",
   "round": "R6 - Noten",
-  "Thema": "Geographie"
+  "Thema": "Geografie"
 },
 {
   "type": "open",
@@ -753,7 +753,7 @@
   "correct": ["Kaukasus", "Caucasus"],
   "image": "https://media-cdn.tripadvisor.com/media/attractions-splice-spp-674x446/11/65/51/95.jpg",
   "round": "R7",
-  "Thema": "Geographie"
+  "Thema": "Geografie"
 },
 {
   "type": "open",
@@ -852,7 +852,7 @@
   "correct": ["Iowa"],
   "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/60/Map_of_USA_IA.svg/1200px-Map_of_USA_IA.svg.png",
   "round": "R8",
-  "Thema": "Geographie"
+  "Thema": "Geografie"
 },
 {
   "type": "open",
