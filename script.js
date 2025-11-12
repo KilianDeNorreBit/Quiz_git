@@ -24,6 +24,7 @@ const progress = document.getElementById("progress");
 const finalScore = document.getElementById("final-score");
 const scoreboardDiv = document.getElementById("scoreboard");
 const quizButtons = document.getElementById("quiz-buttons");
+const returnBtn = document.getElementById('returnBtn');
 
 function shuffle(array) {
   return array.map(a => ({ sort: Math.random(), value: a }))
@@ -162,3 +163,10 @@ Object.keys(QUIZZES).forEach(key => {
 });
 
 showMenu();
+
+returnBtn.addEventListener('click', () => {
+  showMenu();
+});
+
+
+

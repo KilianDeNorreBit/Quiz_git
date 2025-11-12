@@ -63,12 +63,16 @@ button:hover {
 }
 
 #open-input {
-  width: 100%;
+width: 100%;
   padding: 10px;
   border-radius: 8px;
   border: 1px solid #333;
   margin-top: 10px;
+  box-sizing: border-box; /* Include padding and border in width calculation */
+  padding-left: 15px;  /* Optional: Add more space on the left */
+  padding-right: 15px; /* Optional: Add more space on the right */
 }
+
 
 #question-image {
   width: 100%;
@@ -87,3 +91,19 @@ button:hover {
   color: #fff;
   margin: 3px 0;
 }
+
+.return-btn {
+  background-color: #00bcd4;
+  border: none;
+  color: #fff;
+  padding: 10px 20px;
+  margin: 10px;
+  border-radius: 20px;
+  cursor: pointer;
+  transition: background 0.3s;
+}
+
+.return-btn:hover {
+  background-color: #0198a3;
+}
+
