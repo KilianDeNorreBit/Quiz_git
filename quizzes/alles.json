@@ -870,6 +870,27 @@
   "round": "R8",
   "Thema": "Muziek"
 },
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 {
   "type": "open",
   "question": "Hoe heet het AI-platform van Google dat in 2023 werd gelanceerd als opvolger van Bard?",
@@ -1003,7 +1024,7 @@
 },
 {
   "type": "open",
-  "question": "Welke kleur heeft het leiderstrui in de Giro d'Italia, de prestigieuze wielerwedstrijd?",
+  "question": "Wat is de officiele naam van de leiderstrui in de Giro d'Italia, de prestigieuze wielerwedstrijd?",
   "correct": ["Maglia rosa"],
   "image": "https://imgs.search.brave.com/3XFtBOOcFiYNcLwgTPH0f_aEgyXhkX260THrc0hPEkg/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9jZG4u/bW9zLmNtcy5mdXR1/cmVjZG4ubmV0L1dl/bUFwNlhGcnlkc3Br/b2dSaHVTSjYuanBn",
   "round": "R3 - Rode draad (Thuis)",
