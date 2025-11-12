@@ -5,63 +5,72 @@
   "question": "Hoe heet het AI-platform van Google dat in 2023 werd gelanceerd als opvolger van Bard?",
   "correct": "Gemeni",
   "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRzrdJ8uOj5T51mZdRGB-6H0QizVomAIUcfEw&s",
-  "round": "R1 - Dieren"
+  "round": "R1 - Dieren",
+  "Thema": "IT & Games"
 },
 {
   "type": "open",
   "question": "Voor welke Franse club speelde Karim Benzema voordat hij naar Real Madrid vertrok?",
   "correct": ["Lyon","Olympique Lyonnais","Lyon FC"],
   "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ-q-h23iFbmDdZ9OfORXYYk25Lbc273uvXvFvByYrI5jDkd9iOXbq-KN3vicpejeGjR_0&usqp=CAU",
-  "round": "R1 - Dieren"
+  "round": "R1 - Dieren",
+  "Thema": "Sport"
 },
 {
   "type": "open",
   "question": "In welke Duitse stad vond op 13 februari 2025 een aanslag plaats waarbij een auto inreed op een menigte tijdens een vakbondsdemonstratie?",
   "correct": ["München","Munchen"],
   "image": "https://images.tijd.be/view?iid=Elvis:9uPUdf3oaKs9TnmEoxUdQW&context=ONLINE&ratio=16/9&width=640&u=1739450030000",
-  "round": "R1 - Dieren"
+  "round": "R1 - Dieren",
+  "Thema": "Geographie"
 },
 {
   "type": "open",
   "question": "Hoe heet het accessoire van Nintendo dat samen met Wii Fit werd uitgebracht en lichaamsbewegingen registreert?",
   "correct": ["Wii Balance Board","Balance Board"],
   "image": "https://media.s-bol.com/QNz75OANpw1l/z661Jy/550x369.jpg",
-  "round": "R1 - Dieren"
+  "round": "R1 - Dieren",
+  "Thema": "IT & Games"
 },
 {
   "type": "open",
   "question": "Welke sport beoefende de Belgische atleet Paul Vermeiren, die deelnam aan drie Olympische Spelen?",
   "correct": ["Boogschieten", "Boogschutter","Boogschutten"],
   "image": "https://images.vrt.be/width1280/2020/04/21/6e942539-83c5-11ea-aae0-02b7b76bf47f.jpg",
-  "round": "R1 - Dieren"
+  "round": "R1 - Dieren",
+  "Thema": "Sport"
 },
 {
   "type": "open",
   "question": "Hoe heet het mythische wezen uit de Griekse mythologie dat half mens en half stier is en in het labyrint op Kreta leefde?",
   "correct": ["Minotaurus", "Minotaur"],
   "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/Tondo_Minotaur_London_E4_MAN.jpg/1200px-Tondo_Minotaur_London_E4_MAN.jpg",
-  "round": "R1 - Dieren"
+  "round": "R1 - Dieren",
+  "Thema": "Cultuur"
 },
 {
   "type": "open",
   "question": "Wat is de naam van het bekende merk dat al sinds 1888 luxe balpennen en vulpennen produceert, waaronder de Jotter en Duofold?",
   "correct": ["Parker"],
   "image": "https://www.penworld.be/media/catalog/product/cache/d043c7a7ec1c468522a299a55a30bc9f/1/9/1931495_3.jpg",
-  "round": "R1 - Dieren"
+  "round": "R1 - Dieren",
+  "Thema": "Cultuur"
 },
 {
   "type": "open",
   "question": "Hoe heet de goddelijke prins en incarnatie van Vishnoe in het hindoeïsme, bekend van het epos Ramayana?",
   "correct": ["Rama"],
   "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/Lord_Rama_with_arrows.jpg/1200px-Lord_Rama_with_arrows.jpg",
-  "round": "R1 - Dieren"
+  "round": "R1 - Dieren",
+  "Thema": "Cultuur"
 },
 {
   "type": "open",
   "question": "Welke Duitse rockband bracht in 1990 het nummer 'Wind of Change' uit, dat symbool stond voor het einde van de Koude Oorlog?",
   "correct": ["Scorpions"],
   "image": "https://www.rollingstone.com/wp-content/uploads/2018/06/rs-202796-Scorpions_Return-To-Forever_c-Oliver-Rath_02-66642158.jpg?w=1600&h=900&crop=1",
-  "round": "R1 - Dieren"
+  "round": "R1 - Dieren",
+  "Thema": "Muziek"
 },
 
 
@@ -71,49 +80,64 @@
   "question": "Hoe heet de kwaadaardige marionettenspeler en circusdirecteur in het verhaal van Pinokkio?",
   "correct": ["Stromboli"],
   "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSS40-kghewa44snYdt3m8FaQm0CguMsadBXA&s",
-  "round": "R2"
+  "round": "R2",
+  "Thema": "Shows & Films"
 },
 {
   "type": "open",
   "question": "Hoe heet de fictieve maan die het decor vormt voor de film 'Avatar' van James Cameron?",
   "correct": ["Pandora"],
   "image": "https://www.slashfilm.com/img/gallery/the-real-forest-that-inspired-avatars-pandora/l-intro-1645034454.jpg",
-  "round": "R2"
+  "round": "R2",
+  "Thema": "Shows & Films"
 },
 {
   "type": "open",
   "question": "Wat was de naam van de applicatie die het meest gebruikt werd tijdens het optreden van Angèle?",
   "correct": ["Shazam"],
   "image": "https://i.scdn.co/image/ab6761610000e5eb2aefdc0f42eef75a60b341dd",
-  "round": "R2"
+  "round": "R2",
+  "Thema": "IT & Games"
 },
 {
   "type": "open",
   "question": "Hoe heet de man die in 2024 beschuldigd werd van de moord op Brian Thompson, de CEO van UnitedHealthcare?",
   "correct": ["Luigi Nicholas Mangione", "Luigi Mangione","Luigi"],
   "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQZAMBqwAC9p5Q9RW2H9plD2U1ve3AofDHLTg&s",
-  "round": "R2"
+  "round": "R2",
+  "Thema": "Cultuur"
 },
 {
   "type": "open",
   "question": "Wat is de naam van de omstreden methode om olie en gas uit diepe gesteentelagen te winnen door onder hoge druk vloeistof in de aarde te pompen?",
   "correct": ["Fracking"],
   "image": "https://blog.dixonvalve.com/hs-fs/hubfs/Blog/2018/What%20is%20Fracking/frac%20drilling%20diagram.jpg?width=612&height=612&name=frac%20drilling%20diagram.jpg",
-  "round": "R2"
+  "round": "R2",
+  "Thema": "Natuur"
 },    
 {
   "type": "open",
   "question": "Wie werd in 2023 de jongste speler ooit die debuteerde én scoorde voor het Spaanse nationale elftal?",
   "correct": ["Lamine Yamal", "Yamal"],
   "image": "https://www.aljazeera.com/wp-content/uploads/2025/04/GettyImages-2212791115-1746042016.jpg?resize=770%2C513&quality=80",
-  "round": "R2"
+  "round": "R2",
+  "Thema": "Sport"
 },
 {
   "type": "open",
   "question": "Waarvoor staat de afkorting 'NPC' in videogames, waarmee een personage wordt bedoeld dat niet door een speler bestuurd wordt?",
   "correct": ["Non-Playable Character", "Non Playable Character"],
   "image": "https://images.ladbible.com/resize?type=webp&quality=70&width=3840&fit=contain&gravity=auto&url=https://images.ladbiblegroup.com/v3/assets/bltbc1876152fcd9f07/blt1705ca9479884fbb/679b91ab20bd9d318491fde8/skyrim_guard.png",
-  "round": "R2"
+  "round": "R2",
+  "Thema": "IT & Games"
+},
+{
+  "type": "open",
+  "question": "Welke kleur heeft het leiderstrui in de Giro d'Italia, de prestigieuze wielerwedstrijd?",
+  "correct": ["Maglia rosa"],
+  "image": "https://imgs.search.brave.com/3XFtBOOcFiYNcLwgTPH0f_aEgyXhkX260THrc0hPEkg/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9jZG4u/bW9zLmNtcy5mdXR1/cmVjZG4ubmV0L1dl/bUFwNlhGcnlkc3Br/b2dSaHVTSjYuanBn",
+  "round": "R3 - Rode draad (Thuis)",
+  "Thema": "Sport"
 }
 
 

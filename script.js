@@ -5,9 +5,11 @@ const QUIZZES = {
 };
 
 let questions = [];
+let allQuestions = [];
 let current = 0;
 let score = 0;
 let selectedQuiz = null;
+let selectedTheme = null;
 let scoreboard = JSON.parse(localStorage.getItem("scoreboard") || "[]");
 
 const menu = document.getElementById("menu");
@@ -24,7 +26,8 @@ const progress = document.getElementById("progress");
 const finalScore = document.getElementById("final-score");
 const scoreboardDiv = document.getElementById("scoreboard");
 const quizButtons = document.getElementById("quiz-buttons");
-const returnBtn = document.getElementById('returnBtn');
+const themeButtons = document.getElementById("theme-buttons");
+const returnBtn = document.getElementById("returnBtn");
 
 function shuffle(array) {
   return array.map(a => ({ sort: Math.random(), value: a }))
@@ -34,7 +37,7 @@ function shuffle(array) {
 
 function renderScoreboard() {
   if (scoreboard.length === 0) return;
-  scoreboardDiv.innerHTML = "<h3>Past Scores</h3>" + 
+  scoreboardDiv.innerHTML = "<h3>Past Scores</h3>" +
     scoreboard.map(e => `<p>${e.quiz}: ${e.score} / ${e.total}</p>`).join("");
 }
 
@@ -47,10 +50,12 @@ function showMenu() {
 
 function startQuiz(name) {
   selectedQuiz = name;
+  selectedTheme = null;
   fetch(QUIZZES[name])
     .then(res => res.json())
     .then(data => {
-      questions = shuffle(data.questions).map(q => ({
+      allQuestions = data.questions;
+      questions = shuffle(allQuestions).map(q => ({
         ...q,
         answers: q.answers ? shuffle(q.answers) : []
       }));
@@ -60,8 +65,32 @@ function startQuiz(name) {
       resultDiv.classList.add("hidden");
       quizDiv.classList.remove("hidden");
       showQuestion();
+      renderThemes(allQuestions);
     })
     .catch(err => alert("Error loading quiz: " + err));
+}
+
+function renderThemes(qs) {
+  const themes = [...new Set(qs.map(q => q.Thema))].sort();
+  themeButtons.innerHTML = "";
+  themes.forEach(theme => {
+    const btn = document.createElement("button");
+    btn.textContent = theme;
+    btn.onclick = () => startTheme(theme);
+    themeButtons.appendChild(btn);
+  });
+}
+
+function startTheme(theme) {
+  selectedTheme = theme;
+  questions = shuffle(allQuestions.filter(q => q.Thema === theme))
+    .map(q => ({ ...q, answers: q.answers ? shuffle(q.answers) : [] }));
+  current = 0;
+  score = 0;
+  menu.classList.add("hidden");
+  quizDiv.classList.remove("hidden");
+  resultDiv.classList.add("hidden");
+  showQuestion();
 }
 
 function showQuestion() {
@@ -74,7 +103,7 @@ function showQuestion() {
 
   questionText.textContent = q.question;
   progress.textContent = `${current + 1} / ${questions.length}`;
-  
+
   if (q.image) {
     questionImage.src = q.image;
     questionImage.classList.remove("hidden");
@@ -148,13 +177,28 @@ function nextQuestion() {
 function endQuiz() {
   quizDiv.classList.add("hidden");
   resultDiv.classList.remove("hidden");
+
+  // Determine how to label the quiz result
+  let label;
+  if (selectedQuiz && selectedTheme) {
+    label = `${selectedQuiz} (${selectedTheme})`;
+  } else if (selectedTheme) {
+    label = selectedTheme;
+  } else {
+    label = selectedQuiz || "Unknown Quiz";
+  }
+
   finalScore.textContent = `Score: ${score} / ${questions.length}`;
-  scoreboard.push({ quiz: selectedQuiz, score, total: questions.length });
+
+  scoreboard.push({ quiz: label, score, total: questions.length });
   localStorage.setItem("scoreboard", JSON.stringify(scoreboard));
 }
 
-document.getElementById("back-btn").onclick = showMenu;
 
+document.getElementById("back-btn").onclick = showMenu;
+returnBtn.addEventListener('click', showMenu);
+
+// === QUIZ SELECTION BUTTONS ===
 Object.keys(QUIZZES).forEach(key => {
   const btn = document.createElement("button");
   btn.textContent = key.toUpperCase();
@@ -162,11 +206,22 @@ Object.keys(QUIZZES).forEach(key => {
   quizButtons.appendChild(btn);
 });
 
+// === LOAD THEMES FROM alles.json ON STARTUP ===
+fetch("quizzes/alles.json")
+  .then(res => res.json())
+  .then(data => {
+    allQuestions = data.questions;
+    renderThemes(allQuestions); // build the theme buttons immediately
+  })
+  .catch(err => console.warn("Could not load themes:", err));
+
+// === RETURN & MENU ===
+document.getElementById("back-btn").onclick = showMenu;
+returnBtn.addEventListener('click', showMenu);
+
 showMenu();
 
-returnBtn.addEventListener('click', () => {
-  showMenu();
-});
+
 
 
 
