@@ -1029,6 +1029,526 @@
   "image": "https://imgs.search.brave.com/3XFtBOOcFiYNcLwgTPH0f_aEgyXhkX260THrc0hPEkg/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9jZG4u/bW9zLmNtcy5mdXR1/cmVjZG4ubmV0L1dl/bUFwNlhGcnlkc3Br/b2dSaHVTSjYuanBn",
   "round": "R3 - Rode draad (Thuis)",
   "Thema": "Sport"
+},
+{
+"type": "open",
+"question": "Wat is de naam van het dorp waar de Efteling zich bevindt?",
+"correct": ["Kaatsheuvel"],
+"image": "https://www.efteling.com/nl/-/media/images/apps/379x245-efteling-kids-app-key-visual-2.jpg?w=640&hash=A1EAEEC265754F38AF4D03986C557758",
+"round": "R3 - Rode draad (Thuis)",
+"Thema": "Cultuur"
+},
+{
+"type": "open",
+"question": "Hoe heet een gebakken ei waarvan de dooier zichtbaar bovenop blijft, dus niet wordt omgedraaid tijdens het bakken?",
+"correct": ["Sunny side up"],
+"image": "https://www.seriouseats.com/thmb/RLhIA1_2ZVdLa-uPVV9YRt75g20=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/__opt__aboutcom__coeus__resources__content_migration__serious_eats__seriouseats.com__recipes__images__2017__07__20170728-sunny-side-up-eggs-vicky-wasik-d07c5480d72e49cc85689c1d6d88495e.jpg",
+"round": "R3 - Rode draad (Thuis)",
+"Thema": "Gastronomie"
+},
+{
+"type": "open",
+"question": "Hoe noem je een meisje dat zich stoerder of jongensachtiger gedraagt en kleedt dan traditioneel van haar wordt verwacht?",
+"correct": ["Tomboy"],
+"image": "https://assets.vogue.com/photos/58912d764fe1526113020542/master/pass/holding-sexy-tomboy.jpg",
+"round": "R3 - Rode draad (Thuis)",
+"Thema": "Cultuur"
+},
+{
+"type": "open",
+"question": "Welk Italiaans nagerecht wordt vaak gemaakt met room, suiker, gelatine en vanille, en geserveerd met bijvoorbeeld rood fruit of karamelsaus?",
+"correct": ["Panna cotta"],
+"image": "https://www.recipetineats.com/tachyon/2025/09/Panna-cotta_8-close-up.jpg",
+"round": "R3 - Rode draad (Thuis)",
+"Thema": "Gastronomie"
+},
+{
+"type": "open",
+"question": "Hoe heet het managementprincipe dat stelt dat mensen in een organisatie worden gepromoveerd tot het niveau waarop ze incompetent worden?",
+"correct": ["Peter Principle"],
+"image": "https://lh5.googleusercontent.com/proxy/ZS-PCPISTvpgEuucVXB5qZGXjueXpMC2zM_TP5yjhhHtz1DkGNWCnwQvbSCICWNZ3xb18VOqG2MT8LdXehgxnXvZhz_UoaQkcSTy0S3ch_0prb6mAPlQBIkDvMjr",
+"round": "R3 - Rode draad (Thuis)",
+"Thema": "Cultuur"
+},
+{
+"type": "open",
+"question": "Welke Amerikaanse zangeres, pianiste en burgerrechtenactiviste werd beroemd met nummers als 'Feeling Good' en 'Sinnerman'?",
+"correct": ["Nina Simone"],
+"image": "https://hips.hearstapps.com/hmg-prod/images/headshot-portrait-of-american-pianist-and-jazz-singer-nina-news-photo-1683651529.jpg?crop=1.00xw:0.890xh;0,0&resize=1200:*",
+"round": "R3 - Rode draad (Thuis)",
+"Thema": "Muziek"
+},
+{
+"type": "open",
+"question": "Welk Frans merk, bekend om zijn gietijzeren kookpotten in oranje tinten, wordt vaak gezien als een icoon in de keukenwereld?",
+"correct": ["Le Creuset"],
+"image": "https://www.lecreuset.be/on/demandware.static/-/Library-Sites-lc-sharedLibrary/default/dw18139fb9/images/2023/H2/Evergreen/Casserole%20Size%20Guide/2023_H2_Size%20Guide%20Page_Header%20Image_960x540_01.jpg",
+"round": "R4",
+"Thema": "Gastronomie"
+},
+{
+"type": "open",
+"question": "Wat is de titel van de animatiefilm uit 2011, geregisseerd door Steven Spielberg, die gebaseerd is op de avonturen van Kuifje?",
+"correct": ["The Adventures of Tintin", "The Adventures of Tintin: The Secret of the Unicorn"],
+"image": "",
+"round": "R4",
+"Thema": "Shows & Films"
+},
+{
+"type": "open",
+"question": "Hoe heet het flexibele, natuurlijke materiaal dat vaak wordt gebruikt voor het maken van meubels, manden en stoelen, en afkomstig is van een tropische liaan?",
+"correct": ["Rotan"],
+"image": "https://www.xenos.nl/pub/cdn/617404/800/617404B.jpg",
+"round": "R4",
+"Thema": "Natuur"
+},
+{
+"type": "open",
+"question": "Hoe heet het fenomeen waarbij grote groepen mensen zich iets anders herinneren dan hoe het werkelijk is gebeurd, vaak genoemd naar een beroemde Zuid-Afrikaanse leider?",
+"correct": ["Mandela Effect"],
+"image": "https://media-cldnry.s-nbcnews.com/image/upload/t_fit-1500w,f_auto,q_auto:best/rockcms/2023-07/mandela-effect-ob-da28d3.jpg",
+"round": "R4",
+"Thema": "Cultuur"
+},
+{
+"type": "open",
+"question": "Welke naam wordt gebruikt voor de Amerikaanse singer-songwriter bekend van emotionele pop- en soulnummers, vaak geassocieerd met persoonlijke teksten en intieme optredens?",
+"correct": ["Haley Welch"],
+"image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR8DMRKDTVqU2Ngl6j5cTIRMHgZoKHTAJt5qg&s",
+"round": "R4",
+"Thema": "Cultuur"
+},
+{
+"type": "open",
+"question": "Hoe wordt de Nederlandse zangeres genoemd die vooral bekend is van nummers als 'Vandaag' en 'Altijd' en die optreedt onder een pseudoniem in plaats van haar echte naam?",
+"correct": ["Zangeres Zonder Naam"],
+"image": "https://cms-assets.nporadio.nl/npoSterrennl/_articleHeaderS/Zangeres-Zonder-Naam_WEB.jpg?v=1722413121",
+"round": "R4",
+"Thema": "Muziek"
+},
+{
+"type": "open",
+"question": "Welke god uit de Noordse mythologie staat bekend als de oppergod, vader van Thor, en god van wijsheid, oorlog en dood?",
+"correct": ["Odin"],
+"image": "https://static.wikia.nocookie.net/marvelcinematicuniverse/images/0/02/Odin_Infobox.png/revision/latest?cb=20250203212940",
+"round": "R6 - Getallen",
+"Thema": "Cultuur"
+},
+{
+"type": "open",
+"question": "Welke Chinese stad kreeg wereldwijd veel aandacht in 2020 als het centrum van de uitbraak van het coronavirus?",
+"correct": ["Wuhan"],
+"image": "https://www.science.org/do/10.1126/science.aba8829/full/wuhancity_1280p-1675064559297.jpg",
+"round": "R6 - Getallen",
+"Thema": "Geografie"
+},
+{
+"type": "open",
+"question": "Welke populaire Netflix-serie volgt het leven van de tiener Otis en zijn klasgenoten terwijl ze navigeren door relaties, seksualiteit en persoonlijke problemen?",
+"correct": ["Sex Education"],
+"image": "https://deadline.com/wp-content/uploads/2020/01/sexeducation-e1587107829137.jpg",
+"round": "R6 - Getallen",
+"Thema": "Shows & Films"
+},
+{
+"type": "open",
+"question": "Welke Belgische deelnemer was een zangeres in de televisiequiz 'De Verraders'?",
+"correct": ["Charlotte Sieben"],
+"image": "https://m.media-amazon.com/images/M/MV5BNWMzMmNlN2ItYWYxYS00ZDk2LWI5OWYtOTc2OGFiZDNiN2RiXkEyXkFqcGc@._V1_.jpg",
+"round": "R6 - Getallen",
+"Thema": "Shows & Films"
+},
+{
+"type": "open",
+"question": "In welke Belgische stad werd de beruchte seriemoordenaar en kinderverkrachter Marc Dutroux gearresteerd en veroordeeld?",
+"correct": ["Marcinelle", "Charleroi"],
+"image": "https://images.vrt.be/orig/2021/08/13/4ce30499-fbe9-11eb-b07d-02b7b76bf47f.jpg",
+"round": "R6 - Getallen",
+"Thema": "Geschiedenis"
+},
+{
+"type": "open",
+"question": "Welke Britse rockband uit de jaren 70 is bekend van hits als 'I'm Not in Love' en 'Dreadlock Holiday'?",
+"correct": ["10cc"],
+"image": "",
+"round": "R6 - Getallen",
+"Thema": "Muziek"
+},
+{
+"type": "open",
+"question": "Welke Belgische zanger, voluit Serge Quisquater, vertegenwoordigde België op het Eurovisiesongfestival en is ook bekend van zijn muzikale carrière?",
+"correct": ["Sergio"],
+"image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTpLtwmHaejACGhPnTssUzfBJYbt1sbjvaH338w7FUiEdqRr8h6Su40eQej6TCZT_rCrxxKcBKp-GSJfOEYCW5bWh2YkgYiiIlgdOnfTg&s=10",
+"round": "R7",
+"Thema": "Muziek"
+},
+{
+"type": "open",
+"question": "Wie is de premier van Portugal in 2024?",
+"correct": ["Luís Montenegro"],
+"image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRJtPkeMCzRiQHkJyyNLYEGr3Nbm3O25f5xyw&s",
+"round": "R7",
+"Thema": "Politiek"
+},
+{
+"type": "open",
+"question": "Welk Amerikaanse merk voor huishoudelijke bewaardozen werd populair via thuisdemonstraties en direct‑verkoop?" ,
+"correct": ["Tupperware"],
+"image": "https://m.media-amazon.com/images/I/71sV0M8-FOL.jpg",
+"round": "R7",
+"Thema": "Gastronomie"
+},
+{
+"type": "open",
+"question": "Waar staat de 'T' voor in de benaming 'T-trein', de intercitytreinen in België?",
+"correct": ["Toerist"],
+"image": "",
+"round": "R7",
+"Thema": "Cultuur"
+},
+{
+"type": "open",
+"question": "Welke voormalige zwarte voetballer uit Guinee speelde in het verleden voor RSC Anderlecht?",
+"correct": ["Souleymane Youla"],
+"image": "https://e0.365dm.com/09/05/800x600/SouleymaneYoula_2301409.jpg?20090512133349",
+"round": "R7",
+"Thema": "Sport"
+},
+{
+"type": "open",
+"question": "Welke Britse zanger en songwriter is bekend van hits als 'Unwritten' en 'Pocketful of Sunshine'?",
+"correct": ["Natasha Bedingfield"],
+"image": "https://www.hollywoodreporter.com/wp-content/uploads/2024/06/Natasha-Bedingfield-BRIT-Awards-Carpet-GettyImages-2053393766-H-2024.jpg",
+"round": "R7",
+"Thema": "Muziek"
+},
+{
+"type": "open",
+"question": "Welke vlag heeft horizontale strepen van blauw, rood en groen, met een witte halve maan en een wit sterrenpatroon in het midden van de rode baan?",
+"correct": ["Azerbeidzjan"],
+"image": "https://upload.wikimedia.org/wikipedia/commons/d/dd/Flag_of_Azerbaijan.svg",
+"round": "R8",
+"Thema": "Geografie"
+},
+{
+"type": "open",
+"question": "Welke film uit 1999, geregisseerd door Stanley Kubrick, volgt een echtpaar dat verstrikt raakt in een mysterieuze en erotische onderwereld?",
+"correct": ["Eyes Wide Shut"],
+"image": "https://assets.mubicdn.net/images/film/322/image-w1280.jpg?1745489497",
+"round": "R8",
+"Thema": "Shows & Films"
+},
+{
+"type": "open",
+"question": "Welke Franse kaap aan de Opaalkust staat bekend om zijn hoge krijtrotsen en het uitzicht op Engeland bij helder weer?",
+"correct": ["Cap Blanc‑Nez"],
+"image": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/0_Escalles_-_Le_Cap_Blanc-Nez_%282%29.JPG/330px-0_Escalles_-_Le_Cap_Blanc-Nez_%282%29.JPG",
+"round": "R8",
+"Thema": "Geografie"
+},
+{
+"type": "open",
+"question": "WEBA heeft vestigingen in Gent en Brugge. Welke stad ontbreekt in deze opsomming van hun bekende filialen?",
+"correct": ["Antwerpen"],
+"image": "https://www.weba.be/media/wysiwyg/winkeldeinzeaangepast.jpg",
+"round": "R8",
+"Thema": "Geografie"
+},
+{
+"type": "open",
+"question": "Wat is de Nederlandse naam voor de afwijking 'clubfoot', waarbij de voet van een pasgeborene scheef staat of verdraaid is?",
+"correct": ["Klompvoet"],
+"image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS9OOI1hngP3HNKy_8PDvgN_yxkYEeZ0Ydhfw&s",
+"round": "R8",
+"Thema": "Natuur"
+},
+{
+"type": "open",
+"question": "Welke zeegroente wordt in sommige keukens ook wel 'kabeljauwhaasje' genoemd, hoewel het eigenlijk een eetbare plant uit de zee is?",
+"correct": ["Zeekraal"],
+"image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQMVaaAh5EPTayKnKIQ35BwTUGlCUioBNgLvA&s",
+"round": "R8",
+"Thema": "Natuur"
+},
+{
+"type": "open",
+"question": "In darts, hoe heet een onderdeel van een wedstrijd dat bestaat uit één volledige beurt waarin een speler van start tot finish probeert te scoren?",
+"correct": ["Leg"],
+"image": "https://e0.365dm.com/25/11/768x432/skysports-luke-humphries-darts_7080600.jpg?20251112231700",
+"round": "R8",
+"Thema": "Sport"
+},
+{
+"type": "open",
+"question": "Wat is de volledige naam van de Vlaamse influencer Megan, bekend van sociale media en recente mediaprojecten?",
+"correct": ["Megan Desaever"],
+"image": "https://images.vrt.be/vrtnws_web/2025/02/12/a7fb0637-e7e6-41f9-ac45-f6e7d400c1f7.jpg?width=900&height=506",
+"round": "R9",
+"Thema": "Shows & Films"
+},
+{
+"type": "open",
+"question": "Welke Belgische maatschappij, voorheen bekend onder de naam Sodexo Benefits & Rewards Services, biedt maaltijd­cheques, eco­cheques en cadeau­cheques aan werknemers en heet nu Pluxee?",
+"correct": ["Pluxee"],
+"image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQjDK4SZmieWHedm1C3oZdvHNuO-oaVR-hzBw&s",
+"round": "R9",
+"Thema": "Gastronomie"
+},
+{
+"type": "open",
+"question": "Welke versie van het besturingssysteem Windows, uitgebracht door Microsoft in 2007, werd vaak bekritiseerd vanwege prestatieproblemen en compatibiliteitskwesties?",
+"correct": ["Windows Vista"],
+"image": "https://betanews.com/wp-content/uploads/2025/02/Windows-Vista-2025-2-1-640x361.jpg",
+"round": "R9",
+"Thema": "IT & Games"
+},
+{
+"type": "open",
+"question": "Van welke plantsoort komt het vanillestokje, dat gebruikt wordt als natuurlijke smaakstof in voeding en desserts?",
+"correct": ["Orchidee"],
+"image": "https://www.anisana.be/cdn/shop/files/prova-madagascar-bourbon-10-vanillestokjes-3660152620425-madagascar-bourbon-vanille-bestel-eenvoudig-online-anisana-52657305649482.jpg?v=1698281029",
+"round": "R9",
+"Thema": "Natuur"
+},
+{
+"type": "open",
+"question": "Welke Amerikaanse actiesserie uit de jaren 80 volgt een groep voormalige militairen die als huurlingen misdaden oplossen en bekendstaat om het iconische busje en het thema 'I love it when a plan comes together'?",
+"correct": ["The A-Team"],
+"image": "https://i.guim.co.uk/img/static/sys-images/Guardian/Pix/pictures/2010/7/1/1278002998444/The-A-Team-TV-series---19-006.jpg?width=465&dpr=1&s=none&crop=none",
+"round": "R9",
+"Thema": "Shows & Films"
+},
+{
+"type": "open",
+"question": "Welke term werd historisch gebruikt om de beste of meest begeerde plaats in een stadion aan te duiden, en is nu nog bekend van de beroemde tribune in Anfield?",
+"correct": ["Spionkop"],
+"image": "https://images.vrt.be/w960hx/2025/02/08/9211a5d2-1ea3-4c5d-8c31-d491abab8747.jpg",
+"round": "R9",
+"Thema": "Sport"
+},
+{
+"type": "open",
+"question": "Welke Italiaanse zanger is bekend als leadzanger van de rockband Måneskin, die in 2021 het Eurovisiesongfestival won?",
+"correct": ["Damiano David"],
+"image": "https://www.nme.com/wp-content/uploads/2022/05/nme-cover-2022-maneskin-hero@2560x1625.jpg",
+"round": "R9",
+"Thema": "Muziek"
+},
+{
+"type": "open",
+"question": "Welke rivier stroomt door de Belgische stad Leuven en is een zijrivier van de Dijle?",
+"correct": ["Dijle"],
+"image": "https://upload.wikimedia.org/wikipedia/commons/9/92/KaartDijle.jpg",
+"round": "R10",
+"Thema": "Geografie"
+},
+{
+"type": "open",
+"question": "Welke rivier in België vormt de samenvloeiing van de Nete en de Dijle en mondt uiteindelijk uit in de Schelde?",
+"correct": ["Rupel"],
+"image": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/Location_Rupel.PNG/330px-Location_Rupel.PNG",
+"round": "R10",
+"Thema": "Geografie"
+},
+{
+"type": "open",
+"question": "Welke rivier in Oost-Vlaanderen, België, is een zijrivier van de Schelde en loopt onder andere door de gemeente Zwalm?",
+"correct": ["Zwalm"],
+"image": "https://upload.wikimedia.org/wikipedia/commons/7/76/KaartZwalm.jpg",
+"round": "R10",
+"Thema": "Geografie"
+},
+{
+"type": "open",
+"question": "Welke handheld spelconsole werd in 1990 door Sega uitgebracht als concurrent van de Nintendo Game Boy?",
+"correct": ["Game Gear"],
+"image": "https://i0.wp.com/danfinnen.com/wp-content/uploads/2017/03/nintendoswitchgamegear-5.jpg?fit=1000%2C874&ssl=1",
+"round": "R10",
+"Thema": "IT & Games"
+},
+{
+"type": "open",
+"question": "Welke dystopische film uit 2005, gebaseerd op een gelijknamige graphic novel van Alan Moore, volgt een gemaskerde rebel die een totalitair regime in Engeland probeert omver te werpen?",
+"correct": ["V for Vendetta"],
+"image": "https://m.media-amazon.com/images/M/MV5BMTMzMjYwODM5NF5BMl5BanBnXkFtZTcwNjk0MTYyNw@@._V1_.jpg",
+"round": "R10",
+"Thema": "Shows & Films"
+},
+{
+"type": "open",
+"question": "Op welke datum vond de mislukte Buskruitverraad plaats, die de inspiratie vormde voor Guy Fawkes en de film 'V for Vendetta'?",
+"correct": ["5 november"],
+"image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQGME0AYfqDlHrYwzwOqRET7WqAw0d2Os5L0Q&s",
+"round": "R10",
+"Thema": "Geschiedenis"
+},
+{
+"type": "open",
+"question": "Welke Engelse samenzwering uit 1605, bedoeld om het parlement op te blazen en bekend als de 'Gunpowder Treason', werd geleid door Guy Fawkes en zijn medesamenzweerders?",
+"correct": ["Buskruitverraad", "Gunpowder Treason"],
+"image": "https://static.independent.co.uk/s3fs-public/thumbnails/image/2018/10/31/15/guy-fawkes-plot.jpg",
+"round": "R10",
+"Thema": "Geschiedenis"
+},
+{
+"type": "open",
+"question": "Hoe heet de rechtse politieke partij die actief is in Ninove en bij de gemeenteraadsverkiezingen vaak een groot deel van de stemmen behaalt?",
+"correct": ["Forza Ninove"],
+"image": "https://image.humo.be/248067792/width/2480/mensen-zeggen-mij-dat-ik-de-enige-politieker-ben-die-hun-ook",
+"round": "R10",
+"Thema": "Politiek"
+},
+{
+"type": "open",
+"question": "Welk televisiesprogramma richt zich op het leven en de actualiteit van de inwoners van Ninove?",
+"correct": ["Wij Zijn van Ninof"],
+"image": "https://images.hln.be/MzY4NWZiZjg0YTc3Zjc1ODkwOWQvZGlvLzI0OTMyNDk4MS9maXQtd2lkdGgvMTIwMA/wij-zijn-van-nienof",
+"round": "R10",
+"Thema": "Shows & Films"
+},
+{
+"type": "open",
+"question": "Wie is de voorganger van Guy D’haeseleer, de Vlaamse politicus en voorzitter van het Vlaams Belang in Oost-Vlaanderen?",
+"correct": ["Tania De Jonge"],
+"image": "https://images.hln.be/OWU4MzQ3MDlkY2U5ZWM1MzIxOGEvZGlvLzEzMzg4NjY1Mi9maWxsLzEzNTAvOTAw/burgemeester-ninove-tania-de-jonge",
+"round": "R10",
+"Thema": "Politiek"
+},
+{
+"type": "open",
+"question": "Welke Amerikaanse boyband uit de late jaren 90 en vroege jaren 2000 is bekend van hits als 'Bye Bye Bye' en 'Tearin' Up My Heart'?",
+"correct": ["NSYNC"],
+"image": "https://www.usmagazine.com/wp-content/uploads/2018/04/84583505_nsync-zoom.jpg?w=1000&quality=74&strip=all",
+"round": "R10",
+"Thema": "Muziek"
+},
+{
+"type": "open",
+"question": "Welke Britse boyband uit de jaren 90 en vroege jaren 2000, bekend van nummers als 'Keep On Movin'' en 'Everybody Get Up', heeft een naam die ook het cijfer 5 bevat?",
+"correct": ["5ive"],
+"image": "https://images.bauerhosting.com/legacy/media/620c/bb7e/4a7c/a92c/9e5d/9378/5ive-now.jpg?ar=16%3A9&fit=crop&crop=top&auto=format&w=1440&q=80",
+"round": "R10",
+"Thema": "Muziek"
+},
+{
+"type": "open",
+"question": "Welke Amerikaanse boyband uit de jaren 80 en 90, bekend van hits als 'Step by Step' en 'You Got It (The Right Stuff)', staat bekend als een van de pioniers van het moderne boybandfenomeen?",
+"correct": ["New Kids on the Block"],
+"image": "https://lastfm.freetls.fastly.net/i/u/ar0/ceab757f0fab64604aaab3bb9a2ccf24.jpg",
+"round": "R10",
+"Thema": "Muziek"
+},
+{
+"type": "open",
+"question": "Wat is de naam van de Britse komedieserie waarin Rowan Atkinson de hoofdrol speelt als een sluwe, sarcastische aristocraat met een minder slimme butler?",
+"correct": ["Blackadder"],
+"image": "https://upload.wikimedia.org/wikipedia/en/a/ad/Baldrick.jpg",
+"round": "R10",
+"Thema": "Shows & Films"
+},
+{
+"type": "open",
+"question": "Hoe heet de butler van Batman, die hem ondersteunt in zijn strijd tegen misdaad in Gotham City?",
+"correct": ["Alfred "],
+"image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQTb15G5hGfw27AA0J1l6x_QxGzlWPepqYY9g&s",
+"round": "R10",
+"Thema": "Boeken & Strips"
+},
+{
+"type": "open",
+"question": "Hoe heet de butler van de rijke familie Sheffield in de Amerikaanse sitcom 'The Nanny'?",
+"correct": ["Niles"],
+"image": "https://static.wikia.nocookie.net/thenannytv/images/8/88/Niles-3.jpg/revision/latest/scale-to-width-down/250?cb=20230915223303",
+"round": "R10",
+"Thema": "Shows & Films"
+},
+{
+"type": "open",
+"question": "Welke Canadese acteur, bekend van films zoals 'Deadpool' en 'Detective Pikachu', staat bekend om zijn humor en charismatische rollen?",
+"correct": ["Ryan Reynolds"],
+"image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTah5Uy8peqhW7yA3Ov9i785yCu9srx2MUVJw&s",
+"round": "R10",
+"Thema": "Shows & Films"
+},
+{
+"type": "open",
+"question": "Welke Amerikaanse komische acteur is bekend van films zoals 'Elf', 'Anchorman' en 'Step Brothers'?",
+"correct": ["Will Ferrell"],
+"image": "https://hips.hearstapps.com/hmg-prod/images/will-ferrell-6up-1511364881.jpg?crop=0.502xw:1.00xh;0.171xw,0&resize=1200:*",
+"round": "R10",
+"Thema": "Shows & Films"
+},
+{
+"type": "open",
+"question": "Welke Britse-Libanese zanger staat bekend om hits als 'Grace Kelly' en 'Love Today'?",
+"correct": ["Mika"],
+"image": "https://dynamicmedia.livenationinternational.com/v/a/l/31f59c7d-4b37-4ee7-8e38-4aad853decab.jpg?format=webp&width=3840&quality=75",
+"round": "R10",
+"Thema": "Muziek"
+},
+{
+"type": "open",
+"question": "Wie is de huidige schepen van cultuur in Antwerpen?",
+"correct": ["Van de Kelder"],
+"image": "https://images.vrt.be/orig/2024/12/15/17c19708-9e87-4b51-a443-e2bffa0433d9.jpg",
+"round": "R10",
+"Thema": "Politiek"
+},
+{
+"type": "open",
+"question": "Wie is de huidige schepen van financiën in Antwerpen?",
+"correct": ["Koen Kennis"],
+"image": "https://images.tijd.be/view?iid=Elvis:DmtlaTo3aJfB6_G2xxtWFJ&context=ONLINE&ratio=16/9&width=640&u=1743421455000",
+"round": "R10",
+"Thema": "Politiek"
+},
+{
+"type": "open",
+"question": "Welke Belgische voedingsmiddelenproducent stond vroeger bekend als Belviva en is gespecialiseerd in aardappelproducten?",
+"correct": ["Lutosa"],
+"image": "https://static.ah.nl/dam/product/AHI_4354523130303230333931?revLabel=1&rendition=400x400_JPG_Q85&fileType=binary",
+"round": "R10",
+"Thema": "Gastronomie"
+},
+{
+"type": "open",
+"question": "Welke Belgische chef-kok en televisiepersoonlijkheid is bekend van kookprogramma's en zijn restaurants en draagt de naam Bert Huysentruyt?",
+"correct": ["Bert Huysentruyt"],
+"image": "https://images.hln.be/ZjlhMjA0M2U2ODBkMDA0ZWJmNTAvZGlvLzI1Njc0NjMwNi9maXQtd2lkdGgvMTIwMA/bert-huysentruyt-in-familie",
+"round": "R10",
+"Thema": "Shows & Films"
+},
+{
+"type": "open",
+"question": "Welke Belgische snack, vaak geserveerd in frietkoten en fastfoodrestaurants, bestaat uit een kroketachtige snack op basis van vlees en wordt soms 'Bicky Friq' genoemd?",
+"correct": ["Bicky Friq"],
+"image": "https://glfoods.com/files/_thumbnail/223/c71155a94e67_nieuw_bicky_friq_met_tray.jpg",
+"round": "R10",
+"Thema": "Gastronomie"
+},
+{
+"type": "open",
+"question": "Welke Amerikaanse zangeres en songwriter bracht haar debuutalbum The Rise and Fall of a Midwest Princess uit in 2023 en brak wereldwijd door met de single 'Good Luck, Babe!' in 2024?",
+"correct": ["Chappell Roan"],
+"image": "https://image.humo.be/258535825/width/2480/chappell-roan-in-san-francisco-archiefbeeld",
+"round": "R10",
+"Thema": "Muziek"
+},
+{
+"type": "open",
+"question": "Welke Amerikaanse zangeres en actrice, bekend van Disney Channel en hits als 'Skin' en 'Sue Me', heet Sabrina Carpenter?",
+"correct": ["Sabrina Carpenter"],
+"image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTqCWYOiqak-Tgg4mBnpZe-pHIf25MUlEJS1A&s",
+"round": "R10",
+"Thema": "Muziek"
+},
+{
+"type": "open",
+"question": "Welke Amerikaanse singer-songwriter brak internationaal door met het album Good Riddance in 2023 en het opvolgende album The Secret of Us in 2024?",
+"correct": ["Gracie Abrams"],
+"image": "https://www.billboard.com/wp-content/uploads/2025/03/feature-gracie-abrams-billboard-2025-bb5-sami-drasin-5-1260.jpg?crop=0px%2C0px%2C1212px%2C840px&resize=1292%2C861",
+"round": "R10",
+"Thema": "Muziek"
 }
   ]
 }
