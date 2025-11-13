@@ -199,7 +199,7 @@
 "type": "open",
 "question": "Wat is de titel van de animatiefilm uit 2011, geregisseerd door Steven Spielberg, die gebaseerd is op de avonturen van Kuifje?",
 "correct": ["The Adventures of Tintin", "The Adventures of Tintin: The Secret of the Unicorn"],
-"image": "",
+"image": "https://images.nrc.nl/TNVr1lzkaCc7JcD7wEs07_RE_ZU=/1280x/filters:no_upscale()/s3/static.nrc.nl/images/stripped/1911nndoentvtintin_it.jpg",
 "round": "R4",
 "Thema": "Shows & Films"
 },
@@ -567,7 +567,7 @@
 "type": "open",
 "question": "Hoe heet de butler van de rijke familie Sheffield in de Amerikaanse sitcom 'The Nanny'?",
 "correct": ["Niles"],
-"image": "https://static.wikia.nocookie.net/thenannytv/images/8/88/Niles-3.jpg/revision/latest/scale-to-width-down/250?cb=20230915223303",
+"image": "https://static.wikia.nocookie.net/thenannytv/images/d/d8/Niles_the_butler.jpg/revision/latest?cb=20230920004323",
 "round": "R10",
 "Thema": "Shows & Films"
 },

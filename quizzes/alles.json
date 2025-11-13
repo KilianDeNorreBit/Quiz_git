@@ -1170,7 +1170,7 @@
 "type": "open",
 "question": "Welke Britse rockband uit de jaren 70 is bekend van hits als 'I'm Not in Love' en 'Dreadlock Holiday'?",
 "correct": ["10cc"],
-"image": "",
+"image": "https://upload.wikimedia.org/wikipedia/commons/8/82/10CC_-_TopPop_1974_2.png",
 "round": "R6 - Getallen",
 "Thema": "Muziek"
 },
@@ -1458,7 +1458,7 @@
 "type": "open",
 "question": "Hoe heet de butler van de rijke familie Sheffield in de Amerikaanse sitcom 'The Nanny'?",
 "correct": ["Niles"],
-"image": "https://static.wikia.nocookie.net/thenannytv/images/8/88/Niles-3.jpg/revision/latest/scale-to-width-down/250?cb=20230915223303",
+"image": "https://static.wikia.nocookie.net/thenannytv/images/d/d8/Niles_the_butler.jpg/revision/latest?cb=20230920004323",
 "round": "R10",
 "Thema": "Shows & Films"
 },
