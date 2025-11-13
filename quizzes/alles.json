@@ -894,7 +894,7 @@
 {
   "type": "open",
   "question": "Hoe heet het AI-platform van Google dat in 2023 werd gelanceerd als opvolger van Bard?",
-  "correct": "Gemeni",
+  "correct": "Gemini",
   "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRzrdJ8uOj5T51mZdRGB-6H0QizVomAIUcfEw&s",
   "round": "R1 - Dieren",
   "Thema": "IT & Games"
@@ -1536,7 +1536,7 @@
 },
 {
 "type": "open",
-"question": "Welke Amerikaanse zangeres en actrice, bekend van Disney Channel en hits als 'Skin' en 'Sue Me', heet Sabrina Carpenter?",
+"question": "Welke Amerikaanse zangeres en actrice, bekend van Disney Channel en hits als 'Skin' en 'Sue Me'?",
 "correct": ["Sabrina Carpenter"],
 "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTqCWYOiqak-Tgg4mBnpZe-pHIf25MUlEJS1A&s",
 "round": "R10",
