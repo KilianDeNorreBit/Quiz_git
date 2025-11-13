@@ -1090,7 +1090,7 @@
 "type": "open",
 "question": "Wat is de titel van de animatiefilm uit 2011, geregisseerd door Steven Spielberg, die gebaseerd is op de avonturen van Kuifje?",
 "correct": ["The Adventures of Tintin", "The Adventures of Tintin: The Secret of the Unicorn"],
-"image": "",
+"image": "https://images.nrc.nl/TNVr1lzkaCc7JcD7wEs07_RE_ZU=/1280x/filters:no_upscale()/s3/static.nrc.nl/images/stripped/1911nndoentvtintin_it.jpg",
 "round": "R4",
 "Thema": "Shows & Films"
 },
@@ -1130,7 +1130,7 @@
 "type": "open",
 "question": "Welke god uit de Noordse mythologie staat bekend als de oppergod, vader van Thor, en god van wijsheid, oorlog en dood?",
 "correct": ["Odin"],
-"image": "https://static.wikia.nocookie.net/marvelcinematicuniverse/images/0/02/Odin_Infobox.png/revision/latest?cb=20250203212940",
+"image": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/Odin.jpg/960px-Odin.jpg",
 "round": "R6 - Getallen",
 "Thema": "Cultuur"
 },
