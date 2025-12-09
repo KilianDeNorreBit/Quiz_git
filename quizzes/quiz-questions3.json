@@ -1,0 +1,385 @@
+{
+  "questions": [
+{
+  "type": "open",
+  "question": "Welke Japanse stad is de gastheer van de Wereldtentoonstelling Expo 2025?",
+  "correct": "Osaka",
+  "image": "https://www.advantour.com/img/japan/images/osaka.jpg",
+  "round": "R1 - ACTUA",
+  "Thema": "Cultuur"
+},
+{
+  "type": "open",
+  "question": "Wat is de achternaam van de Duitse bondskanselier Friedrich?",
+  "correct": "Merz",
+  "image": "https://image.demorgen.be/255803618/width/2480/cdu-kopstuk-friedrich-merz",
+  "round": "R1 - ACTUA",
+  "Thema": "Politiek"
+},
+{
+  "type": "open",
+  "question": "Hoe wordt de gebeurtenis genoemd die door Palestijnen wordt gebruikt om de massale vlucht en verdrijving tijdens de Israëlische Onafhankelijkheidsoorlog van 1948 aan te duiden?",
+  "correct": "De eerste Nakba",
+  "image": "https://api.npokennis.nl/thumbs/i/24000/mod_media_image/24904.w354.9a86c27.5c6e1db.jpg",
+  "round": "R1 - ACTUA",
+  "Thema": "Geschiedenis"
+},
+{
+  "type": "open",
+  "question": "Op welke datum vond de ontmoeting plaats tussen Trump en Poetin in Alaska in 2025? (xx/xx)",
+  "correct": "15/08",
+  "image": "https://d3i6fh83elv35t.cloudfront.net/static/2025/08/2025-08-15T191522Z_1014426497_RC2R7GAQBDXL_RTRMADP_3_UKRAINE-CRISIS-SUMMIT-e1755287081611-1024x651.jpg",
+  "round": "R1 - ACTUA",
+  "Thema": "Politiek"
+},
+{
+  "type": "open",
+  "question": "Welke kleine gele bes, vaak gebruikt in jam en sappen, staat bekend om zijn hoge vitamine C-gehalte?",
+  "correct": "Goudbes",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/Physalis_peruviana.jpg/330px-Physalis_peruviana.jpg",
+  "round": "R2 - Gallerij",
+  "Thema": "Gastronomie"
+},
+{
+  "type": "open",
+  "question": "Welke oranje vrucht, oorspronkelijk uit Oost-Azië, wordt vaak rauw gegeten of gedroogd en lijkt een beetje op een tomaat?",
+  "correct": "Kaki",
+  "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSBygZT-AZ-IV7hS_wIQ_9HhLvtxdzrw5NoAg&s",
+  "round": "R2 - Gallerij",
+  "Thema": "Gastronomie"
+},
+{
+  "type": "open",
+  "question": "Welke zoete vrucht groeit aan palmbomen en wordt vaak gebruikt in desserts en als snack?",
+  "correct": "Dadel",
+  "image": "https://image.gezondheid.be/XTRA/123-fruit-dadel-11-29.jpg",
+  "round": "R2 - Gallerij",
+  "Thema": "Gastronomie"
+},
+{
+  "type": "open",
+  "question": "Welke kleine bes, vaak groen of rood van kleur en bedekt met fijne stekeltjes, wordt ook wel aangeduid als 'gooseberry'?",
+  "correct": "Stekelbes",
+  "image": "https://www.lekkervanbijons.be/sites/default/files/styles/og_image/public/images/stekelbessen.jpg?itok=3A6mRFx1",
+  "round": "R2 - Gallerij",
+  "Thema": "Natuur & Eten"
+},
+{
+  "type": "open",
+  "question": "Welke beroemde Griekse filosoof was leerling van Plato en leermeester van Alexander de Grote?",
+  "correct": "Aristoteles",
+  "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSIO7Alqsb9d263w2jcVroTFcp7EpwVPNS7Mw&s",
+  "round": "R3 - Geschiedenis",
+  "Thema": "Geschiedenis"
+},
+{
+  "type": "open",
+  "question": "Welke Romeinse keizer, zoon van Vespasianus, stond bekend om de voltooiing van de Tempel van Jeruzalem en de brand van Rome?",
+  "correct": "Titus",
+  "image": "https://images.immediate.co.uk/production/volatile/sites/7/2024/07/GettyImages-51245051-f257646-e1721390433413.jpg?quality=90&resize=619,413",
+  "round": "R3 - Geschiedenis",
+  "Thema": "Geschiedenis"
+},
+{
+  "type": "open",
+  "question": "Welke Romeinse keizer liet het amfitheater bekend als Amphitheatrum Flavium bouwen?",
+  "correct": "Vespasianus",
+  "image": "https://media.gettyimages.com/id/122336725/nl/foto/unspecified-bust-of-emperor-vespasianus-flavian-dynasty-imperial-age-marble.jpg?s=612x612&w=gi&k=20&c=q2DoC_LkGeC60VbRbH7AuvUyJEQ1g5SFNtZiN-7E9dg=",
+  "round": "R3 - Geschiedenis",
+  "Thema": "Geschiedenis"
+},
+{
+  "type": "open",
+  "question": "Wat was de naam van het middeleeuwse handelsverbond van steden in Noord-Duitsland en de Oostzeekust?",
+  "correct": "Hanze",
+  "image": "https://api.npokennis.nl/thumbs/i/12000/mod_media_image/12292.w1024.0.4722a6a.jpg",
+  "round": "R3 - Geschiedenis",
+  "Thema": "Geschiedenis"
+},
+{
+  "type": "open",
+  "question": "Tot welke dynastie behoorde Pepijn de Korte, vader van Karel de Grote?",
+  "correct": "Karolingische dynastie",
+  "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSNF9qJP-o5WHayEZ_yg9Kcv1Wm8zst9YRXBg&s",
+  "round": "R3 - Geschiedenis",
+  "Thema": "Geschiedenis"
+},
+{
+  "type": "open",
+  "question": "Welke belangrijke uitvinding in de 15e eeuw, ontwikkeld door Johannes Gutenberg, maakte het massaal produceren van boeken mogelijk?",
+  "correct": "Boekdrukkunst",
+  "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQIoimSn0rGL7gpvDjfJ8J2U6GYyNR3EnKX_w&s",
+  "round": "R3 - Geschiedenis",
+  "Thema": "Geschiedenis"
+},
+{
+  "type": "open",
+  "question": "Welke Duitse uitvinder wordt gezien als de grondlegger van de boekdrukkunst met losse letters in de 15e eeuw?",
+  "correct": "Johannes Gutenberg",
+  "image": "https://hips.hearstapps.com/hmg-prod/images/johannes-gutenberg-portrait-cap-and-long-royalty-free-illustration-1701193801.jpg?crop=0.985xw:0.636xh;0.00686xw,0.0221xh&resize=640:*",
+  "round": "R3 - Geschiedenis",
+  "Thema": "Geschiedenis"
+},
+{
+  "type": "open",
+  "question": "Welke hertog van Bourgondië, die regeerde van 1419 tot 1467, stond bekend om zijn macht en invloed in de Lage Landen?",
+  "correct": "Filip de Goede",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/a/a4/Philip_the_good.jpg",
+  "round": "R3 - Geschiedenis",
+  "Thema": "Geschiedenis"
+},
+{
+  "type": "open",
+  "question": "Welke Duitse staatsman, bekend als de 'ijzeren kanselier', speelde een sleutelrol bij de eenwording van Duitsland in 1871?",
+  "correct": "Otto von Bismarck",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/c/cb/Bismarckottovon.jpg",
+  "round": "R3 - Geschiedenis",
+  "Thema": "Geschiedenis"
+},
+{
+  "type": "open",
+  "question": "Welk product wordt geassocieerd met dit logo, bekend om zijn variëteit en kwaliteit in België?",
+  "correct": "Belgische kazen",
+  "image": "foto/kaas.jpg",
+  "round": "R4 - foto's",
+  "Thema": "Gastronomie"
+},
+{
+  "type": "open",
+  "question": "Welk merk van koekjes en snacks wordt geassocieerd met dit logo?",
+  "correct": "LU",
+  "image": "foto/LU.jpg",
+  "round": "R4 - foto's",
+  "Thema": "Gastronomie"
+},
+{
+  "type": "open",
+  "question": "Welke tak van de wiskunde houdt zich bezig met symbolen en regels voor het manipuleren van deze symbolen?",
+  "correct": "Algebra",
+  "image": "https://www.wikihow.com/images/thumb/2/2b/Understand-Algebra-Step-2-Version-3.jpg/v4-460px-Understand-Algebra-Step-2-Version-3.jpg",
+  "round": "R5 - Alfabet",
+  "Thema": "Wetenschappen"
+},
+{
+  "type": "open",
+  "question": "Welke stripfiguur, bekend uit Vlaamse strips, staat bekend om zijn brutale en ondeugende avonturen?",
+  "correct": "Barabos",
+  "image": "https://upload.wikimedia.org/wikipedia/en/3/35/Professor_Barabas.jpg",
+  "round": "R5 - Alfabet",
+  "Thema": "Boeken & Strips"
+},
+{
+  "type": "open",
+  "question": "Hoe heet het legendarische kasteel en hof van koning Arthur?",
+  "correct": "Camelot",
+  "image": "https://static.wikia.nocookie.net/turtledove/images/f/fa/CAMELOT-600x450-1-.jpg/revision/latest/scale-to-width-down/600?cb=20151203221026",
+  "round": "R5 - Alfabet",
+  "Thema": "Cultuur"
+},
+{
+  "type": "open",
+  "question": "Bij welke tentoonstelling staat beeldende kunst centraal?",
+  "correct": "Documenta",
+  "image": "https://ckvlokaal.weebly.com/uploads/5/4/7/3/54734449/7139368_1_orig.jpg",
+  "round": "R5 - Alfabet",
+  "Thema": "Kunst"
+},
+{
+  "type": "open",
+  "question": "Welke oude lengtemaat, vaak gebruikt in de textielindustrie en ongeveer gelijk aan de lengte van een onderarm?",
+  "correct": "El",
+  "image": "https://lh6.googleusercontent.com/proxy/xqJd2obIzrMLkiBv5yqsJbkjqLDByFb6dbqYoQCgSEP6oV7L-u794ZrHiL0V4ckxvhHcbeRpgS0agy2UoT4oE1qGLpAhXjI",
+  "round": "R5 - Alfabet",
+  "Thema": "Geschiedenis"
+},
+{
+  "type": "open",
+  "question": "Welke term in biljart verwijst naar een onregelmatige of foutieve stoot?",
+  "correct": "Falscue",
+  "image": "https://images.vrt.be/width960/2025/04/17/4dce8ee6-aa98-43c6-9208-1e49aaf42405.jpg",
+  "round": "R5 - Alfabet",
+  "Thema": "Sport"
+},
+{
+  "type": "open",
+  "question": "Welk luxe modemerk uit Italië staat bekend om zijn high-end kleding, accessoires en leerwaren?",
+  "correct": "Gucci",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/6/6b/Guccio_Gucci_c.1940.JPG",
+  "round": "R5 - Alfabet",
+  "Thema": "Kunst"
+},
+{
+  "type": "open",
+  "question": "Welke titel wordt in België of Nederland toegekend aan een bedrijf dat goederen of diensten levert aan het koninklijk huis?",
+  "correct": "Hofleverancier",
+  "image": "https://images.vrt.be/orig/2023/11/29/6ba2ab94-8ebd-11ee-b483-02b7b76bf47f.jpg",
+  "round": "R5 - Alfabet",
+  "Thema": "Cultuur"
+},
+{
+  "type": "open",
+  "question": "Welk werkwoord betekent iets vervelend of hinderlijk vinden of veroorzaken?",
+  "correct": "Irriteren",
+  "image": "https://relatie-praktijk.nl/wp-content/uploads/2022/02/irriteren-aan-je-partner-oplossen.jpg",
+  "round": "R5 - Alfabet",
+  "Thema": "Taal"
+},
+{
+  "type": "open",
+  "question": "Welke grote katachtige, bekend om zijn snelheid en gevlekte vacht, is het snelste landdier ter wereld?",
+  "correct": "Jachtluipaard",
+  "image": "https://lh5.googleusercontent.com/-jeHvPczEOcs/U0-3arrHm5I/AAAAAAAAKQM/560MoUBS-s8/s512/jachtluipaard.jpg",
+  "round": "R5 - Alfabet",
+  "Thema": "Natuur"
+},
+{
+  "type": "open",
+  "question": "Wat is de naam van de beruchte Amerikaanse racistische organisatie, bekend om hun witte gewaden en activiteiten tegen Afro-Amerikanen?",
+  "correct": "Ku Klux Klan",
+  "image": "https://res.cloudinary.com/aenetworks/image/upload/c_fill,ar_2,w_3840,h_1920,g_auto/dpr_auto/f_auto/q_auto:eco/v1/ku-klux-klan-gettyimages-514080408?_a=BAVAZGID0",
+  "round": "R5 - Alfabet",
+  "Thema": "Geschiedenis"
+},
+{
+  "type": "open",
+  "question": "Hoe heet de butler van de Addams Family, die bekendstaat om zijn grimmige en sarcastische houding?",
+  "correct": "Lurch",
+  "image": "https://static0.srcdn.com/wordpress/wp-content/uploads/2022/11/George-Burcea-Lurch-Wednesday-Netflix.jpg",
+  "round": "R5 - Alfabet",
+  "Thema": "Shows & Films"
+},
+{
+  "type": "open",
+  "question": "In welke stad wordt elk jaar het tennistoernooi Australian Open gehouden?",
+  "correct": "Melbourne",
+  "image": "https://www.atptour.com/-/media/images/news/2023/01/30/13/01/australian-open-2023-tournament-image.jpg",
+  "round": "R5 - Alfabet",
+  "Thema": "Sport"
+},
+{
+  "type": "open",
+  "question": "Welke stad in België staat bekend om zijn historische architectuur?",
+  "correct": "Namen",
+  "image": "https://www.topomania.net/storage/mapposters/provincie-namen-(1280x1024).png?m=1371402878",
+  "round": "R5 - Alfabet",
+  "Thema": "Geografie"
+},
+{
+  "type": "open",
+  "question": "Wat is de voornaam van de komische acteur Hardy, bekend van het duo Laurel & Hardy?",
+  "correct": "Oliver",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/b/b1/Hollywoodparty.jpg",
+  "round": "R5 - Alfabet",
+  "Thema": "Shows & Films"
+},
+{
+  "type": "open",
+  "question": "Hoe heet de torenachtige tempelstructuur die vaak in Aziatische landen voorkomt en meerdere verdiepingen heeft met naar boven gebogen daken?",
+  "correct": "Pagode",
+  "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRhzoDIs_bGrP-MxriC1GqLIb46aVcvreZmtw&s",
+  "round": "R5 - Alfabet",
+  "Thema": "Cultuur"
+},
+{
+  "type": "open",
+  "question": "Welke Italiaanse rijstschotel wordt langzaam gekookt met bouillon en vaak verrijkt met kaas, groenten of zeevruchten?",
+  "correct": "Risotto",
+  "image": "https://assets.tmecosys.com/image/upload/t_web_rdp_recipe_584x480_1_5x/img/recipe/ras/Assets/8D2A0883-95BA-4C9F-A575-303577F532D4/Derivates/A87AD746-0DFD-49AE-B1B2-071227001579.jpg",
+  "round": "R5 - Alfabet",
+  "Thema": "Gastronomie"
+},
+{
+  "type": "open",
+  "question": "Welke term in het schaken betekent dat de koning zo aangevallen wordt dat hij niet meer kan ontsnappen?",
+  "correct": "Schaakmat",
+  "image": "https://static1.squarespace.com/static/59618bea72af6554d01bdbb5/5ffb554d93bc6a5d87fd0f17/626750b927321e30ff25f2c7/1717184764190/QueensGambit_1x1_Main_RGB.jpg?format=1500w",
+  "round": "R5 - Alfabet",
+  "Thema": "Sport"
+},
+{
+  "type": "open",
+  "question": "Welke term in golf verwijst naar het kleine platform waarop de golfbal bij de eerste slag van een hole wordt geplaatst?",
+  "correct": "Tee",
+  "image": "https://www.golf.nl/-/media/golfnl_nieuw/equipment/tees/tees-verschillende-lengte.jpg?rev=764291140",
+  "round": "R5 - Alfabet",
+  "Thema": "Sport"
+},
+{
+  "type": "open",
+  "question": "Welke zeevrucht, vaak gevonden langs zandstranden en bekend om zijn gladde, ronde schelp?",
+  "correct": "Venus schelpen",
+  "image": "https://img.static-rmg.be/a/food/image/q75/w640/h400/1077644/soep-naessens.jpg",
+  "round": "R5 - Alfabet",
+  "Thema": "Natuur"
+},
+{
+  "type": "open",
+  "question": "Hoe heet Kerstmis in het Duits?",
+  "correct": "Weihnachten",
+  "image": "https://www.ferienknaller.de/magazin/wp-content/uploads/2024/09/Weihnachten-weltweit-Island.jpg",
+  "round": "R5 - Alfabet",
+  "Thema": "Taal"
+},
+{
+  "type": "open",
+  "question": "Welke Chinese fabrikant van elektrische voertuigen, opgericht in 2014, staat bekend om zijn hightech EV-modellen en innovatie?",
+  "correct": "Xpeng",
+  "image": "https://www.beev.co/wp-content/uploads/2025/01/6d30193e-30f5-4b2b-86ad-f0f61cd0e6b9-llimkv.webp",
+  "round": "R5 - Alfabet",
+  "Thema": "IT & Games"
+},
+{
+  "type": "open",
+  "question": "Welke fictieve gemaskerde held vecht tegen onrecht in Californië en gebruikt vaak een zwaard en een Z als symbool?",
+  "correct": "Zorro",
+  "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQfWfiAiWX5kKhigMml8eNpKf6YS8psvXyOsg&s",
+  "round": "R5 - Alfabet",
+  "Thema": "Shows & Films"
+},
+{
+  "type": "open",
+  "question": "Welke vis, ook bekend als Trisopterus luscus, wordt vaak gebruikt als aasvis en heeft een kenmerkende gedrongen vorm?",
+  "correct": "Pikdorser",
+  "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSC8lTOolbY4VncqjaOSPEpdLkMkGqs9vjTjQ&s",
+  "round": "R6 - Overige",
+  "Thema": "Natuur"
+},
+{
+  "type": "open",
+  "question": "Welke Japanse term verwijst naar de zelfmoordaanvallen van piloten tijdens de Tweede Wereldoorlog?",
+  "correct": "Kamikaze",
+  "image": "https://images-bonnier.imgix.net/files/his/production/2025/03/12151432/kamikaze-pilot-1.jpg?auto=format,compress&crop=focalpoint&fp-x=0.5&fp-y=0.5&ar=1.5:1&w=922&q=80&fit=crop",
+  "round": "R6 - Overige",
+  "Thema": "Geschiedenis"
+},
+{
+  "type": "open",
+  "question": "Welke term uit het Frans wordt gebruikt voor een favoriet persoon of lieveling?",
+  "correct": "Chouchou",
+  "image": "",
+  "round": "R6 - Overige",
+  "Thema": "Taal"
+},
+{
+  "type": "open",
+  "question": "Welke Belgische voetballer speelt als aanvaller voor KAA Gent en werd in 1998 geboren in Beringen?",
+  "correct": "Dante Vanzeir",
+  "image": "https://images.vrt.be/width960/2023/04/09/8ae4aa19-d6a6-11ed-91d7-02b7b76bf47f.jpg",
+  "round": "R6 - Overige",
+  "Thema": "Sport"
+},
+{
+  "type": "open",
+  "question": "Welke Belgische kunstschaatsster, met Italiaanse achternaam, behaalde in 2025 opnieuw EK‑brons?",
+  "correct": "Nina Pinzarrone",
+  "image": "https://images.vrt.be/width960/2023/11/20/63f76c28-87af-11ee-91d7-02b7b76bf47f.jpg",
+  "round": "R6 - Overige",
+  "Thema": "Sport"
+}
+
+
+
+
+
+  ]
+}
