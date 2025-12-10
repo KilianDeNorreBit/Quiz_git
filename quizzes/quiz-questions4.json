@@ -1,0 +1,575 @@
+{
+  "questions": [
+{
+  "type": "open",
+  "question": "Welke sciencefictionfranchise draait rond de USS Enterprise en personages zoals Spock en Captain Kirk?",
+  "correct": "Star Trek",
+  "image": "https://images.immediate.co.uk/production/volatile/sites/3/2021/09/GettyImages-156913347-c548657.jpg",
+  "round": "R1",
+  "Thema": "Shows & Films"
+},
+{
+  "type": "open",
+  "question": "Dit is Robert Francis Prevost, graag zijn pausnaam + nr?",
+  "correct": ["Leo XIV", "Leo 14"],
+  "image": "https://images.hln.be/OTg5NGE4ZDNlOGJmY2NjMmU5YWQvZGlvLzI2NTA0NDc3MC9maXQtd2lkdGgvMTIwMA/paus-leo-xiv",
+  "round": "R1",
+  "Thema": "Geschiedenis"
+},
+{
+  "type": "open",
+  "question": "In welke Amerikaanse stad begint Route 66?",
+  "correct": "Chicago",
+  "image": "https://www.nps.gov/articles/images/1280px-Us_66_rough.jpg?maxwidth=650&autorotate=false",
+  "round": "R1",
+  "Thema": "Geografie"
+},
+{
+  "type": "open",
+  "question": "Tegen welke ziekte is het vaccin dat in veel landen verplicht is voor kinderen?",
+  "correct": "Polio",
+  "image": "https://iknl.nl/getmedia/af4401a9-be0e-4ef1-8c8a-0ff7daa3f8d3/cose-up-handen-met-vaccin.jpg?width=1000&height=667&ext=.jpg",
+  "round": "R1",
+  "Thema": "Wetenschappen"
+},
+{
+  "type": "open",
+  "question": "Wat is de naam van de eerste ronde in een de campusquiz?",
+  "correct": "Ontgroening",
+  "image": "https://images.vrt.be/orig/2025/05/06/2cda8279-fdca-4d83-8cd0-4dff915ee644.jpg?w=1280",
+  "round": "R1",
+  "Thema": "Shows & Films"
+},
+{
+  "type": "open",
+  "question": "Wat is de afkorting voor de MUG?",
+  "correct": "Mobiel Urgentie Team",
+  "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQglFqJ2y1yCtkJnkcSF7mw9jqel7y_hFgP8w&s",
+  "round": "R1",
+  "Thema": "Cultuur"
+},
+{
+  "type": "open",
+  "question": "Welke Belgische speculoos wordt vaak bij koffie geserveerd?",
+  "correct": "Biskoff",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/13/Biscuit_de_speculoos_1.jpg/1200px-Biscuit_de_speculoos_1.jpg",
+  "round": "R1",
+  "Thema": "Gastronomie"
+},
+{
+  "type": "open",
+  "question": "Welke bijnaam wordt gegeven aan het Belgische vrouwenteam in de bobslee?",
+  "correct": "Belgian Bullets",
+  "image": "https://image.demorgen.be/212882965/width/2480/belgian-bullets-bobsleeproject-dat-in-2007-levenslicht-zag",
+  "round": "R1",
+  "Thema": "Sport"
+},
+{
+  "type": "open",
+  "question": "Welke Amerikaanse zangeres en actrice werd bekend door hits in de jaren 50 en 60 zoals 'Que sera sera'?",
+  "correct": "Doris Day",
+  "image": "https://whyy.org/wp-content/uploads/2019/05/AP_19133448781242.jpg",
+  "round": "R1",
+  "Thema": "Muziek"
+},
+{
+  "type": "open",
+  "question": "Welke Deense wielrenner won de Tour de France in 2022 en staat bekend om zijn klimcapaciteiten?",
+  "correct": "Vingegaard",
+  "image": "https://redactie.rtl.nl/sites/default/files/ANP140325081-1.jpg?itok=3g9JMYGH&width=1024&height=576&impolicy=semi_dynamic",
+  "round": "R2",
+  "Thema": "Sport"
+},
+{
+  "type": "open",
+  "question": "Welk natuurlijk materiaal wordt vaak gebruikt als milieuvriendelijk isolatiemateriaal in gebouwen?",
+  "correct": "Vlas",
+  "image": "https://www.isolatie-info.be/wp-content/uploads/anorganische-glaswol-isolatie.jpg",
+  "round": "R2",
+  "Thema": "Natuur"
+},
+{
+  "type": "open",
+  "question": "Welk Europees is geen lid van de EU?",
+  "correct": "Zwitserland",
+  "image": "https://www.radar.org/sites/default/files/styles/max_1300x1300/public/2022-06/european-union-g2dad2e24c_1280.png?itok=X0qvaEbg",
+  "round": "R2",
+  "Thema": "Geografie"
+},
+{
+  "type": "open",
+  "question": "Welke Duitse zangeres is vooral bekend om haar schlagerhits zoals 'Atemlos durch die Nacht'?",
+  "correct": "Helene Fischer",
+  "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTrUS67csjzUhuW2UXOB4XN5-y0rFWto-FPmw&s",
+  "round": "R2",
+  "Thema": "Muziek"
+},
+{
+  "type": "open",
+  "question": "Het liedje 'Met de trein naar Oostende' heeft een nederlands variant, waar gaat deze trein naartoe?",
+  "correct": "Zandvoort",
+  "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQdShyHncFcoxno9SmBs5Gp9nIrMlMOEegDwg&s",
+  "round": "R2",
+  "Thema": "Muziek"
+},
+{
+  "type": "open",
+  "question": "Welke Britse singer-songwriter bracht albums uit met titels die verwijzen naar wiskunde, zoals '+', '×' en '÷'?",
+  "correct": "Ed Sheeran",
+  "image": "https://mosaic.scdn.co/640/ab67616d00001e0213b3e37318a0c247b550bccdab67616d00001e026567a393a964a845a89b7f70ab67616d00001e02ba5db46f4b838ef6027e6f96ab67616d00001e02ef24c3fdbf856340d55cfeb2",
+  "round": "R3",
+  "Thema": "Muziek"
+},
+{
+  "type": "open",
+  "question": "Welke beroemde jaarlijkse tennistoernooi wordt gespeeld op gras en vindt plaats in Londen?",
+  "correct": "Wimbledon",
+  "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/24/fb/dc/12/setting-up.jpg?w=1200&h=-1&s=1",
+  "round": "R3",
+  "Thema": "Sport"
+},
+{
+  "type": "open",
+  "question": "Welke Belgische politicus is lid van de MR en bekleedt verschillende ministerposten in de federale regering?",
+  "correct": "David Clarinval",
+  "image": "https://clarinval.belgium.be/sites/default/files/minister/Davic_clarinval_belgium.jpg",
+  "round": "R3",
+  "Thema": "Politiek"
+},
+{
+  "type": "open",
+  "question": "Welke afkorting wordt gebruikt voor een aandoening die vaak voorkomt bij langdurig gebruik van een computer of smartphone en staat voor repetitieve bewegingen van spieren en pezen?",
+  "correct": "RSI",
+  "image": "https://caretomove.be/_library/_files/Tenniselleboog.jpg",
+  "round": "R3",
+  "Thema": "Wetenschappen"
+},
+{
+  "type": "open",
+  "question": "Welke bekende sprookjesfiguur ruilt zijn hulp tegen iets persoonlijks, zoals een eerstgeborene, in de verhalen van de gebroeders Grimm?",
+  "correct": "Repelsteeltje",
+  "image": "https://latrottinette.be/wp-content/uploads/2021/06/Repelsteeltje_460_400.png",
+  "round": "R3",
+  "Thema": "Boeken & Strips"
+},
+{
+  "type": "open",
+  "question": "Welke varken speelt de rol van dictator in George Orwell's 'Animal Farm'?",
+  "correct": "Napoleon",
+  "image": "https://m.media-amazon.com/images/I/71JUJ6pGoIL.jpg",
+  "round": "R4",
+  "Thema": "Boeken & Strips"
+},
+{
+  "type": "open",
+  "question": "Welke Britse zangeres werd bekend in de jaren 60 met hits zoals 'Downtown'?",
+  "correct": "Petula Clark",
+  "image": "https://cdn.recordcollectormag.com/wp-content/uploads/2020/10/923.jpg",
+  "round": "R4",
+  "Thema": "Muziek"
+},
+{
+  "type": "open",
+  "question": "Hoe heet de speciale arena waar wielrenners op een baan rijden tijdens wedstrijden zoals sprint en achtervolging?",
+  "correct": "Velodroom",
+  "image": "https://www.sport.vlaanderen/media/bynder/900F1F68-80ED-47BB-9534C0E34A23ECD8/900F1F68-80ED-47BB-9534C0E34A23ECD8.jpg?rmode=crop&width=415&height=420&rxy=0.5970528455284553,0.6173780487804877&quality=70",
+  "round": "R4",
+  "Thema": "Sport"
+},
+{
+  "type": "open",
+  "question": "Welke rivier stroomt door Berlijn en is een zijrivier van de Havel?",
+  "correct": "Spree",
+  "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/23/4e/46/c6/museum-island.jpg?w=900&h=-1&s=1",
+  "round": "R4",
+  "Thema": "Geografie"
+},
+{
+  "type": "open",
+  "question": "Hoe heet het traditionele tentachtige huis van veel Noord-Amerikaanse inheemse volkeren op de prairies?",
+  "correct": "Tipi",
+  "image": "https://s3.eu-west-1.amazonaws.com/v2-eu-ireland.bijzonderplekje.nl/wp-content/uploads/2018/04/13115026/tipi_by_night__2017_cover.jpg",
+  "round": "R4",
+  "Thema": "Cultuur"
+},
+{
+  "type": "open",
+  "question": "Welke Tsjechische schrijver staat bekend om werken zoals 'Het Proces' en 'Het Slot'?",
+  "correct": "Franz Kafka",
+  "image": "https://images.vrt.be/vrtnws_web/2024/06/03/092a52e7-219f-11ef-8fc9-02b7b76bf47f.png?width=900&height=506",
+  "round": "R4",
+  "Thema": "Boeken & Strips"
+},
+{
+  "type": "open",
+  "question": "Welke chemische stof werd tijdens de Eerste Wereldoorlog gebruikt als wapen en veroorzaakt brandwonden en blaren op de huid?",
+  "correct": "Mosterdgas",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/a/ae/Trichlormethine.svg",
+  "round": "R4",
+  "Thema": "Geschiedenis"
+},
+{
+  "type": "open",
+  "question": "Welke vitamine is belangrijk om scheurbuik te voorkomen?",
+  "correct": "Vitamine C",
+  "image": "https://irp.cdn-website.com/32e6cfac/dms3rep/multi/Melissa-moerman-Alle-vitamines.png",
+  "round": "R4",
+  "Thema": "Wetenschappen"
+},
+{
+  "type": "open",
+  "question": "Welke vrucht wordt vaak gebruikt als vulling in de Oostenrijkse Sachertorte?",
+  "correct": "Abrikoos",
+  "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSo02hFr6Pgz9iah3HKhh1l597r4-4_kSd5pA&s",
+  "round": "R4",
+  "Thema": "Gastronomie"
+},
+{
+  "type": "open",
+  "question": "Hoe wordt iemand genoemd wiens genderidentiteit overeenkomt met het geslacht dat bij de geboorte is toegewezen?",
+  "correct": "Cisgender",
+  "image": "https://www.ze.nl/beeld/2023/319390-cisgender.jpeg",
+  "round": "R5",
+  "Thema": "Cultuur"
+},
+{
+  "type": "open",
+  "question": "Van welke dynastie is koning Filip van België een lid?",
+  "correct": "Saksen-Coburg",
+  "image": "https://prod-img.gva.be/public/incoming/2mstjv-koningin-mathilde-en-koning-filip-bij-een-vorig-staatsbezoek./alternates/THREE_TWO_1620/Koningin%20Mathilde%20en%20koning%20Filip%20bij%20een%20vorig%20staatsbezoek.",
+  "round": "R5",
+  "Thema": "Geschiedenis"
+},
+{
+  "type": "open",
+  "question": "Welke chemische stof, ook bekend als natriumcarbonaat, wordt vaak gebruikt bij het reinigen en in de keuken?",
+  "correct": "Soda",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/5/5c/Sodium_carbonate.svg",
+  "round": "R5",
+  "Thema": "Wetenschappen"
+},
+{
+  "type": "open",
+  "question": "Welke Nederlandse zangeres wordt genoemd in het liedje van Louis Neefs uit de jaren 60?",
+  "correct": "Martine Bijl",
+  "image": "https://images.vrt.be/vrtnws_web/2020/12/25/7622d114-46b5-11eb-aae0-02b7b76bf47f.jpg?width=900&height=506",
+  "round": "R5",
+  "Thema": "Muziek"
+},
+{
+  "type": "open",
+  "question": "Welke pittige, ingelegde groentemix uit de Indonesische keuken wordt vaak als bijgerecht geserveerd in België en Nederland?",
+  "correct": "Atjar",
+  "image": "https://www.maxvandaag.nl/wp-content/uploads/2018/10/Atjar_Shutterstock_1100_400-890x400.jpg",
+  "round": "R5",
+  "Thema": "Gastronomie"
+},
+{
+  "type": "open",
+  "question": "Welke internationale sportwedstrijd combineert hardlopen met functionele fitnessoefeningen in een competitieformat?",
+  "correct": "Hyrox",
+  "image": "https://cdn.webshopapp.com/shops/73945/files/454896828/hyrox-tips-zo-maak-je-van-jouw-race-een-success.jpg",
+  "round": "R5",
+  "Thema": "Sport"
+},
+{
+  "type": "open",
+  "question": "Hoe heet het Vlaamse televisieprogramma van Karolien De Decker dat op maandag wordt uitgezonden?",
+  "correct": "Morgen Maandag",
+  "image": "https://www.vrt.be/nl/assets/styles/teaser_square_ratio_1_1/public/images/99aa2435-ec29-11ea-aae0-02b7b76bf47f.jpg?itok=gIT7ocwT",
+  "round": "R5",
+  "Thema": "Shows & Films"
+},
+{
+  "type": "open",
+  "question": "Welke Nederlandse zanger is bekend van hits zoals 'Brabant' en 'Het is een Nacht'?",
+  "correct": "Guus Meeuwis",
+  "image": "https://i.ytimg.com/vi/IvIoWm2-9vg/maxresdefault.jpg",
+  "round": "R5",
+  "Thema": "Muziek"
+},
+{
+  "type": "open",
+  "question": "Welke handelswaar leidde in de 19e eeuw tot oorlogen tussen Groot-Brittannië en China?",
+  "correct": "Opium",
+  "image": "https://media.sciencephoto.com/b7/87/01/01/b7870101-800px-wm.jpg",
+  "round": "R6",
+  "Thema": "Geschiedenis"
+},
+{
+  "type": "open",
+  "question": "Welke Britse kunstenaar staat bekend om zijn kleurrijke schilderijen van zwembaden en portretten?",
+  "correct": "David Hockney",
+  "image": "https://d7hftxdivxxvm.cloudfront.net/?quality=80&resize_to=width&src=https%3A%2F%2Fartsy-media-uploads.s3.amazonaws.com%2Fb7j2Rs67douaV7n1QPS8Pg%252FLot%2B9C%252C%2BHockney%252C%2BPortrait%2Bof%2Ban%2BArtist%2B%2528Pool%2Bwith%2BTwo%2BFigures%2529.jpg&width=910",
+  "round": "R6",
+  "Thema": "Kunst"
+},
+{
+  "type": "open",
+  "question": "Welke chemische verbinding, bekend als NaCl, wordt dagelijks gebruikt in de keuken?",
+  "correct": "Keukenzout",
+  "image": "https://i.ytimg.com/vi/L2vT5NqRbrk/maxresdefault.jpg",
+  "round": "R6",
+  "Thema": "Wetenschappen"
+},
+{
+  "type": "open",
+  "question": "Welke Egyptische farao staat centraal in het gedicht 'Ozymandias' van Percy Bysshe Shelley, waarbij zijn naam wordt weergegeven in de Griekse vorm?",
+  "correct": "Ramses",
+  "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRlbAMK7Q3IejMDxtb0t2LFCiF7kUxqeHs7GA&s",
+  "round": "R6",
+  "Thema": "Geschiedenis"
+},
+{
+  "type": "open",
+  "question": "Welke Nederlandse zwemster maakte naam op internationale wedstrijden in het open water en in het zwembad?",
+  "correct": "Van Otterdijk",
+  "image": "https://images.vrt.be/width960/2023/02/11/1c9151d2-aa04-11ed-b07d-02b7b76bf47f.jpg",
+  "round": "R6",
+  "Thema": "Sport"
+},
+{
+  "type": "open",
+  "question": "In welke stad aan de westkust van de Verenigde Staten eindigt de historische Route 66?",
+  "correct": "Santa Monica",
+  "image": "https://www.nps.gov/articles/images/1280px-Us_66_rough.jpg?maxwidth=650&autorotate=false",
+  "round": "R6",
+  "Thema": "Geografie"
+},
+{
+  "type": "open",
+  "question": "Welk automerk wordt vaak geassocieerd met James Bond in films zoals 'Goldfinger' en 'Skyfall'?",
+  "correct": "Aston Martin",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/3/3d/Aston_Martin_DB5_%28Skyfall%29.jpg",
+  "round": "R7",
+  "Thema": "Shows & Films"
+},
+{
+  "type": "open",
+  "question": "Welke Britse band bracht in 1998 de dancehit 'God Is a DJ' uit?",
+  "correct": "Faithless",
+  "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ3trewa0AOvvSTiAaiAbX3VFri2QAEHlUQZA&s",
+  "round": "R7",
+  "Thema": "Muziek"
+},
+{
+  "type": "open",
+  "question": "Welke hete, vloeibare gesteente massa bevindt zich onder het aardoppervlak en kan bij een uitbarsting als lava naar buiten komen?",
+  "correct": "Magma",
+  "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT4mENv5_Uhix7Rj-OArh9sdNB9yyy7kmPTng&s",
+  "round": "R7",
+  "Thema": "Natuur"
+},
+{
+  "type": "open",
+  "question": "Welke Nederlandse zangeres en songwriter is bekend van hits op TikTok en haar eigen popnummers?",
+  "correct": "Hannah Mae",
+  "image": "https://www.avrotros.nl/cms/assets/e37bd003-3830-4ade-8bb2-4e1e3e37cf58?format=webp&quality=65&withoutEnlargement=true&transforms=%5B%5B%22resize%22%2C%7B%22width%22%3A976%2C%22height%22%3A549%7D%5D%2C%5B%22extract%22%2C%7B%22left%22%3A201%2C%22top%22%3A0%2C%22width%22%3A575%2C%22height%22%3A549%7D%5D%5D",
+  "round": "R7",
+  "Thema": "Muziek"
+},
+{
+  "type": "open",
+  "question": "Welke kleine roofdieren uit de familie van de marterachtigen zijn bekend om hun behendigheid en worden soms in tuinen aangetroffen?",
+  "correct": "Marterachtigen",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/3/3a/Mustelidae-01.jpg",
+  "round": "R7",
+  "Thema": "Natuur"
+},
+{
+  "type": "open",
+  "question": "Welke Vlaamse podcast behandelt actuele thema's en gesprekken in korte afleveringen?",
+  "correct": "Het Kwartier",
+  "image": "https://images.vrt.be/orig/2025/09/03/70bfa758-6bcb-44d3-bfe0-e879ef6f5233.jpg?aspect_ratio=16%3A9&h=412",
+  "round": "R7",
+  "Thema": "Shows & Films"
+},
+{
+  "type": "open",
+  "question": "Op welke datum vieren de Verenigde Staten hun nationale feestdag, die ook samenvalt met de onthulling van het Vrijheidsbeeld?",
+  "correct": "4 juli",
+  "image": "https://www.historyhit.com/app/uploads/bis-images/5150130/Statue-of-Liberty-e1632495792514-788x537.jpg?x66751",
+  "round": "R7",
+  "Thema": "Geschiedenis"
+},
+{
+  "type": "open",
+  "question": "Welke romantische film uit 1999 met Julia Roberts en Hugh Grant speelt zich af in een Londense wijk?",
+  "correct": "Notting Hill",
+  "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSIguP8krVyKjxDHGzYwo9hBFdOn6DdEpWtiw&s",
+  "round": "R7",
+  "Thema": "Shows & Films"
+},
+{
+  "type": "open",
+  "question": "Hoe heet de tekst van een opera of muziekstuk die de zangers volgen tijdens hun uitvoering?",
+  "correct": "Libretto",
+  "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQDDSH9gI9jL-0gruX0FS8MfUUSHKeXiN1dRQ&s",
+  "round": "R8",
+  "Thema": "Muziek"
+},
+{
+  "type": "open",
+  "question": "Welk elegant lettertype, vaak gebruikt voor uitnodigingen en luxe ontwerpen, heet hetzelfde als een Franse meisjesnaam?",
+  "correct": "Gigi",
+  "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSIXINwBe9Ye619xyoBVdmXPdjL9c3PtEALeg&s",
+  "round": "R8",
+  "Thema": "Cultuur"
+},
+{
+  "type": "open",
+  "question": "Welke Amerikaanse dramaserie speelt zich af op een ranch in Montana en volgt de familie Dutton?",
+  "correct": "Yellowstone",
+  "image": "https://www.27vakantiedagen.nl/wp-content/uploads/2021/08/amerika-yellowstone-grand-prismatic-spring.jpg",
+  "round": "R8",
+  "Thema": "Shows & Films"
+},
+{
+  "type": "open",
+  "question": "Welke laboratoriumglaswerk heeft een smalle hals en een brede, kegelvormige bodem en wordt vaak gebruikt voor mengreacties?",
+  "correct": "Erlenmeyer",
+  "image": "https://www.glas-shop.be/media/image/fe/9f/3f/GT00154-1000ml-Erlenmeyerkolben-weit_600x600.jpg",
+  "round": "R8",
+  "Thema": "Wetenschappen"
+},
+{
+  "type": "open",
+  "question": "Welk land vertegenwoordigde het nummer 'Espresso Machiatio' op het Eurovisiesongfestival?",
+  "correct": "Estland",
+  "image": "https://i.ytimg.com/vi/r_wlMp6ogDo/maxresdefault.jpg",
+  "round": "R8",
+  "Thema": "Muziek"
+},
+{
+  "type": "open",
+  "question": "Welke populaire bordspelserie laat spelers dorpen en steden bouwen, grondstoffen verzamelen en handelen op een fictief eiland?",
+  "correct": "Kolonisten van Catan",
+  "image": "https://www.spelhuis.be//Files/7/112000/112353/ProductPhotos/Source/718097985.png",
+  "round": "R9",
+  "Thema": "IT & Games"
+},
+{
+  "type": "open",
+  "question": "Welke Franse schrijfster en filosofe, bekend om haar werk over feminisme, schreef 'Le Deuxième Sexe'?",
+  "correct": "Simone de Beauvoir",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/c/c1/Simone_de_Beauvoir2.png",
+  "round": "R9",
+  "Thema": "Boeken & Strips"
+},
+{
+  "type": "open",
+  "question": "Welke Amerikaanse singer-songwriter is bekend om introspectieve popnummers en heeft een opkomende carrière sinds 2020?",
+  "correct": "Chappell Roan",
+  "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTP_9QHVFA2e05ppn0uuoLfMkYrBHWpurZqtA&s",
+  "round": "R9",
+  "Thema": "Muziek"
+},
+{
+  "type": "open",
+  "question": "Welke zeevogel staat bekend om zijn grote vleugels en ziet u hier op deze foto?",
+  "correct": "Jan van Gent",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/5/59/Northern_Gannet_2006_2.jpg",
+  "round": "R9",
+  "Thema": "Natuur"
+},
+{
+  "type": "open",
+  "question": "Van welke plantsoort wordt de drank tequila traditioneel gemaakt?",
+  "correct": "Aloevera",
+  "image": "https://static.delhaize.be/medias/sys_master/products/h15/hb5/13411958095902.jpg",
+  "round": "R9",
+  "Thema": "Gastronomie"
+},
+{
+  "type": "open",
+  "question": "Hoe heet een klankeenheid binnen een woord die vaak één klinker bevat en wordt gebruikt in taalkunde?",
+  "correct": "Lettergreep",
+  "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQlJDAw7vqtlNNzZJYBWHA4tt4n3Cg5Xi6ztA&s",
+  "round": "R9",
+  "Thema": "Taal"
+},
+{
+  "type": "open",
+  "question": "Welke Italiaanse componist schreef 'Le Quattro Stagioni', een reeks van vier vioolconcerten?",
+  "correct": "Vivaldi",
+  "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcShf19g3DXwUkvnteVzXZn46M9mS402-PXWMQ&s",
+  "round": "R9",
+  "Thema": "Muziek"
+},
+{
+  "type": "open",
+  "question": "Welke Belgische ondernemer staat bekend als CEO en leidinggevende van een internationaal bedrijf?",
+  "correct": "Bijnens",
+  "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTCKzimpO3owbdsspuSCOTiThSip9tg1gcOlg&s",
+  "round": "R9",
+  "Thema": "Politiek"
+},
+{
+  "type": "open",
+  "question": "Welke Belgische organisatie is verantwoordelijk voor het opsporen en onschadelijk maken van explosieven en munitie?",
+  "correct": "DOVO",
+  "image": "https://image.demorgen.be/35654830/width/2480/aantal-tussenkomsten-van-dovo-stijgt-enorm",
+  "round": "R10",
+  "Thema": "Politiek"
+},
+{
+  "type": "open",
+  "question": "Welke Amerikaanse kunstenaar is een belangrijke figuur in de popart-beweging en staat bekend om zijn werken van Marilyn Monroe en Campbell’s soepblikken?",
+  "correct": "Andy Warhol",
+  "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSgASnjoEDzqAVr8BO24k5BKgXtKplGCg_QEg&s",
+  "round": "R10",
+  "Thema": "Kunst"
+},
+{
+  "type": "open",
+  "question": "Welke rode wijn wordt gemaakt van een druivensoort die bekendstaat om zijn delicate smaak en wordt veel gebruikt in Bourgogne?",
+  "correct": "Pinot Noir",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/Pinot_noir_-_Bourgogne_%28Santenay%29.JPG/1200px-Pinot_noir_-_Bourgogne_%28Santenay%29.JPG",
+  "round": "R10",
+  "Thema": "Gastronomie"
+},
+{
+  "type": "open",
+  "question": "Wat is de correcte schrijfwijze van het woord dat een mengeling van onaangename of chaotische geluiden beschrijft (Kak?fonie)?",
+  "correct": "Kakofonie",
+  "image": "https://thumbs.dreamstime.com/b/de-mens-stopte-zijn-oren-met-vingers-108754988.jpg",
+  "round": "R10",
+  "Thema": "Taal"
+},
+{
+  "type": "open",
+  "question": "Welk sterrenbeeld wordt geassocieerd met Will Tura, de Belgische zanger geboren op 2 augustus?",
+  "correct": "Leeuw",
+  "image": "https://willtura.be/Will_Tura_Website/Welkom_files/droppedImage_1.jpg",
+  "round": "R10",
+  "Thema": "Muziek"
+},
+{
+  "type": "open",
+  "question": "Welke Belgische arena in Mechelen wordt gebruikt voor sportwedstrijden, concerten en evenementen?",
+  "correct": "AFAS Dome",
+  "image": "https://znaki.fm/static/content/thumbs/388x337/b/e3/qlqpqt-350167a941c04495b7a4f9a4ed3b7e3b.jpg",
+  "round": "R10",
+  "Thema": "Sport"
+},
+{
+  "type": "open",
+  "question": "Hoe wordt een auto genoemd die als klassieker wordt beschouwd en vaak een 'O'-sticker op de nummerplaat heeft in België?",
+  "correct": "Oldtimer",
+  "image": "https://www.moje-auto.pl/blog/wp-content/uploads/2024/05/czerwone-auto-zabytkowe.jpg",
+  "round": "R10",
+  "Thema": "Cultuur"
+},
+{
+  "type": "open",
+  "question": "Wat betekent de afkorting 'Kladiladi'?",
+  "correct": "Klap die laptop dicht",
+  "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS-0sJP-jOvedIO6p9S0KI3wQNcW6mb_eDX7g&s",
+  "round": "R10",
+  "Thema": "Taal"
+}
+
+
+
+  ]
+}
