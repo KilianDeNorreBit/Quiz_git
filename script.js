@@ -3,7 +3,8 @@ const QUIZZES = {
   "Quiz My Ass": "quizzes/quiz-questions.json",
   "De Grote Mei Quiz": "quizzes/quiz-questions2.json",
   "De slimste mens van Eeregem": "quizzes/quiz-questions3.json",
-  "Raak Quiz": "quizzes/quiz-questions4.json"
+  "Raak Quiz": "quizzes/quiz-questions4.json",
+  "De Valier": "quizzes/quiz-questions5.json"
 };
 
 let questions = [];
