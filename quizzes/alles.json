@@ -1992,6 +1992,9 @@
 
 
 
+
+
+
 {
   "type": "open",
   "question": "Welke sciencefictionfranchise draait rond de USS Enterprise en personages zoals Spock en Captain Kirk?",
@@ -2559,6 +2562,587 @@
   "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS-0sJP-jOvedIO6p9S0KI3wQNcW6mb_eDX7g&s",
   "round": "R10",
   "Thema": "Taal"
+},
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+{
+  "type": "open",
+  "question": "Hoe heet de natuurlijke inzinking tussen de heupbeenderen en dijen, ook bekend als ‘hip dips’?",
+  "correct": "vioolheupen",
+  "image": "https://assets.clevelandclinic.org/transform/949b713f-42e8-4914-9f44-8bcf33a221c8/hip-dip-200496071-001",
+  "round": "R1",
+  "Thema": "Wetenschappen"
+},
+{
+  "type": "open",
+  "question": "Welke Amerikaanse staat heeft een vlag met dertien rode en gele stralen die een zonsondergang voorstellen boven een blauwe onderhelft met een koperen ster in het midden?",
+  "correct": "Arizona",
+  "image": "https://images.vrt.be/vrtnws_share/2024/06/12/7353591e-28d2-11ef-92ff-02b7b76bf47f.jpg",
+  "round": "R1",
+  "Thema": "Geografie"
+},
+{
+  "type": "open",
+  "question": "Hoe heet het iconische personage uit de Vlaamse sketchreeks ‘Wat Als?’ dat bekendstaat om zijn pijnlijk awkward sociale interacties?",
+  "correct": "Sociaal Incapabele Michiel",
+  "image": "https://image.humo.be/243361526/width/2480/sociaal-incapabele-michiel-4366-wist-je-dat",
+  "round": "R1",
+  "Thema": "Shows & Films"
+},
+{
+  "type": "open",
+  "question": "Hoe wordt de verspreiding van een volk of etnische groep over verschillende delen van de wereld, vaak als gevolg van migratie of verdrijving, genoemd?",
+  "correct": "diaspora",
+  "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR-ekHXbjfGQph2OWb0H9D7s7IJfJNsWZ28tw&s",
+  "round": "R1",
+  "Thema": "Geschiedenis"
+},
+{
+  "type": "open",
+  "question": "Hoe heet het fenomeen waarbij een man iets op een neerbuigende of betuttelende manier uitlegt aan iemand, vaak een vrouw, terwijl hij ervan uitgaat dat zij minder kennis heeft?",
+  "correct": "mansplaining",
+  "image": "https://i0.wp.com/patriciagestoso.com/wp-content/uploads/2023/02/LetMeExplain.jpg?resize=625%2C405&ssl=1",
+  "round": "R1",
+  "Thema": "Cultuur"
+},
+{
+  "type": "open",
+  "question": "Welke Oost-Vlaamse stad staat bekend om de opvallend scheefstaande Onze-Lieve-Vrouwekerk?",
+  "correct": "Ninove",
+  "image": "https://prod-img.standaard.be/public/nieuws/z9rirf-de-kerktoren-helt-17-meter-over-de-helft-zegt-de-ninoofse-stadsarchitect-wim-liebaut./alternates/BASE_FOUR_FIVE/De%20kerktoren%20helt%2017%20meter%20over%20de%20helft%20zegt%20de%20Ninoofse%20stadsarchitect%20Wim%20Liebaut.",
+  "round": "R1",
+  "Thema": "Geografie"
+},
+{
+  "type": "open",
+  "question": "Welk land is qua oppervlakte het grootste op het Afrikaanse continent?",
+  "correct": "Algerije",
+  "image": "https://as1.ftcdn.net/v2/jpg/01/17/99/30/1000_F_117993060_gp4gTmfuEi3oFSOTBMY982rZFda9f3SC.jpg",
+  "round": "R2",
+  "Thema": "Geografie"
+},
+{
+  "type": "open",
+  "question": "Welke thrillerfilm uit 2002 gaat over een moeder en dochter die zich verstoppen in een speciaal beveiligde kamer in hun huis tijdens een inbraak?",
+  "correct": "Panic Room",
+  "image": "https://filmkrant.nl/wp-content/uploads/2010/10/panic_room-1000x563.jpg",
+  "round": "R2",
+  "Thema": "Shows & Films"
+},
+{
+  "type": "open",
+  "question": "Welke voormalige drummer van The Rolling Stones overleed tragisch in een zwembad in 1969?",
+  "correct": "Brian Jones",
+  "image": "https://static01.nyt.com/images/2023/11/16/multimedia/16stones-review2-bkqw/16stones-review2-bkqw-superJumbo.jpg",
+  "round": "R2",
+  "Thema": "Muziek"
+},
+{
+  "type": "open",
+  "question": "Welk symbool wordt vaak gebruikt om expliciete of gewaagde inhoud te maskeren of censureren?",
+  "correct": "wit vierkantje",
+  "image": "https://images.fineartamerica.com/images/artworkimages/mediumlarge/3/parental-advisory-explicit-content-charryell-matthew.jpg",
+  "round": "R2",
+  "Thema": "Cultuur"
+},
+{
+  "type": "open",
+  "question": "Welke Franse kunstenaar staat bekend om zijn affiches van het Parijse nachtleven, waaronder de beroemde Moulin Rouge-posters?",
+  "correct": "Toulouse Lautrec",
+  "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTQPTv1_IakVlUNUIdIHqC-QuoFzEt84R256g&s",
+  "round": "R2",
+  "Thema": "Kunst"
+},
+{
+  "type": "open",
+  "question": "Welke merknaam wordt vaak geassocieerd met dun papier dat gebruikt wordt om sigaretten mee te rollen?",
+  "correct": "Rizla",
+  "image": "https://www.medipro.nl/wp-content/uploads/2022/11/afbeelding-filtersigaretten-goede-maat.jpg",
+  "round": "R2",
+  "Thema": "Gastronomie"
+},
+{
+  "type": "open",
+  "question": "Welke Braziliaanse voetballer staat bekend om zijn dribbels, doelpunten en speelt(e) bij clubs als Barcelona en Paris Saint-Germain?",
+  "correct": "Neymar",
+  "image": "https://images.vrt.be/width960/2025/12/08/fb2d5b62-fbc1-4c91-9515-1d2cd061fdd3.jpg",
+  "round": "R2",
+  "Thema": "Sport"
+},
+{
+  "type": "open",
+  "question": "Welke boomsoort kan giftig zijn voor paarden als ze ervan eten?",
+  "correct": "Elsdoorn",
+  "image": "https://i1.sndcdn.com/artworks-KGO4VMZpfxt6AshT-18mvNQ-t500x500.jpg",
+  "round": "R2",
+  "Thema": "Natuur"
+},
+{
+  "type": "open",
+  "question": "Welk land ligt het meest westelijk in de Europese Unie?",
+  "correct": "Portugal",
+  "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTU3qdGq8bfZypxyh5GGfljsjoS4xASHR7Vwg&s",
+  "round": "R3",
+  "Thema": "Geografie"
+},
+{
+  "type": "open",
+  "question": "Hoe wordt een vrouwelijke ridder traditioneel genoemd?",
+  "correct": "Dame",
+  "image": "https://images.bonnier.cloud/files/his/production/2019/09/08231821/female_knight-ng7acrwrooxolen2qo2xpa.jpg",
+  "round": "R3",
+  "Thema": "Geschiedenis"
+},
+{
+  "type": "open",
+  "question": "Welke term wordt gebruikt voor een likdoorn, een verdikte eeltplek op de voet die vaak pijnlijk is?",
+  "correct": "Ekstrogen",
+  "image": "https://footlogics.nl/wp-content/uploads/2023/03/Eksteroog-en-Likdoorn-het-verschil.png",
+  "round": "R3",
+  "Thema": "Wetenschappen"
+},
+{
+  "type": "open",
+  "question": "Welke chemische verbinding staat bekend als keukenzout?",
+  "correct": "Natriumchloride",
+  "image": "https://www.fit.nl/wp-content/uploads/2018/12/zout-per-dag.jpg",
+  "round": "R3",
+  "Thema": "Wetenschappen"
+},
+{
+  "type": "open",
+  "question": "Welke grote zoetwatervis staat bekend om zijn baarddraden en kan in sommige rivieren meterslang worden?",
+  "correct": "Meerval",
+  "image": "https://tom-cat.nl/wp-content/uploads/2022/02/Europese-meerval-silurus-glanis.jpeg",
+  "round": "R3",
+  "Thema": "Natuur"
+},
+{
+  "type": "open",
+  "question": "Welke korte, vaak humoristische dichtvorm bestaat uit vijf regels met een aabba-rijmschema?",
+  "correct": "Limerick",
+  "image": "https://www.leukespreuk.nl/images/limerick_voorbeelden_man_terschelling_fiets_versnelling_160x160.gif",
+  "round": "R3",
+  "Thema": "Taal"
+},
+{
+  "type": "open",
+  "question": "Welk optisch instrument creëert steeds veranderende symmetrische patronen door het weerkaatsen van licht in gekleurde objecten?",
+  "correct": "Kaleidoscoop",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/View_of_a_kaleidoscope.JPG/1200px-View_of_a_kaleidoscope.JPG",
+  "round": "R3",
+  "Thema": "Wetenschappen"
+},
+{
+  "type": "open",
+  "question": "Welke Vlaamse figuur is een geliefd kinderpersonage uit boeken en televisie, bekend om zijn avonturen en speelse karakter?",
+  "correct": "Pierke Pierlala",
+  "image": "https://histories.be/wp-content/uploads/2021/07/Luk-Pierke-scaled.jpg",
+  "round": "R3",
+  "Thema": "Boeken & Strips"
+},
+{
+  "type": "open",
+  "question": "Welke plaats in België staat bekend om een schooldomein dat dezelfde naam draagt als deze stad in Frankrijk?",
+  "correct": "Argenteuil",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/13/Ch%C3%A2teau_d%27Argenteuil.JPG/1200px-Ch%C3%A2teau_d%27Argenteuil.JPG",
+  "round": "R3",
+  "Thema": "Cultuur"
+},
+{
+  "type": "open",
+  "question": "Welke band bracht het nummer 'Victoria' uit?",
+  "correct": "Lavvi Ebbel",
+  "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQNGnAHFxwua6z3Q5umN3LArsO3zRcDG1gQ4A&s",
+  "round": "R3",
+  "Thema": "Muziek"
+},
+{
+  "type": "open",
+  "question": "Wat is het land waarvan de hoofdstad Vientiane is?",
+  "correct": "Laos",
+  "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ11Ee_-YkVzA-v5JfG1R60huIkLMwO7HBJbA&s",
+  "round": "R3",
+  "Thema": "Geografie"
+},
+{
+  "type": "open",
+  "question": "Welke laag van de atmosfeer bevindt zich boven de troposfeer en bevat de ozonlaag?",
+  "correct": "Stratosfeer",
+  "image": "https://media.istockphoto.com/id/482119728/nl/foto/view-of-the-earth-from-space.jpg?s=612x612&w=0&k=20&c=2E3lX4VuDEVKabwWxIbKRIYJ9Q9fq1aKiSK-s1FXBC8=",
+  "round": "R3",
+  "Thema": "Wetenschappen"
+},
+{
+  "type": "open",
+  "question": "Welke Cubaanse politicus en broer van Fidel Castro leidde Cuba van 2008 tot 2018?",
+  "correct": "Raúl Castro",
+  "image": "https://media.cnn.com/api/v1/images/stellar/prod/210416133355-01-raul-castro-restricted.jpg?q=w_3000,c_fill",
+  "round": "R3",
+  "Thema": "Politiek"
+},
+{
+  "type": "open",
+  "question": "Welke plaats in België organiseert een bekend festival waar onder andere moddergevechten plaatsvinden?",
+  "correct": "Dranouter",
+  "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT4jA5FigUTq0tInf8lZmhsVeSpHEDAnsDrVw&s",
+  "round": "R3",
+  "Thema": "Cultuur"
+},
+{
+  "type": "open",
+  "question": "Welke Britse fabrikant is bekend als luxe automerk maar produceert ook vliegtuigmotoren?",
+  "correct": "Rolls Royce",
+  "image": "https://pilotenassessmenttraining.nl/wp-content/uploads/2025/09/Vliegtuigfabrikanten-1.jpg",
+  "round": "R3",
+  "Thema": "Wetenschappen"
+},
+{
+  "type": "open",
+  "question": "Hoe noemt men de larven van kevers, die vaak in de grond leven en bekendstaan als schadelijk voor plantenwortels?",
+  "correct": "Engerling",
+  "image": "https://moowy.be/wp-content/uploads/sites/4/2022/10/engerlingen.jpg",
+  "round": "R3",
+  "Thema": "Natuur"
+},
+{
+  "type": "open",
+  "question": "Welk codewoord werd internationaal gebruikt om de operatie aan te duiden die Osama bin Laden tot doel had?",
+  "correct": "Geronimo",
+  "image": "https://static01.nyt.com/images/2021/08/22/books/review/Richardson1/Richardson1-videoSixteenByNineJumbo1600.jpg",
+  "round": "R3",
+  "Thema": "Politiek"
+},
+{
+  "type": "open",
+  "question": "Welk Chinese puzzelspel bestaat uit zeven platte stukken die samen figuren kunnen vormen?",
+  "correct": "Tangram",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/1/17/Tangram_diagram.png",
+  "round": "R4",
+  "Thema": "IT & Games"
+},
+{
+  "type": "open",
+  "question": "Welke Belgische serie, waarin personages met het syndroom van Down centraal staan en chocolade een rol speelt?",
+  "correct": "Tytgat Chocolat",
+  "image": "https://img.static-rmg.be/a/view/q75/w962/h503/4036317/7127763-jpg.jpg",
+  "round": "R4",
+  "Thema": "Shows & Films"
+},
+{
+  "type": "open",
+  "question": "Welke Italiaanse vleeswaren, gemaakt van buikspek en vaak gebruikt in pasta en antipasti, worden langzaam gezouten en gekruid?",
+  "correct": "Pancetta",
+  "image": "https://ladentduchat.com/cdn/shop/files/pancetta-859043.jpg?v=1721379182&width=1946",
+  "round": "R4",
+  "Thema": "Gastronomie"
+},
+{
+  "type": "open",
+  "question": "Hoe noemt men het kleine rondje boven de letter 'i' of 'j' in geschreven tekst?",
+  "correct": "Tittel",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Tittles.png/250px-Tittles.png",
+  "round": "R4",
+  "Thema": "Taal"
+},
+{
+  "type": "open",
+  "question": "Welke Spaanse stad, gelegen in het noordwesten van het land in Galicië, staat bekend om zijn haven en de Torre de Hércules?",
+  "correct": "A Coruña",
+  "image": "https://i0.wp.com/www.galiciatips.com/en/files/2019/05/a-coruna.jpg?w=785&ssl=1",
+  "round": "R4",
+  "Thema": "Geografie"
+},
+{
+  "type": "open",
+  "question": "Welke term uit de islam verwijst naar een spirituele strijd of inspanning, vaak vertaald als 'heilige strijd'?",
+  "correct": "Jihad",
+  "image": "https://img.lemde.fr/2023/10/19/0/0/1024/688/664/0/75/0/65e8a96_1697716756165-000-33ad8yn.jpg",
+  "round": "R4",
+  "Thema": "Politiek"
+},
+{
+  "type": "open",
+  "question": "Welke open-source elektronica- en microcontrollerplatform wordt vaak gebruikt voor het maken van prototypes en interactieve projecten?",
+  "correct": "Arduino",
+  "image": "https://store.arduino.cc/cdn/shop/files/Arduino_Store_-_Slider_Mobile_2726x4096_0167db35-1f87-4a83-a362-32fedcfcd035_800x1203.jpg?v=1759733992",
+  "round": "R4",
+  "Thema": "IT & Games"
+},
+{
+  "type": "open",
+  "question": "Welke film uit 2019 vertelt het verhaal van de wissel van paus Benedictus XVI naar paus Franciscus en hun gesprekken over kerk en geloof?",
+  "correct": "The Two Popes",
+  "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcThbbvdeP7_RqaNSYSIWri-k-xvk3x-t77Unw&s",
+  "round": "R4",
+  "Thema": "Shows & Films"
+},
+{
+  "type": "open",
+  "question": "Welke wiskundige stelling stelt dat in een rechthoekige driehoek het kwadraat van de hypotenusa gelijk is aan de som van de kwadraten van de twee rechthoekszijden?",
+  "correct": "Stelling van Pythagoras",
+  "image": "https://www.examenoverzicht.nl/media/wysiwyg/Stelling_van_Pythagoras_rechthoekige_driehoek.png",
+  "round": "R4",
+  "Thema": "Wetenschappen"
+},
+{
+  "type": "open",
+  "question": "Welke chocoladebolletjes bestaan uit een luchtige malted melk core omhuld met melkchocolade?",
+  "correct": "Maltesers",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/Maltesers.jpg/1200px-Maltesers.jpg",
+  "round": "R5",
+  "Thema": "Gastronomie"
+},
+{
+  "type": "open",
+  "question": "Welke albumreeks van Taylor Swift, uitgebracht vanaf 2020, verzamelt verschillende muzikale stijlen en verhalen uit haar carrière?",
+  "correct": "Eras",
+  "image": "https://news.harvard.edu/wp-content/uploads/2023/07/202307x_swift_1407_AP23198726852529.jpg",
+  "round": "R5",
+  "Thema": "Muziek"
+},
+{
+  "type": "open",
+  "question": "Welke Duitse term beschrijft een dag met helderblauwe lucht en zonnig weer?",
+  "correct": "Kaiserwetter",
+  "image": "https://bergwijzer.nl/sites/default/files/styles/detailpag/public/ski-1793790_960_720.jpg?itok=vjo76OoV",
+  "round": "R5",
+  "Thema": "Cultuur"
+},
+{
+  "type": "open",
+  "question": "Welke grote, ronde tuba wordt vooral gebruikt in mars- en showbands en staat bekend als de zwaarste soort tuba?",
+  "correct": "Sousafoon",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/Horn_player_in_Washington_Square_by_David_Shankbone.jpg/330px-Horn_player_in_Washington_Square_by_David_Shankbone.jpg",
+  "round": "R5",
+  "Thema": "Muziek"
+},
+{
+  "type": "open",
+  "question": "Welk COVID-19-vaccin werd wereldwijd als een van de eerste mRNA-vaccins goedgekeurd en wordt vaak genoemd als het vijfde vaccin in sommige vaccinatieprogramma's?",
+  "correct": "Moderna",
+  "image": "https://brusselshealthnetwork.be/wp-content/uploads/2021/07/VACCIN-COVID19-shutterstock_1809780472-scaled.jpg",
+  "round": "R5",
+  "Thema": "Wetenschappen"
+},
+{
+  "type": "open",
+  "question": "Welk Australisch buideldier staat bekend om zijn korte poten, stevige lichaam en graafgedrag?",
+  "correct": "Wombat",
+  "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRrnvslMVZG_RVnKTmcD0y3XGVCOE5fsrmlSg&s",
+  "round": "R5",
+  "Thema": "Natuur"
+},
+{
+  "type": "open",
+  "question": "Welke Belgische mousserende wijn, vaak vergeleken met champagne, wordt geproduceerd op eigen bodem?",
+  "correct": "Belbul",
+  "image": "https://media-01.imu.nl/storage/streekproduct.streekmarkt.be/665/limburgse-appelwijn-met-druiven-2560x1100.jpg",
+  "round": "R5",
+  "Thema": "Gastronomie"
+},
+{
+  "type": "open",
+  "question": "Welke term wordt gebruikt om te verwijzen naar het proces waarbij de leiding of regering van een land verandert?",
+  "correct": "Machtswissel",
+  "image": "https://img.static-rmg.be/a/view/q75/w962/h503/f59.90,74.14/6822742/gettyimages-2188273953-jpg.jpg",
+  "round": "R5",
+  "Thema": "Politiek"
+},
+{
+  "type": "open",
+  "question": "Welke sterke alcoholische drank, vaak groen van kleur en met een anijssmaak, werd populair in de 19e eeuw onder kunstenaars en schrijvers?",
+  "correct": "Absinth",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/e/e2/Absinthe-glass.jpg",
+  "round": "R6",
+  "Thema": "Gastronomie"
+},
+{
+  "type": "open",
+  "question": "Welke term wordt gebruikt voor een wieg of mand waarin een baby kan slapen en die ook symbool staat voor het begin van iets?",
+  "correct": "Bakermat",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/3/31/Baker_in_de_Bakermat%2C_W._de_Passe_%281636%29.jpg",
+  "round": "R6",
+  "Thema": "Cultuur"
+},
+{
+  "type": "open",
+  "question": "Welke knop of mechanisme wordt zo genoemd dat automatisch een machine stopt of een actie beëindigt als iemand deze loslaat, vaak gebruikt voor veiligheid?",
+  "correct": "Dodemansknop",
+  "image": "https://lh3.googleusercontent.com/proxy/1VzTBDh1d7NNqkTFRC0t140Qoxl44O1zRxXHY-8OcSHS8IUVEAsgdnJiwuUqIkMbyPc0CS3C4BRN",
+  "round": "R6",
+  "Thema": "Technologie & Industrie"
+},
+{
+  "type": "open",
+  "question": "Welk plein in Antwerpen staat bekend om zijn historische gebeurtenissen en wordt vaak omschreven als berucht?",
+  "correct": "Falconplein",
+  "image": "https://omgeving.vlaanderen.be/sites/default/files/2021-10/Falconplein%20Antwerpen%20-%20Hero%20image.jpg",
+  "round": "R6",
+  "Thema": "Geschiedenis"
+},
+{
+  "type": "open",
+  "question": "Welke naam wordt gebruikt voor een gekko die bekendstaat om zijn opvallende uiterlijk?",
+  "correct": "Gillamonster",
+  "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS-MbQ71zzObpBknsvv5BSYDCxHpZVo6J50VA&s",
+  "round": "R6",
+  "Thema": "Natuur"
+},
+{
+  "type": "open",
+  "question": "Welke term wordt gebruikt voor een geconcentreerde vorm van cannabis, vaak geperst tot blokken of platen?",
+  "correct": "Hash",
+  "image": "https://www.avenuesrecovery.com/hubfs/hash.jpg",
+  "round": "R6",
+  "Thema": "Cultuur"
+},
+{
+  "type": "open",
+  "question": "Welke Mesopotamische godin, bekend als godin van liefde, oorlog en vruchtbaarheid, werd in verschillende oude culturen vereerd?",
+  "correct": "Ishtar",
+  "image": "https://i.namu.wiki/i/8JzG4AsGnPBiqX6qcGi6FJadw6WsKOAeLOdAWQ4mEfBAyReqZIpHIt-_psrUObK6SL4gM3aEFuHRVnAkOoGWQw.webp",
+  "round": "R6",
+  "Thema": "Geschiedenis"
+},
+{
+  "type": "open",
+  "question": "Welke Cubaanse atleet, bekend als sprinter en 400-meter specialist, won olympisch goud in de jaren 70?",
+  "correct": "Juantorena",
+  "image": "https://assets.aws.worldathletics.org/1614c712-8160-4893-a5bf-09f778f4900f.jpg",
+  "round": "R6",
+  "Thema": "Sport"
+},
+{
+  "type": "open",
+  "question": "Welke vroege voorjaarsbloem staat bekend om zijn felgekleurde bloemen en komt vaak tevoorschijn uit bolletjes in tuinen?",
+  "correct": "Krokus",
+  "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTmOYFXeuK5U5ehBup5mzSxGGmOLh5rIISd9w&s",
+  "round": "R6",
+  "Thema": "Natuur"
+},
+{
+  "type": "open",
+  "question": "Welke Belgische webserie richt zich op tieners en hun leven op sociale media?",
+  "correct": "Likeme",
+  "image": "https://images.vrt.be/w1280h672_seo_vrtmax_overlay/2024/12/11/fda9c254-3dac-4a14-9d8e-d4a42bd434b7.jpg?gravity=66p%2C16p",
+  "round": "R6",
+  "Thema": "Shows & Films"
+},
+{
+  "type": "open",
+  "question": "Welke apensoort behoort tot de familie van de halfapen en wordt vaak in groepen in Aziatische bossen aangetroffen?",
+  "correct": "Makaken",
+  "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQZINCdYzhsbb25Bj5X28xpUT5UyK4wB7nF8w&s",
+  "round": "R6",
+  "Thema": "Natuur"
+},
+{
+  "type": "open",
+  "question": "Welke codenaam gebruikten de nazi's tijdens de Tweede Wereldoorlog voor het heimelijk opsporen en laten verdwijnen van tegenstanders en verzetsleden?",
+  "correct": "Nacht und Nebel",
+  "image": "https://www.bpb.de/cache/images/4/183294_teaser_widh_800.jpg?854E3",
+  "round": "R6",
+  "Thema": "Geschiedenis"
+},
+{
+  "type": "open",
+  "question": "Welke Belgische actrice en presentatrice is de jongste dochter van muzikant en documentairemaker Leyers?",
+  "correct": "Olga Leyers",
+  "image": "https://www.showbizz24.be/images/2022-10/Olga%20Leyers%20De%20Allerslimste%20Mens%20insta%20olgaleyers.png",
+  "round": "R6",
+  "Thema": "Cultuur"
+},
+{
+  "type": "open",
+  "question": "Welke religieuze beweging, gesticht door George Fox in de 17e eeuw, staat bekend om zijn eenvoud en pacifisme?",
+  "correct": "Quakers",
+  "image": "https://cdn.britannica.com/28/185228-050-899B3EC4/painting-meeting-Quaker.jpg",
+  "round": "R6",
+  "Thema": "Geschiedenis"
+},
+{
+  "type": "open",
+  "question": "Welke alcoholische drank uit Oostenrijk, vaak gebruikt als sterke schnaps, heeft een naam die lijkt op 'strohzum'?",
+  "correct": "Stroh rum",
+  "image": "https://i0.wp.com/cocktailwonk.com/wp-content/uploads/2019/10/x75A3526_moderately-aged_horiz-2.jpg?fit=897%2C598&ssl=1",
+  "round": "R6",
+  "Thema": "Gastronomie"
+},
+{
+  "type": "open",
+  "question": "Welke term wordt in het Frans gebruikt voor 'stuurboord', de rechterzijde van een schip?",
+  "correct": "Tribord",
+  "image": "https://onlinezeilschool.nl/wp-content/uploads/2025/03/bakboord_stuurboord-300x237.png",
+  "round": "R6",
+  "Thema": "Natuur"
+},
+{
+  "type": "open",
+  "question": "Welke familienaam wordt geassocieerd met de Vlaamse uitdrukking 'torenpoepster'?",
+  "correct": "Uyttersprot",
+  "image": "https://images.vrt.be/vrtnws_web/2023/06/01/e6c38725-0063-11ee-91d7-02b7b76bf47f.jpg?width=900&height=506",
+  "round": "R6",
+  "Thema": "Cultuur"
+},
+{
+  "type": "open",
+  "question": "Welke beroemde watervallen in Afrika werden door ontdekkingsreiziger Dr. David Livingstone bekendgemaakt aan de westerse wereld?",
+  "correct": "Victoria Falls",
+  "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQzXZwRIFQucKs3SQxpdHJ1D2P0rzKm3-3mzw&s",
+  "round": "R6",
+  "Thema": "Geografie"
+},
+{
+  "type": "open",
+  "question": "Welke Amerikaanse rockband, opgericht in 1992, is bekend van nummers zoals 'Buddy Holly' en 'Island in the Sun'?",
+  "correct": "Weezer",
+  "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQhuV5w4yPSr7tbZdU4ir33KlQT9gw6Y53KqQ&s",
+  "round": "R6",
+  "Thema": "Muziek"
+},
+{
+  "type": "open",
+  "question": "Wie is de auteur van het boek 'The Happy Hooker', dat autobiografisch werk over haar leven als sekswerker bevat?",
+  "correct": "Xaviera Hollander",
+  "image": "https://m.media-amazon.com/images/M/MV5BMTEwMTUxZDUtNDkzOS00NjcyLTg5NzQtMjgwNmIxYWY2MmNmXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",
+  "round": "R6",
+  "Thema": "Boeken & Strips"
 }
   ]
 }
