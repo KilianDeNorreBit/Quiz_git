@@ -3143,7 +3143,427 @@
   "image": "https://m.media-amazon.com/images/M/MV5BMTEwMTUxZDUtNDkzOS00NjcyLTg5NzQtMjgwNmIxYWY2MmNmXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",
   "round": "R6",
   "Thema": "Boeken & Strips"
+},
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+{
+  "type": "open",
+  "question": "Hoe heet het Belgisch amputatievoetbalteam dat uitkomt op internationale toernooien?",
+  "correct": "Red Flamingos",
+  "image": "https://drupal2018.assets.rbfa.be/s3fs-public/styles/image_850x475/public/2022-04/9E38EB66-808A-4667-928C-7E192A463688.jpeg?VersionId=8u6RqqIirXgdcGIjmOICGC3vkqjKbBfE&h=c9f93661&itok=hTuZ8EOs",
+  "round": "R1",
+  "Thema": "Sport"
+},
+{
+  "type": "open",
+  "question": "Welk dier wordt in het Aalsterse dialect ‘pemel dier’ genoemd?",
+  "correct": "vlinder",
+  "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR5Oy8q9ulHLI8BQeLAb5b4fUNYMV0TXvZELg&s",
+  "round": "R1",
+  "Thema": "Taal"
+},
+{
+  "type": "open",
+  "question": "Hoe heet de film van regisseur Sean Baker die in 2023 de hoofdprijs won op het Filmfestival van Cannes?",
+  "correct": "Anora",
+  "image": "https://theatervrijburcht.nl/wp-content/uploads/2024/07/Anora.jpg",
+  "round": "R1",
+  "Thema": "Shows & Films"
+},
+{
+  "type": "open",
+  "question": "Hoe heet het verdrag dat 106 jaar geleden werd ondertekend en officieel een einde maakte aan de Eerste Wereldoorlog?",
+  "correct": "Verdrag van Versailles",
+  "image": "https://historiek.net/wp-content/uploads-phistor1/2015/11/Ondertekening-wapenstilstand-Eerste-Wereldoorlog-1918.jpg",
+  "round": "R1",
+  "Thema": "Geschiedenis"
+},
+{
+  "type": "open",
+  "question": "Hoe heet het object waar Tom Waes met zijn oldtimer is tegen gereden?",
+  "correct": "botsabsorbeerder",
+  "image": "https://stuer-egghe.be/wp-content/uploads/2025/09/botsabsorbeerder-julietta.jpg",
+  "round": "R1",
+  "Thema": "Shows & Films"
+},
+{
+  "type": "open",
+  "question": "Welke Britse Formule 1-piloot rijdt voor McLaren en behaalde in 2024 zijn eerste Grand Prix-zege?",
+  "correct": "Lando Norris",
+  "image": "https://ratings-images-prod.pulse.ea.com/F1-25/portraits/p3.png?im=FaceCrop,algorithm=dnn,padding=0.7,width=256,height=256",
+  "round": "R1",
+  "Thema": "Sport"
+},
+{
+  "type": "open",
+  "question": "Hoe heet de lichamelijke reactie die optreedt wanneer de spiertjes aan de haarzakjes samentrekken, ook wel bekend als pilo-erectie?",
+  "correct": "kippenvel",
+  "image": "https://content.quizzclub.com/trivia/2020-09/horripilation-and-piloerection-are-alternative-names-for-which-bodily-condition.jpg",
+  "round": "R1",
+  "Thema": "Wetenschappen"
+},
+{
+  "type": "open",
+  "question": "Hoe heet het gerecht dat bestaat uit kleine stukjes gekookte groenten en/of fruit, vaak geserveerd als salade of bijgerecht?",
+  "correct": "macédoine",
+  "image": "https://api.guydemarle.com/rails/active_storage/representations/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBMzJwQWc9PSIsImV4cCI6bnVsbCwicHVyIjoiYmxvYl9pZCJ9fQ==--386d6985966cb82d2db375f8a12b64936fd9d8e0/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdCam9VWTI5dFltbHVaVjl2Y0hScGIyNXpld2c2QzNKbGMybDZaVWtpRFRZd01IZzJNREJlQmpvR1JWUTZER2R5WVhacGRIbEpJZ3REWlc1MFpYSUdPd2RVT2dsamNtOXdTU0lRTmpBd2VEWXdNQ3N3S3pBR093ZFUiLCJleHAiOm51bGwsInB1ciI6InZhcmlhdGlvbiJ9fQ==--929a1958a8630156464b089800ca739f1b4570de/9020C36A-8A3D-412D-B317-7776DED731FA.jpeg",
+  "round": "R1",
+  "Thema": "Gastronomie"
+},
+{
+  "type": "open",
+  "question": "Welke Franse filosoof en schrijver staat bekend om zijn satirische werk 'Candide'?",
+  "correct": "Voltaire",
+  "image": "https://www.filosofie.nl/app/uploads//2020/06/voltaire.jpg",
+  "round": "R1",
+  "Thema": "Boeken & Strips"
+},
+{
+  "type": "open",
+  "question": "Welke Belgische post-rockband staat bekend om instrumentale nummers en krachtige live-optredens?",
+  "correct": "Brutus",
+  "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTxKUDd3vEPoYQMH37j38ivOQmovJMA6W3uZA&s",
+  "round": "R1",
+  "Thema": "Muziek"
+},
+{
+  "type": "open",
+  "question": "In welk land ligt het Balatonmeer, het grootste meer van Midden-Europa?",
+  "correct": "Hongarije",
+  "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRkABPD8PHL88UHw6t_KGiME2WFBBceqGscOQ&s",
+  "round": "R1",
+  "Thema": "Geografie"
+},
+{
+  "type": "open",
+  "question": "Wie is de huidige leider van de Britse Labour Party en voormalig procureur-generaal van Engeland en Wales?",
+  "correct": "Keir Starmer",
+  "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQPsqCyRtFy98zyfEIEHIBrpehhry7YItS-fw&s",
+  "round": "R1",
+  "Thema": "Politiek"
+},
+{
+  "type": "open",
+  "question": "Welke Belgische wielrenner staat bekend als 'de Kannibaal van Vlaanderen' en won meerdere keren Parijs-Roubaix?",
+  "correct": "Museeuw",
+  "image": "https://images.hln.be/YjBmZTdlOTUxZTQxMDEzOWJlNTMvZGlvLzI2NjU2Mzk5NC9maXQtd2lkdGgvMTIwMA/voormalig-profwielrenner-johan-museeuw-legt-op-zijn-instagramprofiel-uit-waarom-hij-werd-opgenomen-in-het-ziekenhuis-in-kortrijk",
+  "round": "R1",
+  "Thema": "Sport"
+},
+{
+  "type": "open",
+  "question": "Hoe heet de angst of afkeer voor groepen kleine gaten of stipjes, vaak in patronen op de huid of objecten?",
+  "correct": "trypofobie",
+  "image": "https://cdn.pixabay.com/photo/2020/12/03/09/06/trypophobia-5799924_1280.jpg",
+  "round": "R1",
+  "Thema": "Wetenschappen"
+},
+{
+  "type": "open",
+  "question": "Welke bananensoort is wereldwijd het meest geteeld en gegeten en deelt zijn naam met een bekend wielrenner?",
+  "correct": "Cavendish",
+  "image": "https://images.vrt.be/width960/2024/07/03/343a5a14-3954-11ef-92ff-02b7b76bf47f.jpg",
+  "round": "R1",
+  "Thema": "Sport"
+},
+{
+  "type": "open",
+  "question": "Welke Nederlandse zangeres bracht het nummer 'Lekker met de Meiden' uit?",
+  "correct": "Merol",
+  "image": "https://images.nu.nl/m/emzx9e3a9nc9_wd1280/0/273/6048/3402/zangeres-merol-overwoog-stappen-tegen-makers-film-lekker-met-de-meiden.jpg",
+  "round": "R1",
+  "Thema": "Muziek"
+},
+{
+  "type": "open",
+  "question": "In welk land werd Osama bin Laden in 2011 gedood tijdens een Amerikaanse operatie?",
+  "correct": "Pakistan",
+  "image": "https://www.economist.com/cdn-cgi/image/width=1424,quality=80,format=auto/sites/default/files/images/articles/migrated/20110507_obp002.jpg",
+  "round": "R1",
+  "Thema": "Geschiedenis"
+},
+{
+  "type": "open",
+  "question": "Welk woord, dat verwijst naar een passieve beleggingsstrategie met indexfondsen en trackers, werd in 2024 verkozen tot Woord van het Jaar in België?",
+  "correct": "hangmatbeleggen",
+  "image": "https://www.datocms-assets.com/74020/1745925362-adobestock_1065256088.webp?auto=format&q=75&w=800",
+  "round": "R1",
+  "Thema": "Taal"
+},
+{
+  "type": "open",
+  "question": "Welke Belgische dating-app richt zich op jongeren en combineert gamification met sociale interactie?",
+  "correct": "Fruitz",
+  "image": "https://play-lh.googleusercontent.com/MTQ0OOZa0PH0O18nlccmr5jSaujyDGtTJ7mQJRi47-khT6ktwFV7OSR-r8ocgSHrR7L4",
+  "round": "R1",
+  "Thema": "IT & Games"
+},
+{
+  "type": "open",
+  "question": "Welke tropische cocktail bestaat traditioneel uit rum, kokosroom en ananassap?",
+  "correct": "Pina Colada",
+  "image": "https://assets.tmecosys.com/image/upload/t_web_rdp_recipe_584x480_1_5x/img/recipe/ras/Assets/A9467000-4182-4A69-802E-6A36234604C1/Derivates/9cca3d9b-727b-4d23-b633-71dcd23125da.jpg",
+  "round": "R1",
+  "Thema": "Gastronomie"
+},
+{
+  "type": "open",
+  "question": "Wie won het Eurovisiesongfestival in 2025 met het nummer 'Wasted Love'?",
+  "correct": "JJ",
+  "image": "https://media.cnn.com/api/v1/images/stellar/prod/ap25137838937604.jpg?c=original",
+  "round": "R1",
+  "Thema": "Muziek"
+},
+{
+  "type": "open",
+  "question": "Welke 6 letters staan er abgebeeld op de ijzertoren in Diksmuide (XXX-XXX)?",
+  "correct": "AVV-VVK",
+  "image": "https://encyclopedievlaamsebeweging.be/sites/default/files/08_IJzertoren_devb.jpg",
+  "round": "R1",
+  "Thema": "Geschiedenis"
+},
+{
+  "type": "open",
+  "question": "In welke dicipline pakte Nina Derwael goud op de olympische spelen?",
+  "correct": "brug met ongelijke leggers",
+  "image": "https://images.tijd.be/view?iid=Elvis:8d3bTEMz4acBNXHqT99PTf&context=ONLINE&ratio=16/9&width=640&u=1627890516000",
+  "round": "R1",
+  "Thema": "Sport"
+},
+{
+  "type": "open",
+  "question": "Welke codenaam werd gebruikt voor een Oekraïense militaire operatie tijdens het conflict met Rusland?",
+  "correct": "Spinnenweb",
+  "image": "https://www.chathamhouse.org/sites/default/files/styles/12_6_media_huge/public/2025-06/2025-06-06-ukraine-russia-spiderweb-attack-2217960197_0.jpg?h=b1b1902c&itok=KUmiYYZC",
+  "round": "R1",
+  "Thema": "Politiek"
+},
+{
+  "type": "open",
+  "question": "Hoe heet het Nederlandse televisieprogramma dat van 1992 tot 1996 door de AVRO werd uitgezonden en werd gemaakt door Arnold-Jan Scheer?",
+  "correct": "Paradijsvogels",
+  "image": "https://ronnydeschepper.com/wp-content/uploads/2019/12/knipsel-38.jpg",
+  "round": "R1",
+  "Thema": "Shows & Films"
+},
+{
+  "type": "open",
+  "question": "Welke witte druivensoort wordt wereldwijd gebruikt voor zowel stille wijnen als mousserende wijnen zoals Champagne?",
+  "correct": "Chardonnay",
+  "image": "https://levipe.be/assets/grapes/hero/chardonnay.jpg",
+  "round": "R1",
+  "Thema": "Gastronomie"
+},
+{
+  "type": "open",
+  "question": "Welke Bijbelse figuur liet zich in een boom zakken om Jezus te kunnen zien toen hij door Jericho trok?",
+  "correct": "Zacheüs",
+  "image": "https://www.radiomaria.be/wp-content/uploads/2022/10/005-gnpi-077-zacchaeus.jpg",
+  "round": "R1",
+  "Thema": "Boeken & Strips"
+},
+{
+  "type": "open",
+  "question": "Welke film- en boekenreeks draait rond een vampier en een menselijke tiener, en bevat in sommige scènes een visueel motief van een dubbele maan?",
+  "correct": "Twilight",
+  "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRm_6CtXzM18fMj3vXfIroGmaPLGHFo5piiYQ&s",
+  "round": "R1",
+  "Thema": "Shows & Films"
+},
+{
+  "type": "open",
+  "question": "Welke beroemde gevangenis, gelegen op een eiland in de baai van San Francisco, stond bekend om zijn streng beveiligde faciliteiten?",
+  "correct": "Alcatraz",
+  "image": "https://drupal-prod.visitcalifornia.com/sites/default/files/styles/opengraph_1200x630/public/VC_SpotlightAlcatraz_Module_Hero_ST_RF_175212559_1280x640.jpg.webp?itok=RvdS444t",
+  "round": "R1",
+  "Thema": "Geschiedenis"
+},
+{
+  "type": "open",
+  "question": "Hoe heet het medische instrument dat gynaecologen gebruiken om het vaginaal kanaal te openen tijdens een onderzoek?",
+  "correct": "eendenbek",
+  "image": "https://djl1kaawo20l3.cloudfront.net/c/w/h/pRB7Kp.webp",
+  "round": "R1",
+  "Thema": "Wetenschappen"
+},
+{
+  "type": "open",
+  "question": "Welke grote, holle en geribbelde pastasoort uit Italië wordt vaak gebruikt in ovenschotels en met dikke sauzen?",
+  "correct": "Rigatoni",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/Rigatoni.jpg/1200px-Rigatoni.jpg",
+  "round": "R1",
+  "Thema": "Gastronomie"
+},
+{
+  "type": "open",
+  "question": "Welke vier letters werden volgens de Bijbel boven het kruis van Jezus aangebracht?",
+  "correct": "INRI",
+  "image": "https://www.basiliekzwolle.nl/wp-content/uploads/2022/02/christus-ah-kruis-Anthony-van-Dyk-1627.png",
+  "round": "R1",
+  "Thema": "Boeken & Strips"
+},
+{
+  "type": "open",
+  "question": "Welke merknaam stond bekend om de productie van metalen speelgoedauto's en modelvoertuigen, populair vanaf de jaren 1930?",
+  "correct": "Dinky Toys",
+  "image": "https://www.dinkytoysinkoop.nl/web/wp-content/uploads/2021/12/IMG_3766.jpeg",
+  "round": "R1",
+  "Thema": "Cultuur"
+},
+{
+  "type": "open",
+  "question": "Welke eilandstaat in de Stille Oceaan ligt ten oosten van Australië en heeft Port Vila als hoofdstad?",
+  "correct": "Vanuatu",
+  "image": "https://www.be.kayak.com/rimg/dimg/85/4b/7706fa93-city-47390-16911fe40e6.jpg?width=1600&height=1200&xhint=2398&yhint=1724&crop=true",
+  "round": "R1",
+  "Thema": "Geografie"
+},
+{
+  "type": "open",
+  "question": "Ongeveer hoeveel spieren heeft een volwassen menselijk lichaam gemiddeld?",
+  "correct": "600",
+  "image": "https://bluerecovery.nl/wp-content/uploads/2024/12/aantal-spieren-menselijk-lichaam-e1735133028928.webp",
+  "round": "R1",
+  "Thema": "Wetenschappen"
+},
+{
+  "type": "open",
+  "question": "Hoeveel keer wordt een fles champagne tijdens het dégorgement-proces traditioneel geroteerd om het depot te verzamelen (Muselet op de foto)?",
+  "correct": "6",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/Muselet_capsule_wire-cap.jpg/1200px-Muselet_capsule_wire-cap.jpg",
+  "round": "R1",
+  "Thema": "Gastronomie"
+},
+{
+  "type": "open",
+  "question": "Hoe heet de dochter van Kim Kardashian en Kanye West?",
+  "correct": "North West",
+  "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTBzEskXP4C4a_GkHtNOoxYPtNbInqZeGf35w&s",
+  "round": "R1",
+  "Thema": "Shows & Films"
+},
+{
+  "type": "open",
+  "question": "Van welk land zie je hier?",
+  "correct": "Slovakije",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/Flag_of_Slovakia.svg/250px-Flag_of_Slovakia.svg.png",
+  "round": "R1",
+  "Thema": "Geografie"
+},
+{
+  "type": "open",
+  "question": "Welke Belgische restaurantketen is bekend om zijn grote gehaktballen gevuld met verschillende ingrediënten?",
+  "correct": "Balls & Glory",
+  "image": "https://ballsnglory.be/media/rvpjqumg/template-campagnebeeld.jpg?mode=max&quality=85&width=500&height=500&rnd=132463943158300000",
+  "round": "R1",
+  "Thema": "Gastronomie"
+},
+{
+  "type": "open",
+  "question": "Welke bekende ijssalon in Knokke staat bekend om zijn ambachtelijk ijs en klassieke uitstraling?",
+  "correct": "Glacier de la Poste",
+  "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/0e/8e/a4/19/photo1jpg.jpg?w=900&h=500&s=1",
+  "round": "R1",
+  "Thema": "Gastronomie"
+},
+{
+  "type": "open",
+  "question": "Welke Spaanse tennisser won Roland Garros en wordt beschouwd als een van de grootste talenten van zijn generatie?",
+  "correct": "Carlos Alcaraz",
+  "image": "https://www.atptour.com/-/media/images/news/2025/10/02/16/09/alcaraz-atp-500-bonus-pool-2025.jpg",
+  "round": "R1",
+  "Thema": "Sport"
+},
+{
+  "type": "open",
+  "question": "Welke sierlijke slingerplant staat bekend om zijn lange hangende bloemen en wordt vaak in tuinen en pergola's geplant?",
+  "correct": "Wisteria",
+  "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQB8mh42xt3u_-h5qNjDtXIcEwB4J6hRtO2aw&s",
+  "round": "R1",
+  "Thema": "Natuur"
+},
+{
+  "type": "open",
+  "question": "Welke podcast wordt gepresenteerd door Stijn Van de Voorde en behandelt populaire cultuur en entertainment?",
+  "correct": "Popcast",
+  "image": "https://images.vrt.be/orig/2023/08/24/cb00362b-428b-11ee-91d7-02b7b76bf47f.jpg?aspect_ratio=16%3A9&gravity=50p%2C24p&h=412",
+  "round": "R1",
+  "Thema": "Shows & Films"
+},
+{
+  "type": "open",
+  "question": "In welke stad bevindt zich het luxe dessertmerk Pistach Chocolade dat bekendstaat om zijn innovatieve patisserie?",
+  "correct": "Dubai",
+  "image": "https://static01.nyt.com/images/2025/01/23/multimedia/23DUBAI-CHOCOLATE-REX-Pistachio-Chocolate-Bar-wpck/21DUBAI-CHOCOLATE-REX-Pistachio-Chocolate-Bar-wpck-videoSixteenByNineJumbo1600.jpg",
+  "round": "R1",
+  "Thema": "Gastronomie"
+},
+{
+  "type": "open",
+  "question": "Welke Belgische kunstenaar staat bekend om surrealistische schilderijen zoals 'Het Geheugen' en 'De Verraderlijke Wereld'?",
+  "correct": "Magritte",
+  "image": "https://www.brussel.be/sites/default/files/styles/agenda_detail_image/public/agendaimages/magritte_1.jpg?itok=IuQaueOV",
+  "round": "R1",
+  "Thema": "Kunst"
+},
+{
+  "type": "open",
+  "question": "Welke planeet draait zo langzaam om zijn as dat één dag er ongeveer even lang duurt als één jaar?",
+  "correct": "Venus",
+  "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRsRaHXbv-24S5ZANuOkysuyyiKWohIdnZxBg&s",
+  "round": "R1",
+  "Thema": "Wetenschappen"
+},
+{
+  "type": "open",
+  "question": "Welke type gereedschap wordt gebruikt om bouten en schroeven met een zeshoekige inkeping vast of los te draaien?",
+  "correct": "inbussleutel",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/c/c3/Allen_keys.jpg",
+  "round": "R1",
+  "Thema": "IT & Games"
 }
+
+
+
   ]
 }
 
