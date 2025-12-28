@@ -1,3 +1,4 @@
+Gebruik altijd een van deze thema's
 Kunst
 Gastronomie
 Shows & Films
@@ -12,3 +13,32 @@ Natuur
 Cultuur
 Wetenschappen
 Taal
+
+Ik zal de prompt geven in dit formaat: antwoord (context)
+vermeld nooit het anwoord in de vraag
+
+
+Gebruik deze template en vergeet de komma niet
+{
+  "type": "open",
+  "question": "Hoe heet het Belgisch amputatievoetbalteam dat uitkomt op internationale toernooien?",
+  "correct": "Red Flamingos",
+  "image": "",
+  "round": "R1",
+  "Thema": "Sport"
+},
+
+
+
+{
+  "questions": [
+{
+  "type": "open",
+  "question": "Hoe heet het Belgisch amputatievoetbalteam dat uitkomt op internationale toernooien?",
+  "correct": "Red Flamingos",
+  "image": "",
+  "round": "R1",
+  "Thema": "Sport"
+},
+  ]
+}
