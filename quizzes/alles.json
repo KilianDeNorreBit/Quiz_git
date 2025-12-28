@@ -3006,7 +3006,7 @@
   "correct": "Dodemansknop",
   "image": "https://lh3.googleusercontent.com/proxy/1VzTBDh1d7NNqkTFRC0t140Qoxl44O1zRxXHY-8OcSHS8IUVEAsgdnJiwuUqIkMbyPc0CS3C4BRN",
   "round": "R6",
-  "Thema": "Technologie & Industrie"
+  "Thema": "IT & Games"
 },
 {
   "type": "open",
@@ -3560,6 +3560,820 @@
   "image": "https://upload.wikimedia.org/wikipedia/commons/c/c3/Allen_keys.jpg",
   "round": "R1",
   "Thema": "IT & Games"
+},
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+{
+"type": "open",
+"question": "Wat is de meest noordelijke staat van de Verenigde Staten?",
+"correct": "Alaska",
+"image": "https://thumbs.dreamstime.com/b/blanco-overzicht-van-de-verenigde-staten-amerika-vereenvoudigde-vectorkaart-die-dik-zwarte-op-witte-achtergrond-wordt-gemaakt-156237004.jpg",
+"round": "R1",
+"Thema": "Geografie"
+},
+{
+"type": "open",
+"question": "Welke spirituele traditie uit India richt zich op spirituele verruiming en bewustwording?",
+"correct": "Tantra",
+"image": "https://b3887984.smushcdn.com/3887984/wp-content/uploads/2025/07/tantra-history.jpg?lossy=2&strip=1&webp=1",
+"round": "R1",
+"Thema": "Cultuur"
+},
+{
+"type": "open",
+"question": "Hoe heet de bekende promenade in het centrum van Barcelona?",
+"correct": "Las Ramblas",
+"image": "https://static-resources-elementor.mirai.com/wp-content/uploads/sites/852/esta-Las-Ramblas-de-Barcelona-1024x682-1.jpg",
+"round": "R1",
+"Thema": "Geografie"
+},
+{
+"type": "open",
+"question": "Welke Britse wetenschapper is bekend om zijn baanbrekend werk rond elektromagnetisme en naar wie een kooi genoemd is?",
+"correct": "Faraday",
+"image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQU_60428uXDLpU_pspycByTh1sLsCsFGLH3g&s",
+"round": "R1",
+"Thema": "Wetenschappen"
+},
+{
+"type": "open",
+"question": "Welke romantische film uit 1942 met Humphrey Bogart en Ingrid Bergman draagt de titel van een Marokkaanse stad?",
+"correct": "Casablanca",
+"image": "https://images.contentstack.io/v3/assets/blt06f605a34f1194ff/blta01aa4bb8f286df8/68683c9f242610b914b2c95a/iStock-2152434554-MOBILE_HEADER.jpg?fit=crop&disable=upscale&auto=webp&quality=60&crop=smart",
+"round": "R1",
+"Thema": "Shows & Films"
+},
+{
+"type": "open",
+"question": "Hoe heet de grote trekvogel met zwarte hals en witte wangvlek die vaak in parken en weilanden voorkomt?",
+"correct": "Canadese gans",
+"image": "https://www.natuurpunt.be/sites/default/files/styles/fixed_3_2_large/public/2023-10/Grote%20Canadese%20gans%20-%20Waarnemingen.be%20-%20L.%20Van%20Daele.jpg?h=82f92a78&itok=dkrhB8e4",
+"round": "R1",
+"Thema": "Natuur"
+},
+{
+"type": "open",
+"question": "Welke Belgische Open VLD politicus was onder meer minister van Cultuur en Media in Vlaanderen?",
+"correct": "Sven Gatz",
+"image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQqnMZjWxXzG3F8HSAfI1oK7AHVWKX58Q8Lqg&s",
+"round": "R1",
+"Thema": "Politiek"
+},
+{
+"type": "open",
+"question": "Welke Amerikaanse zangeres scoorde een hit met een country-poplied waarin ze zingt over laarzen die niet meer voor haar werken 'Austin(Did your boots stop working)'?",
+"correct": "Dasha",
+"image": "https://cdn-images.dzcdn.net/images/artist/00bbf29bf7b0ee02aad72cc0c3118edf/1900x1900-000000-80-0-0.jpg",
+"round": "R1",
+"Thema": "Muziek"
+},
+{
+"type": "open",
+"question": "Hoe heet de traditionele waterdichte hoed die vaak door vissers wordt gedragen om regen en wind tegen te houden?",
+"correct": "Zuidwester",
+"image": "https://www.zeilers.shop/wp-content/uploads/2018/12/Zuidwester-Guy-Cotten-geel.jpg",
+"round": "R2",
+"Thema": "Cultuur"
+},
+{
+"type": "open",
+"question": "Hoe heet het kleine polderdorp in de provincie Antwerpen dat bekendstaat om zijn landelijke karakter?",
+"correct": "Oosterveel",
+"image": "https://img.static-rmg.be/a/view/q75/w1600/h836/3540407/7772291-jpg.jpg",
+"round": "R2",
+"Thema": "Geografie"
+},
+{
+"type": "open",
+"question": "Hoe heet het Nederlandse televisiesprogramma waarin avonturiers extreme reizen maken naar het hoge noorden?",
+"correct": "71° Noord",
+"image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTtbMFs95LCG5PAi475Y-KpOlKl0n_UTyyufw&s",
+"round": "R2",
+"Thema": "Shows & Films"
+},
+{
+"type": "open",
+"question": "Hoe wordt het Belgische politieke conflict in 1951 genoemd dat leidde tot een tijdelijke verlamming van de regering rond het koningschap?",
+"correct": "De Koningskwestie",
+"image": "https://encyclopedievlaamsebeweging.be/sites/default/files/04_Koningskwestie_devb.jpg",
+"round": "R2",
+"Thema": "Geschiedenis"
+},
+{
+"type": "open",
+"question": "Hoe heet het Belgische tijdschrift dat gericht is op leerlingen in het 3e en 4e leerjaar?",
+"correct": "Zonnestraal",
+"image": "https://www.kinderbladen.nl/wp-content/uploads/2022/01/menu-tienerbladen.png",
+"round": "R2",
+"Thema": "Boeken & Strips"
+},
+{
+"type": "open",
+"question": "Welke Brusselse gemeente is de dichtstbevolkte van het hele Brussels Hoofdstedelijk Gewest?",
+"correct": "Sint-Joost-ten-Node",
+"image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT0cO3TI1QFs9YWby7CAo4dLhp8yXkKXRKFtQ&s",
+"round": "R2",
+"Thema": "Geografie"
+},
+{
+"type": "open",
+"question": "Welke internationale hotelketen staat bekend om zijn middenklassehotels en herkenbare naam met een noordwestelijk thema?",
+"correct": "Best Western",
+"image": "https://pix10.agoda.net/hotelImages/2294841/0/9fa04fa103e502a1660904ea4f7f021a.jpeg?ce=2&s=414x232",
+"round": "R2",
+"Thema": "Cultuur"
+},
+{
+"type": "open",
+"question": "Welke Britse popgroep uit de jaren ’90 is bekend van hits als 'Stay Another Day'?",
+"correct": "East 17",
+"image": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/East-17-Band-2019-V2.jpg/250px-East-17-Band-2019-V2.jpg",
+"round": "R2",
+"Thema": "Muziek"
+},
+{
+"type": "open",
+"question": "Hoe heet het Vlaamse quizprogramma waarbij kennis en snelheid centraal staan?",
+"correct": "Twee tot de zesde macht",
+"image": "https://cdn.assets.prezly.com/bbb8f872-e047-4f31-93ea-c06aefe70016/afl%201%20decor.jpg",
+"round": "R3",
+"Thema": "Shows & Films"
+},
+{
+"type": "open",
+"question": "Welke gevechtsvliegtuiggeneratie werd ontwikkeld als opvolger van de F-16?",
+"correct": "F-35",
+"image": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/F-35A_flight_%28cropped%29.jpg/1200px-F-35A_flight_%28cropped%29.jpg",
+"round": "R3",
+"Thema": "IT & Games"
+},
+{
+"type": "open",
+"question": "Welk hormoon speelt een belangrijke rol bij de ontwikkeling van vrouwelijke geslachtskenmerken en de menstruatiecyclus?",
+"correct": "Oestrogeen",
+"image": "https://upload.wikimedia.org/wikipedia/commons/3/39/Endocrien_systeem.png",
+"round": "R3",
+"Thema": "Wetenschappen"
+},
+{
+"type": "open",
+"question": "Welke cloudopslagdienst van Microsoft laat gebruikers bestanden online opslaan en synchroniseren tussen apparaten?",
+"correct": "OneDrive",
+"image": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Microsoft_OneDrive_Icon_%282025_-_present%29.svg/1200px-Microsoft_OneDrive_Icon_%282025_-_present%29.svg.png",
+"round": "R3",
+"Thema": "IT & Games"
+},
+{
+"type": "open",
+"question": "Welke Britse chef-kok is bekend om zijn creatieve gerechten en kookboeken vol innovatieve recepten?",
+"correct": "Yotam Ottolenghi",
+"image": "https://img.static-rmg.be/a/view/q80/w1200/h630/5050826/yotamottolenghi-otk-elenaheatherwick-297-2-jpg.jpg",
+"round": "R3",
+"Thema": "Gastronomie"
+},
+{
+"type": "open",
+"question": "Welke paus regeerde van 1740 tot 1758 en stond bekend om zijn hervormingen binnen de Kerk en het onderwijs?",
+"correct": "Benedictus XIV",
+"image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSpGJaHon0sPX2YcesW0fKKgr0kNXxKrazd1A&s",
+"round": "R3",
+"Thema": "Geschiedenis"
+},
+{
+"type": "open",
+"question": "Welke Belgische stripreeks draait rond een onhandige politieagent en zijn dagelijkse avonturen?",
+"correct": "Agent 212",
+"image": "https://www.dupuis.com/v5/img/visuels_resume/agent212.jpg",
+"round": "R3",
+"Thema": "Boeken & Strips"
+},
+{
+"type": "open",
+"question": "Welke personage uit 'Star Trek: Voyager' is een voormalige Borg die bekendstaat om haar menselijke hervorming?",
+"correct": "Seven of Nine",
+"image": "https://upload.wikimedia.org/wikipedia/en/thumb/0/0a/SevenofNine.jpg/250px-SevenofNine.jpg",
+"round": "R3",
+"Thema": "Shows & Films"
+},
+{
+"type": "open",
+"question": "Welke Amerikaanse rockband uit de jaren ’90 is bekend van het nummer 'What's Up?'?",
+"correct": "4 Non Blondes",
+"image": "https://i.ytimg.com/vi/NjVugzSR7HA/mqdefault.jpg",
+"round": "R3",
+"Thema": "Muziek"
+},
+{
+"type": "open",
+"question": "Welke stam uit de Suske en Wiske-verhalen is vernoemd naar een stad in de Belgische provincie Luik?",
+"correct": "Nerviërs",
+"image": "https://image.demorgen.be/76611023/feature-crop/1200/900/100-000-euro-voor-originele-pagina-s-van-suske-en-wiske-strip",
+"round": "R4",
+"Thema": "Boeken & Strips"
+},
+{
+"type": "open",
+"question": "Welke film van Jacques Vermeiren vertelt het verhaal van een jongen met bijzondere avonturen en draagt zijn naam in de titel?",
+"correct": "Max",
+"image": "https://images.hln.be/MGVkMzE0MzhjMjg5ZTU3MmMzNDcvZGlvLzI4NTExMjU5L2ZpdC13aWR0aC8xMjAw/jacques-vermeire-als-max",
+"round": "R4",
+"Thema": "Shows & Films"
+},
+{
+"type": "open",
+"question": "Welke term uit de jacht- en landschapsarchitectuur verwijst naar een besloten terrein of lusthof waar vroeger werd gejaagd?",
+"correct": "Warrande",
+"image": "https://www.zoetermeeractief.nl/images/Zoetermeernieuws-2023/m-wijknieuws-2023/warande.jpeg",
+"round": "R4",
+"Thema": "Cultuur"
+},
+{
+"type": "open",
+"question": "Welke kassei in de wielerklassieker Parijs-Roubaix is vernoemd naar een plaats in Wallonië?",
+"correct": "Arduin",
+"image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTWLRRRtympCwxbIqWsHomq-ulzlkUoWMmkqg&s",
+"round": "R4",
+"Thema": "Sport"
+},
+{
+"type": "open",
+"question": "Welke zaal of theaternaam wordt vaak geassocieerd met comedyshows en draagt dezelfde naam als een beroemde kasseistrook in de wielersport?",
+"correct": "Arenberg",
+"image": "https://focusonbelgium.be/sites/default/files/styles/big_article_image/public/shutterstock_117956233_1.jpg?itok=lJZsqU_P",
+"round": "R4",
+"Thema": "Shows & Films"
+},
+{
+"type": "open",
+"question": "Welke iconische berg in Catalonië staat bekend om zijn rotsformaties en klooster?",
+"correct": "Montserrat",
+"image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS6WcZKkI-aqpBJc62L5a9mlqkvgTLBVQo0ow&s",
+"round": "R4",
+"Thema": "Geografie"
+},
+{
+"type": "open",
+"question": "Welke Belgische politicus was in de 19e eeuw bekend als burgemeester van Brussel?",
+"correct": "Frans Anspach",
+"image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/19/25/74/ef/fontaine-anspach.jpg?w=900&h=-1&s=1",
+"round": "R4",
+"Thema": "Politiek"
+},
+{
+"type": "open",
+"question": "Welke Belgische wielrenner uit Limburg is een sprinter voor het UCI WorldTeam Red Bull–BORA–Hansgrohe en won onder meer een etappe op de Champs‑Élysées in de Tour de France?",
+"correct": "Jordi Meeus",
+"image": "https://images.vrt.be/width1280/2025/07/08/b21f4137-487e-430b-bc6e-6f018fb71025.jpg",
+"round": "R4",
+"Thema": "Sport"
+},
+{
+"type": "open",
+"question": "Welke artiest bracht het nummer 'Soldiers of Love' uit en draagt de naam van een bekende Franse heilige stad in zijn artiestennaam?",
+"correct": "Liliane Saint Pierre",
+"image": "https://images.hln.be/OTNlMjYzOWZiNGMyM2ZkYzBiMmYvZGlvLzIxNjE2MzI4MS9maWxsLzEzNDQvOTAw/liliane-saint-pierre-zong-soldiers-of-love-op-eurovision-in-1987",
+"round": "R4",
+"Thema": "Muziek"
+},
+{
+  "type": "open",
+  "question": "Hoe heet het dakvormige accent (ˆ) dat in het Frans wordt gebruikt op letters zoals â, ê en ô?",
+  "correct": "accent circonflex",
+  "image": "",
+  "round": "R5",
+  "Thema": "Taal"
+},
+{
+  "type": "open",
+  "question": "Welke donkere, stroperige azijn uit Italië wordt vaak gebruikt in salades en bij kaas?",
+  "correct": "balsamico",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/7/7e/Balsamico-1.jpg",
+  "round": "R5",
+  "Thema": "Gastronomie"
+},
+{
+  "type": "open",
+  "question": "Hoe heet het lied van de Belgische band Urban Dance Squad dat in de jaren 90 een grote hit was?",
+  "correct": "Concrete Blond",
+  "image": "https://upload.wikimedia.org/wikipedia/en/7/77/Concrete_Blonde.jpg",
+  "round": "R5",
+  "Thema": "Muziek"
+},
+{
+  "type": "open",
+  "question": "Hoe heet de beroemde roman van Charles Dickens die het levensverhaal van de gelijknamige hoofdpersoon vertelt?",
+  "correct": "David Copperfield",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/4/44/Charles_Dickens_by_Rischgitz_c1860s.jpg",
+  "round": "R5",
+  "Thema": "Boeken & Strips"
+},
+{
+  "type": "open",
+  "question": "Uit welke Franse regio komt de gelijknamige harde kaas die bekendstaat om zijn rijke smaak?",
+  "correct": "Franche-Comté",
+  "image": "https://img.culy.nl/images/CilNHDgvlFT0WMYXC49Rx54Qe6Y=/375x211/filters:quality(80):format(jpeg):background_color(fff)/https%3A%2F%2Fwww.culy.nl%2Fwp-content%2Fuploads%2F2025%2F03%2FComte-kaas-heel.jpg",
+  "round": "R5",
+  "Thema": "Gastronomie"
+},
+{
+  "type": "open",
+  "question": "Welke Belgische vastgoedontwikkelaar is bekend voor het bouwen en beheren van grote sport- en evenementenarena's?",
+  "correct": "Gelamco",
+  "image": "https://ghelamco.com/site/assets/files/25395/proj-61-12-52ea47939ce65-la.jpg",
+  "round": "R5",
+  "Thema": "IT & Games"
+},
+{
+  "type": "open",
+  "question": "Hoe heet de Vlaamse televisieserie waarin twee vrienden samen allerlei avonturen beleven?",
+  "correct": "Jacobus en Korneel",
+  "image": "https://images.vrt.be/w1280h672_seo_vrtmax_overlay/2016/06/15/dd1b2c11-3304-11e6-aa66-00163edf843f.jpg",
+  "round": "R5",
+  "Thema": "Shows & Films"
+},
+{
+  "type": "open",
+  "question": "Welke medische toestand wordt kunstmatig opgewekt om patiënten tijdens operaties volledig bewusteloos en gevoelloos te houden?",
+  "correct": "narcose",
+  "image": "https://anesthesiologie.mumc.nl/sites/anesthesiologie/files/uploads/depositphotos_14151999_l-2015.jpg",
+  "round": "R5",
+  "Thema": "Wetenschappen"
+},
+{
+  "type": "open",
+  "question": "Welke Belgische supermarktketen maakt deel uit van de Diepries Groep en richt zich op lokale buurten?",
+  "correct": "O'Cool",
+  "image": "https://www.medianoord.be/images/cache/c3482e5bf83c004f2d9c69a24f273785.jpg",
+  "round": "R5",
+  "Thema": "Gastronomie"
+},
+{
+  "type": "open",
+  "question": "Hoe heet de Duitse DJ en producer die bekendstaat om zijn disco-geïnspireerde housemuziek en hits zoals 'Dopamine' en 'In My Arms'?",
+  "correct": "Purple Disco Machine",
+  "image": "https://d3vhc53cl8e8km.cloudfront.net/hello-staging/wp-content/uploads/2018/08/03233614/d691a620-aa90-11ee-b991-0ee6b8365494-1-972x597.jpg",
+  "round": "R5",
+  "Thema": "Muziek"
+},
+{
+  "type": "open",
+  "question": "Welke stad in de Verenigde Staten werd bekend vanwege de FBI-trainingsbasis en een reeks overvallen die er historisch plaatsvonden?",
+  "correct": "Quantico",
+  "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQNOC0dhlqSy9TPwRWGudhitj2VDa0-SCwbeQ&s",
+  "round": "R5",
+  "Thema": "Geografie"
+},
+{
+  "type": "open",
+  "question": "Welke Europese kunst- en interieurstijl uit de 18e eeuw wordt gekenmerkt door sierlijke, decoratieve vormen en pastelkleuren?",
+  "correct": "Rococo",
+  "image": "https://mymodernmet.com/wp/wp-content/uploads/2018/04/rococo-art-1.jpg",
+  "round": "R5",
+  "Thema": "Kunst"
+},
+{
+  "type": "open",
+  "question": "Welke Belgische sprinter, bekend van korteafstandslopen, deelt zijn naam met een internationale kledingwinkelketen?",
+  "correct": "Sacoor",
+  "image": "https://images.hln.be/MjYwYzM3M2Y1ZTNkMzE5ODk3YmEvZGlvLzIwOTk5MTY2NS9maXQtd2lkdGgvMTIwMA",
+  "round": "R5",
+  "Thema": "Sport"
+},
+{
+  "type": "open",
+  "question": "Welke organisatie in België verenigt Franstalige gemeenten en vertegenwoordigt hun belangen op regionaal en nationaal niveau?",
+  "correct": "Union Francophone",
+  "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRPzU2fEIf_aC7gYiRCCb95-F5pMd-AsrGLgw&s",
+  "round": "R5",
+  "Thema": "Politiek"
+},
+{
+  "type": "open",
+  "question": "Wat is de achternaam van de Vlaamse televisiepresentator Maarten van Maarten en Dorothée?",
+  "correct": "Vancoillie",
+  "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRqwT6n3l9mMIFmhD3rlNvdrnmWQ6G1YpRTrQ&s",
+  "round": "R5",
+  "Thema": "Shows & Films"
+},
+{
+  "type": "open",
+  "question": "Welke Belgische leverancier is gespecialiseerd in bouw- en schildersmaterialen, zoals verf en gereedschap?",
+  "correct": "Wasco",
+  "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTW37dj4K2JhsaJ7aDEaUn6-rD-gR2eqBHENg&s",
+  "round": "R5",
+  "Thema": "IT & Games"
+},
+{
+  "type": "open",
+  "question": "Welke Australische muziekact scoorde een wereldhit met het nummer 'We No Speak Americano'?",
+  "correct": "Yolanda Be Cool",
+  "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQMo4NmHWCwSQfQJ9ZswFHkfhmsK-RpTZrmvw&s",
+  "round": "R5",
+  "Thema": "Muziek"
+},
+{
+  "type": "open",
+  "question": "Hoe heet het Vlaamse televisieprogramma waarin een chef klassieke gerechten combineert met een creatieve twist, geïnspireerd door de filmwereld?",
+  "correct": "Zalm voor Corleone",
+  "image": "https://prod-img.standaard.be/public/nieuws/wdieak-herman-van-molle-met-zalm.-vrt/alternates/BASE_FOUR_FIVE/Herman%20Van%20Molle%20met%20zalm.%20vrt",
+  "round": "R5",
+  "Thema": "Shows & Films"
+},
+{
+  "type": "open",
+  "question": "Welke historische drukkerij en museum in Antwerpen staat bekend om haar invloedrijke rol in de boekdrukkunst in de 16e eeuw?",
+  "correct": "Plantin-Moretus",
+  "image": "https://museumplantinmoretus.be/sites/plantinmoretus/files/styles/hero_banner_front_page/public/2024-03/ans_brys_20170523_D9O7116.jpg?itok=J-DBZBqQ",
+  "round": "R6",
+  "Thema": "Geschiedenis"
+},
+{
+  "type": "open",
+  "question": "Welke stad in het uiterste zuiden van Argentinië wordt vaak genoemd als het meest zuidelijke bewoonde punt van de wereld?",
+  "correct": "Ushuaia",
+  "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQEGy18Liqy5lvcdDO-BPYs8SBTUqr0TwLZSw&s",
+  "round": "R6",
+  "Thema": "Geografie"
+},
+{
+  "type": "open",
+  "question": "Welke internationale organisatie was verantwoordelijk voor het regelen van de regels en wedstrijden in de atletiek voordat ze hernoemd werd tot World Athletics?",
+  "correct": "IAAF",
+  "image": "https://media.aws.iaaf.org/media/LargeL/928e01b0-6ff5-4fa8-9251-0bf121daeebc.png?v=-1714992545",
+  "round": "R6",
+  "Thema": "Sport"
+},
+{
+  "type": "open",
+  "question": "Welke hertog van Bourgondië, die regeerde in de 15e eeuw, stond bekend om zijn rijke hofhouding en politieke invloed in de Lage Landen?",
+  "correct": "Filip de Goede",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/Philip_the_good.jpg/960px-Philip_the_good.jpg",
+  "round": "R6",
+  "Thema": "Geschiedenis"
+},
+{
+  "type": "open",
+  "question": "Welke wereldberoemde oploskoffiebrand is onderdeel van het Zwitserse voedingsmiddelenbedrijf Nestlé?",
+  "correct": "Nescafé",
+  "image": "https://pannenexpert.nl/wp-content/uploads/2025/09/beste-oploskoffie-2-1-1600x800.jpg",
+  "round": "R6",
+  "Thema": "Gastronomie"
+},
+{
+  "type": "open",
+  "question": "Welke Franse wielrenner, geboren in 1992, staat bekend om zijn prestaties in zowel eendaagse klassiekers als grote rondes?",
+  "correct": "Ferrand Prévot",
+  "image": "https://d1lk6qpkbduawh.cloudfront.net/_954x1445_crop_center-center_85_none/Pauline-portret-2025.png",
+  "round": "R6",
+  "Thema": "Sport"
+},
+{
+  "type": "open",
+  "question": "Welke klei-gebaseerde keramieksoort, vaak roodbruin van kleur, wordt gebruikt voor beeldhouwwerken, dakpannen en potten?",
+  "correct": "Terracotta",
+  "image": "https://cdn.webshopapp.com/shops/269862/files/453003077/terracotta-in-je-interieur-de-kleurtrend-van-dit-m.jpg",
+  "round": "R6",
+  "Thema": "Kunst"
+},
+{
+  "type": "open",
+  "question": "Wat is de achternaam van de vrouw die in 2003 de titel Miss België won?",
+  "correct": "Taton",
+  "image": "https://beneluxtheater.be/wp-content/uploads/2012/01/51b76b1be4b0de6db97bf9b1-978x489.jpg",
+  "round": "R6",
+  "Thema": "Cultuur"
+},
+{
+  "type": "open",
+  "question": "Welke Belgische zangeres scoorde in de jaren 2000 een hit met het nummer 'Li La Li'?",
+  "correct": "Kim Kay",
+  "image": "https://images.hln.be/OGFhMDMyZGI0ZGU4ZGJlNDRhNzkvZGlvLzI1OTczNzg4Ni9maXQtd2lkdGgvMTIwMA/kopfoto-kim-kay",
+  "round": "R6",
+  "Thema": "Muziek"
+},
+{
+  "type": "open",
+  "question": "Wie werd in 2007 voorzitter van de Belgische politieke partij Groen?",
+  "correct": "Vogels",
+  "image": "https://assets.nationbuilder.com/groenplus/pages/1050/attachments/original/1677251102/Mieke_Vogels_400-header.jpg?1677251102",
+  "round": "R6",
+  "Thema": "Politiek"
+},
+{
+  "type": "open",
+  "question": "Welke Amerikaanse multinational is wereldwijd bekend als fabrikant van liften, roltrappen en bewegende trottoirs?",
+  "correct": "Otis",
+  "image": "https://www.matrixliften.be/media/images/gallery/50/big/61.jpg",
+  "round": "R6",
+  "Thema": "IT & Games"
+},
+{
+  "type": "open",
+  "question": "Welke Waalse stad, gelegen in de provincie Luik, deelt zijn naam met een bekend kasteel en historische streek?",
+  "correct": "Berghen",
+  "image": "https://cdn.indebergen.nl/media/cqwl0acu/53025-de-mooiste-kastelen-van-de-alpen.jpg",
+  "round": "R6",
+  "Thema": "Geografie"
+},
+{
+  "type": "open",
+  "question": "Welke Belgische dirigent is bekend om zijn interpretaties van barokmuziek en het leiden van ensembles zoals Collegium Vocale Gent?",
+  "correct": "Herreweghe",
+  "image": "https://images.tijd.be/view?iid=Elvis:2Ahk2-6YqTdADi0WzgXAQm&context=ONLINE&ratio=16/9&width=640&u=1620807287000",
+  "round": "R6",
+  "Thema": "Muziek"
+},
+{
+  "type": "open",
+  "question": "Hoe heet het kleine aapje dat bekend werd door het televisieprogramma van Annemieke & Rozemieke?",
+  "correct": "Choco",
+  "image": "https://www.stripverhalen.net/images/personages/jommeke/choco.gif",
+  "round": "R6",
+  "Thema": "Shows & Films"
+},
+{
+"type": "open",
+"question": "Hoe heet de romantische film uit 1993 met Tom Hanks waarin hij een weduwnaar speelt die de liefde opnieuw vindt?",
+"correct": "Sleepless in Seattle",
+"image": "https://i.guim.co.uk/img/media/62aa9746863e374dbe8e55b5bae62cd9493af3b0/0_34_2222_1333/master/2222.jpg?width=465&dpr=1&s=none&crop=none",
+"round": "R8",
+"Thema": "Shows & Films"
+},
+{
+"type": "open",
+"question": "Hoe heette de beruchte Romeinse keizer die bekendstond om zijn wreedheid en excentrieke gedrag en regeerde van 37 tot 41 na Christus?",
+"correct": "Caligula",
+"image": "https://cdn.britannica.com/49/147549-050-99483725/Caligula-Lazienkowski-Park-Warsaw.jpg",
+"round": "R8",
+"Thema": "Geschiedenis"
+},
+{
+"type": "open",
+"question": "Welk internationaal horlogemerk is vooral bekend door zijn sportieve modellen en zijn slogan die verwijst naar het belang van tijd?",
+"correct": "Festina",
+"image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT14ofYBuKS3ZtbXcsebGbdjUHre30-p1pXtA&s",
+"round": "R8",
+"Thema": "Cultuur"
+},
+{
+"type": "open",
+"question": "Hoe heten de satirische onderscheidingen die jaarlijks worden toegekend aan personen die zichzelf op extreem domme wijze uit de menselijke genenpool verwijderen?",
+"correct": "Darwin Awards",
+"image": "https://s3images.coroflot.com/user_files/individual_files/large_635935_aps8_z8xrrle7r6glsfgb_vao.jpg",
+"round": "R8",
+"Thema": "Wetenschappen"
+},
+{
+"type": "open",
+"question": "Hoe noem je iemand die als hobby het houden, verzorgen en kweken van postduiven heeft?",
+"correct": "Colombofiel",
+"image": "https://upload.wikimedia.org/wikipedia/commons/2/2b/Rock_dove_-_natures_pics.jpg",
+"round": "R8",
+"Thema": "Taal"
+},
+{
+"type": "open",
+"question": "Hoe heet de veelgebruikte voederplant voor vee die ook bekendstaat om haar stikstofbindende eigenschappen?",
+"correct": "Luzerne",
+"image": "https://waarneming.nl/media/photo/3941399.jpg",
+"round": "R8",
+"Thema": "Natuur"
+},
+{
+"type": "open",
+"question": "Welke Britse dancepopgroep scoorde begin jaren 90 een wereldhit met het nummer ‘I've Been Thinking About You’?",
+"correct": "Londonbeat",
+"image": "https://i.ytimg.com/vi/K2Cf2eK8XUc/sddefault.jpg",
+"round": "R8",
+"Thema": "Muziek"
+},
+{
+"type": "open",
+"question": "Welke Russische tennisster werd wereldberoemd in de jaren 90 en vroege 2000, vooral bekend om haar dubbelspelprestaties?",
+"correct": "Anna Kournikova",
+"image": "https://image.humo.be/15448646/feature-crop/1200/1200/anna-kournikova-in-2003-in-actie-op-de-australian-open",
+"round": "R9",
+"Thema": "Sport"
+},
+{
+"type": "open",
+"question": "Welke Belgische online dienst van MyMinfin laat burgers hun belastingaangifte elektronisch indienen?",
+"correct": "Tax-on-web",
+"image": "https://financien.belgium.be/sites/all/themes/custom/finance/logo_nl.png",
+"round": "R9",
+"Thema": "IT & Games"
+},
+{
+"type": "open",
+"question": "Welke hightech onderzoeksorganisatie in Leuven richt zich op nano-elektronica en digitale technologieën?",
+"correct": "IMEC",
+"image": "https://www.buildsoft.eu/wp-content/uploads/2024/07/cbp_jva_imec-768x576.jpg",
+"round": "R9",
+"Thema": "Wetenschappen"
+},
+{
+"type": "open",
+"question": "Hoe heet de streek in Oost-Vlaanderen die bekendstaat om zijn polders, kleine dorpen en historische steden zoals Eeklo en Lokeren?",
+"correct": "Meetjesland",
+"image": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/Flag_of_Oost-Vlaanderen.svg/960px-Flag_of_Oost-Vlaanderen.svg.png",
+"round": "R9",
+"Thema": "Geografie"
+},
+{
+"type": "open",
+"question": "Welke fictieve stripfiguur is de stiefvader van Jommeke en staat bekend om zijn rustige en wijze persoonlijkheid?",
+"correct": "Mic Mac Jampudding",
+"image": "https://assets.lastdodo.com/image/ld_large/plain/assets/catalog/assets/2012/4/16/9/9/3/pdf_993e73f0-69cf-012f-8e93-005056960006.jpg",
+"round": "R9",
+"Thema": "Boeken & Strips"
+},
+{
+"type": "open",
+"question": "Welke Amerikaanse filmproducent, bekend van de James Bond-films sinds de jaren 70, deelt zijn naam met een groente?",
+"correct": "Broccoli",
+"image": "https://upload.wikimedia.org/wikipedia/en/thumb/f/fe/No_Time_to_Die_poster.jpg/250px-No_Time_to_Die_poster.jpg",
+"round": "R9",
+"Thema": "Shows & Films"
+},
+{
+"type": "open",
+"question": "Welke Amerikaanse kunstenaar wordt gezien als een belangrijke vertegenwoordiger van het abstract expressionisme, vooral bekend om zijn druppel- en spatschilderijen?",
+"correct": "Jackson Pollock",
+"image": "https://ideelart.com/cdn/shop/articles/1019_1541761819WqUd9_1_89633d8c-f5a6-477a-bea1-561206e318fe-5926926.jpg?v=1761849915&width=2048",
+"round": "R9",
+"Thema": "Kunst"
+},
+{
+"type": "open",
+"question": "Welk hondenras, oorspronkelijk gebruikt als herdershond in Engeland, staat bekend om zijn lange, harige vacht die vaak de ogen bedekt?",
+"correct": "Bobtail",
+"image": "https://redactie.rtl.nl/sites/default/files/content/images/2019/04/02/samson-en-gert.jpg?itok=vp2qCyJD&offsetX=0&offsetY=90&cropWidth=1023&cropHeight=575&width=1024&height=576&impolicy=dynamic",
+"round": "R9",
+"Thema": "Natuur"
+},
+{
+"type": "open",
+"question": "Hoe heet het overzicht dat de belangrijkste historische gebeurtenissen en personen van Vlaanderen samenvat, bedoeld als educatief hulpmiddel?",
+"correct": "Canon van Vlaanderen",
+"image": "https://www.klasse.be/wp/wp-content/uploads/2023/11/VlaamseCanon_4.jpg",
+"round": "R9",
+"Thema": "Geschiedenis"
+},
+{
+"type": "open",
+"question": "Welke pittige Spaanse worst wordt vaak gebruikt in tapasgerechten en paella?",
+"correct": "Chorizo",
+"image": "https://www.carolinescooking.com/wp-content/uploads/2023/06/chorizo-in-cider-featured-pic-sq-480x270.jpg",
+"round": "R9",
+"Thema": "Gastronomie"
+},
+{
+"type": "open",
+"question": "Welke fictieve kunstenaar uit de Strip 'The Twelve Tasks of Asterix' creëerde het beroemde schilderij 'The Fallen Madonna with the Big Boobies'?",
+"correct": "Van Klomp",
+"image": "https://i2-prod.mirror.co.uk/article13601570.ece/ALTERNATES/s1200c/0_SWNS_ALLO_ALLO_08.jpg",
+"round": "R9",
+"Thema": "Boeken & Strips"
+},
+{
+"type": "open",
+"question": "Hoe heet de communistische beweging die in de jaren 70 verantwoordelijk was voor de genocide in Cambodja onder leiding van Pol Pot?",
+"correct": "Rode Khmer",
+"image": "https://mijncambodja.nl/informatie/geschiedenis/het-schrikbewind-van-de-rode-khmer/schrikbewind-van-de-rode-khmer-in-cambodja.jpg",
+"round": "R9",
+"Thema": "Geschiedenis"
+},
+{
+"type": "open",
+"question": "Welke Belgische journaliste en presentatrice werkt onder andere voor VRT en is bekend van programma’s zoals 'Terzake'?",
+"correct": "Sabine De Vos",
+"image": "https://img.static-rmg.be/a/view/q75/w962/h503/f64.39,29.06/6635643/b823756739z-1-20241008105935-000gfa4b92l7-1-0-jpg.jpg",
+"round": "R9",
+"Thema": "Shows & Films"
+},
+{
+"type": "open",
+"question": "Welke uitdrukking uit het Hebreeuws en Jiddisch wordt gebruikt om iemand geluk of succes te wensen?",
+"correct": "Mazel tov",
+"image": "https://dessertgallery.com/cdn/shop/files/WOCO_-_Mazel_tov_hebrew_1200x1200.jpg?v=1728426480",
+"round": "R9",
+"Thema": "Taal"
+},
+{
+"type": "open",
+"question": "Welke extreemrechtse Belgische beweging uit de 20e eeuw gebruikte de slogan 'Bloed, Bodem, Eer en Trouw'?",
+"correct": "Verdinaso",
+"image": "https://encyclopedievlaamsebeweging.be/sites/default/files/styles/entity_image/public/1_Verdinaso_devb.jpg",
+"round": "R9",
+"Thema": "Politiek"
+},
+{
+"type": "open",
+"question": "Welke Oostenrijkse acteur won twee Oscars voor Beste Mannelijke Bijrol, onder andere voor zijn rollen in 'Inglourious Basterds' en 'Django Unchained'?",
+"correct": "Christoph Waltz",
+"image": "https://i.namu.wiki/i/1BtSvaFuc6ixq76tlNiaI5bFn7V9bAnuF3gSnqxOOSTfoqvJizQdkZTf_DCkHL9M9jdr8-ZNjr7F9A4Bcf4xyQ.webp",
+"round": "R9",
+"Thema": "Shows & Films"
+},
+{
+"type": "open",
+"question": "Welke Nederlandse politieke partij wordt geleid door Rob Jetten en staat bekend als progressief-liberale partij?",
+"correct": "D66",
+"image": "https://images.bd.nl/YzA3MjlkYzlhMDNjMjJmMTVlOWYvZGlvLzEzMzc1OTY4MS9maXQtd2lkdGgvMTIwMA/rob-jetten",
+"round": "R10",
+"Thema": "Politiek"
+},
+{
+"type": "open",
+"question": "Hoe noemt men de oorspronkelijke bewoners van Australië, die een rijke cultuur en eeuwenoude tradities hebben?",
+"correct": "Aboriginals",
+"image": "https://images-bonnier.imgix.net/files/his/production/2023/10/10082158/aboriginals-didgeridoo.jpeg?auto=format,compress&crop=focalpoint&fp-x=0.5&fp-y=0.5&ar=1.5:1&w=922&q=80&fit=crop",
+"round": "R10",
+"Thema": "Cultuur"
+},
+{
+"type": "open",
+"question": "Welk Belgisch merk is internationaal bekend om zijn luxe chocolade en pralines?",
+"correct": "Neuhaus",
+"image": "https://dlvkyia8i4zmz.cloudfront.net/LldNvmhRJOuCzvXlDORk_Logo_Neuhaus_Icon___GB.png",
+"round": "R10",
+"Thema": "Gastronomie"
+},
+{
+"type": "open",
+"question": "Welke Nederlandse wielrenner staat bekend om zijn prestaties in grote rondes zoals de Tour de France?",
+"correct": "Steven Kruijswijk",
+"image": "https://prod-img.telegraaf.nl/public/incoming/425m17-steven-kruijswijk-is-de-enige-nederlandee-wielrenner-die-meegaat-naar-de-tour-bij-jumbo-visma./alternates/BASE_WIDTH/Steven%20Kruijswijk%20is%20de%20enige%20Nederlandee%20wielrenner%20die%20meegaat%20naar%20de%20Tour%20bij%20Jumbo%20Visma.",
+"round": "R10",
+"Thema": "Sport"
+},
+{
+"type": "open",
+"question": "Hoe heet het vette smeersel dat oorspronkelijk bedoeld is voor de verzorging van koeienuier, maar ook door mensen gebruikt kan worden voor droge huid?",
+"correct": "Uiercrème",
+"image": "https://www.dr-jetskeultee-skincare.nl/media/magefan_blog/2019/09/Inkloppen_of_wrijven.jpg",
+"round": "R10",
+"Thema": "Gastronomie"
+},
+{
+"type": "open",
+"question": "In welke Nederlandse stad ligt de universiteit die bekendstaat om haar brede onderwijsaanbod en onderzoeksfaciliteiten en vaak afgekort wordt als UT?",
+"correct": "Enschede",
+"image": "https://d22ngpx8edtvxq.cloudfront.net/webuploads/_blockImage/18071/Intercity-Hotel-skyline-Enschede.webp",
+"round": "R10",
+"Thema": "Geografie"
+},
+{
+"type": "open",
+"question": "Welke slechterik uit de Vlaamse televisieserie 'Kapitein Zeppos' probeert constant de held te dwarsbomen?",
+"correct": "Senne Rouffaer",
+"image": "https://prod-img.standaard.be/public/nieuws/16x9ak-senne-rouffaer-als-kapitein-zeppos./alternates/THREE_TWO_1620/Senne%20Rouffaer%20als%20Kapitein%20Zeppos.",
+"round": "R10",
+"Thema": "Shows & Films"
+},
+{
+"type": "open",
+"question": "Welke legendarische Belgische discotheek, vooral populair in de jaren 80 en 90, stond bekend om zijn feesten en dance-events?",
+"correct": "Cherry Moon",
+"image": "https://kntxt.be/wp-content/uploads/2024/01/2.png",
+"round": "R10",
+"Thema": "Muziek"
+},
+{
+"type": "open",
+"question": "Welke Australische zangeres en actrice scoorde wereldwijd een hit met het nummer 'Torn' in de late jaren 90?",
+"correct": "Natalie Imbruglia",
+"image": "https://images.ctfassets.net/3p0bn61n86ty/7odH8jU7kQ5VlylzS6g8Nd/1be30519010ead34a67cfcb21d246ebb/Natalie_Imbruglia_scoorde_een_dikke_hit_met_Torn_-_article_header.png",
+"round": "R10",
+"Thema": "Muziek"
 }
 
 
