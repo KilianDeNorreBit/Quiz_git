@@ -445,7 +445,7 @@
 },
 {
 "type": "open",
-"question": "Welke rivier stroomt door de Belgische stad Leuven en is een zijrivier van de Dijle?",
+"question": "Welke rivier stroomt door de Belgische stad Leuven en is een zijrivier van de Woluwe?",
 "correct": ["Dijle"],
 "image": "https://upload.wikimedia.org/wikipedia/commons/9/92/KaartDijle.jpg",
 "round": "R10",

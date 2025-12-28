@@ -1336,7 +1336,7 @@
 },
 {
 "type": "open",
-"question": "Welke rivier stroomt door de Belgische stad Leuven en is een zijrivier van de Dijle?",
+"question": "Welke rivier stroomt door de Belgische stad Leuven en is een zijrivier van de Woluwe?",
 "correct": ["Dijle"],
 "image": "https://upload.wikimedia.org/wikipedia/commons/9/92/KaartDijle.jpg",
 "round": "R10",
@@ -1844,7 +1844,7 @@
 },
 {
   "type": "open",
-  "question": "Welke stad in België staat bekend om zijn historische architectuur?",
+  "question": "Welke stad in België is bekend om zijn middeleeuwse begijnhof en jaarlijkse bierfestival?",
   "correct": "Namen",
   "image": "https://www.topomania.net/storage/mapposters/provincie-namen-(1280x1024).png?m=1371402878",
   "round": "R5 - Alfabet",
@@ -2082,14 +2082,6 @@
   "image": "https://www.isolatie-info.be/wp-content/uploads/anorganische-glaswol-isolatie.jpg",
   "round": "R2",
   "Thema": "Natuur"
-},
-{
-  "type": "open",
-  "question": "Welk Europees is geen lid van de EU?",
-  "correct": "Zwitserland",
-  "image": "https://www.radar.org/sites/default/files/styles/max_1300x1300/public/2022-06/european-union-g2dad2e24c_1280.png?itok=X0qvaEbg",
-  "round": "R2",
-  "Thema": "Geografie"
 },
 {
   "type": "open",
@@ -4201,7 +4193,7 @@
 },
 {
 "type": "open",
-"question": "Hoe heet de streek in Oost-Vlaanderen die bekendstaat om zijn polders, kleine dorpen en historische steden zoals Eeklo en Lokeren?",
+"question": "Hoe heet de streek in Oost-Vlaanderen die bekendstaat om zijn polders, kleine dorpen en historische steden zoals Eeklo en Aalter?",
 "correct": "Meetjesland",
 "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/Flag_of_Oost-Vlaanderen.svg/960px-Flag_of_Oost-Vlaanderen.svg.png",
 "round": "R9",
