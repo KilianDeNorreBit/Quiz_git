@@ -32,13 +32,6 @@ Gebruik deze template en vergeet de komma niet
 
 {
   "questions": [
-{
-  "type": "open",
-  "question": "Hoe heet het Belgisch amputatievoetbalteam dat uitkomt op internationale toernooien?",
-  "correct": "Red Flamingos",
-  "image": "",
-  "round": "R1",
-  "Thema": "Sport"
-},
+
   ]
 }

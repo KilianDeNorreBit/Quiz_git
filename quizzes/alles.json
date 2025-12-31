@@ -757,7 +757,7 @@
 },
 {
   "type": "open",
-  "question": "Welke gebeurtenis in november 1938, ook wel bekend als de 'Night of Broken Glass', markeerde een escalatie van geweld tegen Joden in nazi-Duitsland?",
+  "question": "Welke gebeurtenis in november 1938, markeerde een escalatie van geweld tegen Joden in nazi-Duitsland?",
   "correct": ["Kristalnacht", "Night of Broken Glass"],
   "image": "https://www.kijkmagazine.nl/app/uploads/sites/3/2020/05/kristallnacht.jpg",
   "round": "R7",
@@ -1758,7 +1758,7 @@
   "type": "open",
   "question": "Hoe heet het legendarische kasteel en hof van koning Arthur?",
   "correct": "Camelot",
-  "image": "https://static.wikia.nocookie.net/turtledove/images/f/fa/CAMELOT-600x450-1-.jpg/revision/latest/scale-to-width-down/600?cb=20151203221026",
+  "image": "https://image.tmdb.org/t/p/w780/7jvHnJcCSfk8bhjy9U78HZ9jzkC.jpg",
   "round": "R5 - Alfabet",
   "Thema": "Cultuur"
 },
@@ -2533,7 +2533,7 @@
 },
 {
   "type": "open",
-  "question": "Welke Belgische arena in Mechelen wordt gebruikt voor sportwedstrijden, concerten en evenementen?",
+  "question": "Welke Belgische arena in Antwerpen wordt gebruikt voor sportwedstrijden, concerten en evenementen?",
   "correct": "AFAS Dome",
   "image": "https://znaki.fm/static/content/thumbs/388x337/b/e3/qlqpqt-350167a941c04495b7a4f9a4ed3b7e3b.jpg",
   "round": "R10",
@@ -4366,6 +4366,626 @@
 "image": "https://images.ctfassets.net/3p0bn61n86ty/7odH8jU7kQ5VlylzS6g8Nd/1be30519010ead34a67cfcb21d246ebb/Natalie_Imbruglia_scoorde_een_dikke_hit_met_Torn_-_article_header.png",
 "round": "R10",
 "Thema": "Muziek"
+},
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+{
+  "type": "open",
+  "question": "Hoe heet het militaire klaroensignaal dat gebruikt wordt om soldaten aan het begin van de dag te laten opstaan?",
+  "correct": ["Reveille","Wakker worden"],
+  "image": "https://www.mim.be/sites/default/files/styles/slideshow_browser/public/2024-10/MIMICO%201992.008%20clairon.jpg?h=1315c568&itok=L0tY-d75",
+  "round": "R1",
+  "Thema": "Geschiedenis"
+},
+{
+  "type": "open",
+  "question": "Hoe noemt men een natuurlijke verzameling oesters die samen op de zeebodem groeien?",
+  "correct": ["bed","oesterbed"],
+  "image": "https://upload.wikimedia.org/wikipedia/commons/d/d0/FourasHuitres.JPG",
+  "round": "R1",
+  "Thema": "Natuur"
+},
+{
+  "type": "open",
+  "question": "Welke Nederlandse kunstenaar is bekend om zijn nostalgische illustraties en ontwierp mee aan het sprookjesbos van de Efteling?",
+  "correct": "Anton Pieck",
+  "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR0WupagpQIlpIGzqR47Dr2jdRl5PfzDkKsAw&s",
+  "round": "R1",
+  "Thema": "Kunst"
+},
+{
+  "type": "open",
+  "question": "Wie werd president van de Verenigde Staten na het aftreden van Richard Nixon?",
+  "correct": "Gerald Ford",
+  "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRuBva9Scr0HUXs9EzZapeZauEH8ePgWVw7nw&s",
+  "round": "R1",
+  "Thema": "Politiek"
+},
+{
+  "type": "open",
+  "question": "Hoe heet de documentaire over koning Boudewijn waarbij zijn bijnaam in Congo als titel wordt gebruikt?",
+  "correct": "Kitoko",
+  "image": "https://wmimages.bruzz.be/styles/1f8c29ed4efcaed916a7e270e4064aaa5d961eac/2018-07/photonews_10492046-004.jpg?style=W3sianBlZyI6eyJxdWFsaXR5Ijo3MH19LHsicmVzaXplIjp7ImZpdCI6Imluc2lkZSIsIndpZHRoIjoxMjk2LCJoZWlnaHQiOjg2NCwid2l0aG91dEVubGFyZ2VtZW50Ijp0cnVlfX1d&sign=ea5a479f8ff3ccf227f319750f4d658cc8c629da41774305122c1f5695779eb6",
+  "round": "R1",
+  "Thema": "Cultuur"
+},
+{
+  "type": "open",
+  "question": "Hoe worden de jaarlijkse protestantse optochten in Noord-Ierland genoemd die vooral op 12 juli plaatsvinden?",
+  "correct": "Oranjemarsen",
+  "image": "https://cdn.nos.nl/image/2021/07/12/762621/2880x2160a.jpg",
+  "round": "R1",
+  "Thema": "Geschiedenis"
+},
+{
+  "type": "open",
+  "question": "Hoe heet de pastatechniek waarbij deeg herhaaldelijk wordt uitgerold en gevouwen om laagjes te creëren?",
+  "correct": "Toeren",
+  "image": "https://www.pastaficio.nl/app/uploads/2021/01/Hoe-wordt-pasta-en-spaghetti-gemaakt-web-.jpg",
+  "round": "R1",
+  "Thema": "Gastronomie"
+},
+{
+  "type": "open",
+  "question": "Hoe heet het traditionele Catalaanse visgerecht, vaak bereid met verschillende soorten vis en zeevruchten?",
+  "correct": "Zarzuela",
+  "image": "https://truitjeroermeniet.be/wp-content/uploads/2017/07/zarzuela-1-1024x686.jpg",
+  "round": "R1",
+  "Thema": "Gastronomie"
+},
+{
+  "type": "open",
+  "question": "Wat is de benaming voor de vrouwelijke bij die de kolonie leidt en verantwoordelijk is voor het leggen van eieren?",
+  "correct": "Moer",
+  "image": "https://www.imkerpedia.nl/wiki/images/4/47/Moer_Carnica_Carnolian.jpg",
+  "round": "R2",
+  "Thema": "Natuur"
+},
+{
+  "type": "open",
+  "question": "Welke kleine, donkere kersensoort wordt vaak gebruikt in desserts en confituur?",
+  "correct": "Morello",
+  "image": "https://www.tuinadvies.be/img/tuinadvies/uploads/1611838613-992685.jpg",
+  "round": "R2",
+  "Thema": "Gastronomie"
+},
+{
+  "type": "open",
+  "question": "Hoe heet de kat uit de Disneyfilm 'Pinokkio'?",
+  "correct": "Figaro",
+  "image": "https://i.namu.wiki/i/asQyzcvnkvwuPFiCmYaEREf30oFiMD0Oy8EGmsS8wfmauVE8XaTpX-Eyp_73d4fL3VlpoHDpr5fYDf5Efq6Evg.webp",
+  "round": "R2",
+  "Thema": "Shows & Films"
+},
+{
+  "type": "open",
+  "question": "Welke Belgische middenvelder was een belangrijke speler voor Club Brugge en het nationale elftal in de jaren 60 en 70, bekend om zijn techniek en leiderschap?",
+  "correct": "Wilfried Van Moer",
+  "image": "https://www.skbeveren.be/wp-content/uploads/2021/08/1-001-1.jpg",
+  "round": "R2",
+  "Thema": "Sport"
+},
+{
+  "type": "open",
+  "question": "Hoe heet het langeafstandskruisvluchtwapen van de Verenigde Staten dat vaak vanaf schepen en onderzeeërs wordt gelanceerd?",
+  "correct": "Tomahawk",
+  "image": "https://img.static-rmg.be/a/view/q75/w1200/h800/f50.00,50.00/7460239/gettyimages-1869884-jpg.jpg",
+  "round": "R2",
+  "Thema": "IT & Games"
+},
+{
+  "type": "open",
+  "question": "Welke Belgische politica was actief voor het Vlaams Belang en stond bekend om haar inzet in het Vlaamse parlement?",
+  "correct": "Marie-Rose Morel",
+  "image": "https://images.vrt.be/vrtnws_share/2017/10/13/6292b52a-b00b-11e7-bbe7-02b7b76bf47f.jpg",
+  "round": "R2",
+  "Thema": "Politiek"
+},
+{
+  "type": "open",
+  "question": "Hoe heet de Franse krant die bekendstaat als een van de oudste en grootste dagbladen van Frankrijk, opgericht in 1826?",
+  "correct": "Le Figaro",
+  "image": "https://images.nu.nl/m/zhjx8v8ac4sx_wd1280/0/192/2518/1417/krant-kranten-nieuws.jpg",
+  "round": "R2",
+  "Thema": "Cultuur"
+},
+{
+  "type": "open",
+  "question": "Welke Amerikaanse singer-songwriter scoorde een wereldhit met het nummer 'I'm Yours' in 2008?",
+  "correct": "Jason Mraz",
+  "image": "https://cdn-p.smehost.net/sites/ef38b16bfa9341f8994dd4d1bbaa542a/wp-content/uploads/2022/10/0139b01c55d497621fa5e31621ef51e004c7e168.jpeg",
+  "round": "R2",
+  "Thema": "Muziek"
+},
+{
+  "type": "open",
+  "question": "Welk klein insect wordt vaak genoemd als het meest dodelijke dier ter wereld door de ziektes die het verspreidt, zoals malaria?",
+  "correct": "Mug",
+  "image": "https://www.vrijsselland.nl/wp-content/themes/yootheme/cache/75/giftige-stoffen-7557071d.jpeg",
+  "round": "R3",
+  "Thema": "Natuur"
+},
+{
+  "type": "open",
+  "question": "Hoe heet het moderne percussie-instrument met een metalen koepelvorm dat een zachte, melodieuze klank produceert en vaak wordt gebruikt in meditatie- en straatmuziek?",
+  "correct": "Handpan",
+  "image": "https://i.ytimg.com/vi/Uj-kHy5b5mo/maxresdefault.jpg",
+  "round": "R3",
+  "Thema": "Muziek"
+},
+{
+  "type": "open",
+  "question": "Welke Argentijnse tennisster vormde een succesvol dubbelspelduo met Mary Joe Fernández en won meerdere grandslamtitels in de jaren 90?",
+  "correct": "Gabriela Sabatini",
+  "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRbLmfTzT_B6sdbyenXwOKtgC1ZPZpYR4JESw&s",
+  "round": "R3",
+  "Thema": "Sport"
+},
+{
+  "type": "open",
+  "question": "Welk land gebruikt de wapenspreuk 'Je maintiendrai', wat 'Ik zal handhaven' betekent?",
+  "correct": "Nederland",
+  "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRFYjp5CX7mIOEL4leyekvVedkcl5JP5g_-wA&s",
+  "round": "R3",
+  "Thema": "Geografie"
+},
+{
+  "type": "open",
+  "question": "Welke Franse komische film uit 1966, geregisseerd door Gérard Oury, speelt zich af tijdens de Tweede Wereldoorlog en is een van de meest succesvolle Franse films ooit?",
+  "correct": "Le Grand Vadrouille",
+  "image": "https://images.vrt.be/w1280h672_seo_vrtmax_overlay/2024/03/19/3b2ee5e7-e608-11ee-b483-02b7b76bf47f.jpg?gravity=45p%2C11p",
+  "round": "R3",
+  "Thema": "Shows & Films"
+},
+{
+  "type": "open",
+  "question": "Hoe heet het metalen draadkapje dat op een fles champagne of mousserende wijn zit om de kurk op zijn plaats te houden?",
+  "correct": "Muselet",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/Muselet_capsule_wire-cap.jpg/1200px-Muselet_capsule_wire-cap.jpg",
+  "round": "R3",
+  "Thema": "Gastronomie"
+},
+{
+  "type": "open",
+  "question": "Welke internationale feministische protestgroep staat bekend om hun topless demonstraties om aandacht te vragen voor vrouwenrechten en sociale ongelijkheid?",
+  "correct": "Femen",
+  "image": "https://www.shutterstock.com/editorial/image-editorial/M5j9c9wdOdD7Y748MTQ0Mg==/femen-activists-440nw-2690218a.jpg",
+  "round": "R3",
+  "Thema": "Politiek"
+},
+{
+  "type": "open",
+  "question": "Welke Belgische koning stond afgebeeld op het biljet van 1000 Belgische frank?",
+  "correct": "Leopold II",
+  "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTMVSV8V6fcIXuZJH1onOfGnj1_zU6oIHAxWg&s",
+  "round": "R3",
+  "Thema": "Geschiedenis"
+},
+{
+  "type": "open",
+  "question": "Welke Belgische koning siert het biljet van 5000 Belgische frank?",
+  "correct": "Albert I",
+  "image": "https://www.dezittere-philac.be/img/p/2/6/9/1/4/26914.jpg",
+  "round": "R3",
+  "Thema": "Geschiedenis"
+},
+{
+  "type": "open",
+  "question": "In welke Italiaanse stad vindt jaarlijks de beroemde Palio plaats, een historische paardenrace op het stadsplein?",
+  "correct": "Siena",
+  "image": "https://113.wpcdnnode.com/toscane-nu.nl/wp-content/uploads/palio_di_siena_2.jpg",
+  "round": "R4",
+  "Thema": "Sport"
+},
+{
+  "type": "open",
+  "question": "Welke kleine zangvogel uit Europa staat bekend om zijn vrolijke, snelle roep die klinkt als 'tjif-tjaf'?",
+  "correct": "Tjiftjaf",
+  "image": "https://www.natuurpunt.be/sites/default/files/styles/tablet/public/2023-06/Tjiftjaf%20op%20tak%20-%20Shutterstock.jpg?itok=QMUzpECo",
+  "round": "R4",
+  "Thema": "Natuur"
+},
+{
+  "type": "open",
+  "question": "Wat was de codenaam voor de geallieerde operatie tijdens de Tweede Wereldoorlog die leidde tot de landing in Normandië op D-Day?",
+  "correct": "Overlord",
+  "image": "https://historiek.net/wp-content/uploads-phistor1/2010/10/operatie-overlord-gr.jpg",
+  "round": "R4",
+  "Thema": "Geschiedenis"
+},
+{
+  "type": "open",
+  "question": "Welk Europees land staat bekend om de hoogste bierconsumptie per inwoner binnen de Europese Unie?",
+  "correct": "Tsjechië",
+  "image": "https://www.biernet.nl/images/blog/43407-Tjechische%20bieren.jpg",
+  "round": "R4",
+  "Thema": "Gastronomie"
+},
+{
+  "type": "open",
+  "question": "Welke diepzeevijandige vissoort, bekend om zijn grote kop en stekels, werd uitgeroepen tot Vis van het Jaar 2025?",
+  "correct": "Zeeduivel",
+  "image": "https://images.vrt.be/vrtnws_web/2025/09/18/558c77e8-1af1-476a-ac64-fa4f6970b9ce.jpg?width=900&height=506",
+  "round": "R4",
+  "Thema": "Natuur"
+},
+{
+  "type": "open",
+  "question": "Welke vogel, herkenbaar aan zijn zwart-witte verenkleed en lange staart, werd uitgeroepen tot Vogel van het Jaar 2025?",
+  "correct": "Ekster",
+  "image": "https://cdn-img.newstory.nl/vbn/images/optimized/c2fd0eba-ff71-4cbc-9e74-55a6b1f1be6a.jpg&h=580&w=970&v=1512056498",
+  "round": "R4",
+  "Thema": "Natuur"
+},
+{
+  "type": "open",
+  "question": "Welke beroemde rivier in China staat ook bekend onder de naam Huang He?",
+  "correct": "Gele Rivier",
+  "image": "https://thumbs.dreamstime.com/b/gele-rivier-huang-landschap-shapotou-china-78015777.jpg",
+  "round": "R5",
+  "Thema": "Geografie"
+},
+{
+  "type": "open",
+  "question": "Welke oogkleur hebben pasgeboren kittens vrijwel altijd bij de geboorte?",
+  "correct": "Blauw",
+  "image": "https://smb.ibsrv.net/imageresizer/image/article_manager/1200x1200/20586/516506/heroimage0.327162001643150501.jpg",
+  "round": "R5",
+  "Thema": "Natuur"
+},
+{
+  "type": "open",
+  "question": "Welke auteur schreef de bestsellerroman waarin een mysterie rond Leonardo da Vinci centraal staat?",
+  "correct": "Dan Brown",
+  "image": "https://m.media-amazon.com/images/M/MV5BMjIxMjQyMTc3Nl5BMl5BanBnXkFtZTcwMTA1MDUzMw@@._V1_FMjpg_UX1000_.jpg",
+  "round": "R5",
+  "Thema": "Boeken & Strips"
+},
+{
+  "type": "open",
+  "question": "Hoe heet de Franse wielrenner die in 1994 wereldkampioen op de weg werd?",
+  "correct": "Luc Leblanc",
+  "image": "https://cyclingflash.com/_next/image?url=https%3A%2F%2Fcyclingflash.ams3.cdn.digitaloceanspaces.com%2F4256%2Fresponsive-images%2F01J4HG708BVVH90E1BYA4ANYMN___profileImage_600_600.webp&w=1280&q=85",
+  "round": "R5",
+  "Thema": "Sport"
+},
+{
+  "type": "open",
+  "question": "Hoe heette de Belgische verzetsorganisatie die tijdens de Tweede Wereldoorlog actief was tegen de Duitse bezetter?",
+  "correct": "Witte Brigade",
+  "image": "https://weert.hosting.deventit.net/HttpHandler/icoon.ico?file=230602558",
+  "round": "R5",
+  "Thema": "Geschiedenis"
+},
+{
+  "type": "open",
+  "question": "Wat is de titel van de eerste langspeelfilm die door Disney werd uitgebracht?",
+  "correct": "Sneeuwwitje en de zeven dwergen",
+  "image": "https://d23.com/app/uploads/2013/04/1180-x-600-About-Walt-Disney.jpg",
+  "round": "R5",
+  "Thema": "Shows & Films"
+},
+{
+  "type": "open",
+  "question": "Welke kleur in het Portugees geeft de naam van het populaire tegellegspel weer?",
+  "correct": "Azul",
+  "image": "https://cdn.svc.asmodee.net/production-asmodeebe/uploads/image-converter/2022/01/ML-AZUL-LAYOUT-1024x1024.webp",
+  "round": "R5",
+  "Thema": "IT & Games"
+},
+{
+  "type": "open",
+  "question": "Hoe heet het harde, witte vet van runderen dat vroeger vaak werd gebruikt voor kaarsen en zeep?",
+  "correct": "Ossewit",
+  "image": "https://www.hoevevleesonline.be/_userfiles/products/800x600/20240324065139img_2628.jpg",
+  "round": "R5",
+  "Thema": "Gastronomie"
+},
+{
+  "type": "open",
+  "question": "Welke Belgische zangeres staat bekend om hits als 'Sensualité' en heeft een internationale carrière in het Frans-talige muziekgenre?",
+  "correct": "Axelle Red",
+  "image": "https://i.f1g.fr/media/cms/768x1024_cropupscale/2024/11/15/a5c83187656e1584a822ee9817e4f0938ff96ce17665fcf464568fe54c85d4c3.jpg",
+  "round": "R5",
+  "Thema": "Muziek"
+},
+{
+  "type": "open",
+  "question": "Welke Spaanse stad werd in 1957 zwaar getroffen door een overstroming van de Turia-rivier?",
+  "correct": "Valencia",
+  "image": "https://www.spain.info/export/sites/segtur/.content/imagenes/cabeceras-grandes/valencia/ciudad-artes-ciencias-valencia-c-luca-bravo-u-UyUjtbu5vj4.jpg",
+  "round": "R6",
+  "Thema": "Geografie"
+},
+{
+  "type": "open",
+  "question": "Welk dier is het enige zoogdier dat actief kan vliegen?",
+  "correct": "Vleermuis",
+  "image": "https://www.allfornature.nl/wp-content/uploads/2021/02/hoofdfoto-collage_16bij9-870x480.jpg",
+  "round": "R6",
+  "Thema": "Natuur"
+},
+{
+  "type": "open",
+  "question": "Welke Belgische stripreeks uit de jaren 1940 volgt de avonturen van een jonge held en zijn vrienden?",
+  "correct": "Vaillant",
+  "image": "https://hubertybreyne.com/cspdocs/exhibition/images/michel_vaillant_art_strips_huberty_breyne_522_expo_view_i0lhdy.jpg",
+  "round": "R6",
+  "Thema": "Boeken & Strips"
+},
+{
+  "type": "open",
+  "question": "Welke speler stond bekend als verdediger bij de Belgische voetbalclub RSC Anderlecht?",
+  "correct": "Gilbert Van Binst",
+  "image": "https://cc-cdn.rsca.be/sites/default/files/styles/cc_960x540/public/2025-01/gillevanbinst.jpg?h=d1cb525d&itok=rpTqvyGz",
+  "round": "R6",
+  "Thema": "Sport"
+},
+{
+  "type": "open",
+  "question": "Welke historische postzegels zijn genoemd naar een Franse koninklijke dynastie en werden in België uitgegeven in de 19e eeuw?",
+  "correct": "Valoiszegels",
+  "image": "https://madein-cdn-prod.s3.amazonaws.com/uploads/legacy/antwerpen/2016/06/valois-300x225.jpg",
+  "round": "R6",
+  "Thema": "Geschiedenis"
+},
+{
+  "type": "open",
+  "question": "Welke fictieve jager is vooral bekend uit verhalen over vampiers en wordt vaak geassocieerd met de Transsylvanische legende van Dracula?",
+  "correct": "Van Helsing",
+  "image": "https://img.hulu.com/user/v3/artwork/b969375e-d23a-4881-af32-d80f290900ce?base_image_bucket_name=image_manager&base_image=6786be1d-3665-4cdb-b5ec-f2111a2ddefa&size=458x687&format=webp",
+  "round": "R6",
+  "Thema": "Shows & Films"
+},
+{
+  "type": "open",
+  "question": "Welke martini-variant, genoemd naar een personage uit een James Bond-roman, is bekend om zijn combinatie van gin, wodka en Kina Lillet??",
+  "correct": "Vesper",
+  "image": "https://www.liquor.com/thmb/JsgnFkX6igp5RqqMbnEEaGbySwg=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/vesper-martini-1500x1500-hero-2d09a7378cd24d4eb97b1536cb604d7d.jpg",
+  "round": "R6",
+  "Thema": "Gastronomie"
+},
+{
+  "type": "open",
+  "question": "Welke stad in Luxemburg is beroemd om zijn jaarlijkse springprocessie die op de UNESCO-lijst van immaterieel erfgoed staat?",
+  "correct": "Echternach",
+  "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTuNby6hVivv8YlPmkoergAqPSZdBBx1Q0cBw&s",
+  "round": "R7",
+  "Thema": "Geografie"
+},
+{
+  "type": "open",
+  "question": "Welke voorjaarsbloemen hebben kleine, kegelvormige blauwe bloemen en worden wetenschappelijk Muscari botryoides genoemd?",
+  "correct": "Blauwe druifjes",
+  "image": "https://www.picturethisai.com/wiki-image/1080/153712971145543683.jpeg",
+  "round": "R7",
+  "Thema": "Natuur"
+},
+{
+  "type": "open",
+  "question": "Welke bijnaam kreeg de Nederlandse voetballer Ruud Gullit vanwege zijn opvallende uiterlijk en prestaties in het Nederlands elftal?",
+  "correct": "Zwarte Tulp",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f6/Ruud_Gullit_1988.jpg/250px-Ruud_Gullit_1988.jpg",
+  "round": "R7",
+  "Thema": "Sport"
+},
+{
+  "type": "open",
+  "question": "Welke Japanse jager uit de Tweede Wereldoorlog stond bekend om zijn wendbaarheid en werd vaak aangeduid met het getal '0'?",
+  "correct": "Zero",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/a/a7/A6M3_Zero_N712Z_1.jpg",
+  "round": "R7",
+  "Thema": "Geschiedenis"
+},
+{
+  "type": "open",
+  "question": "Welke bijnaam kreeg de Britse rockmuzikant Ozzy Osbourne vanwege zijn donkere podiumpersoonlijkheid?",
+  "correct": "Prince of Darkness",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/4/4a/OzzyChangingHands02-20-2010.jpg",
+  "round": "R7",
+  "Thema": "Muziek"
+},
+{
+  "type": "open",
+  "question": "Welke politicus was de voorganger als burgemeester van Eupen voordat hij werd opgevolgd door de huidige burgemeester?",
+  "correct": "Jose Happart",
+  "image": "https://images.tijd.be/view?iid=dc:35698157&context=ONLINE&ratio=16/9&width=640&u=1371160820000",
+  "round": "R7",
+  "Thema": "Politiek"
+},
+{
+  "type": "open",
+  "question": "Welke populaire zoete cocktail bevat meestal wodka, sinaasappelsap, cranberrysap en perziklikeur?",
+  "correct": "Sex on the Beach",
+  "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcREh8D-NNfJY8lPVUd_MCrkj4CEE03TX_hcPw&s",
+  "round": "R6",
+  "Thema": "Gastronomie"
+},
+{
+  "type": "open",
+  "question": "Welke Britse band uit de jaren 1980 is bekend van hits als 'True' en 'Gold'?",
+  "correct": "Spandau Ballet",
+  "image": "https://www.udiscovermusic.com/wp-content/uploads/2020/09/Spandau-Ballet-GettyImages-74296540.jpg",
+  "round": "R6",
+  "Thema": "Muziek"
+},
+{
+  "type": "open",
+  "question": "Wat is de naam van het hoogste punt van België, gelegen in de Hoge Venen?",
+  "correct": "Signaal van Botrange",
+  "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR64rrBDJfdbF39n3Vk1gu-AX_hkhGDM32_Kg&s",
+  "round": "R9",
+  "Thema": "Geografie"
+},
+{
+  "type": "open",
+  "question": "Hoe wordt een jong van een kangoeroe genoemd?",
+  "correct": "Joey",
+  "image": "https://c02.purpledshub.com/uploads/sites/62/2018/09/kangaroo_JohnCarnemolla_iStock_623-2ff7032.jpg?w=1029&webp=1",
+  "round": "R9",
+  "Thema": "Natuur"
+},
+{
+  "type": "open",
+  "question": "Welk bekend Engels volksverhaal werd in een kinderboek bewerkt door Bob de Groot?",
+  "correct": "Robin Hood",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/De_Groot_-_Com%C3%A9die_du_Livre_2010_-_P1400159.jpg/960px-De_Groot_-_Com%C3%A9die_du_Livre_2010_-_P1400159.jpg",
+  "round": "R9",
+  "Thema": "Boeken & Strips"
+},
+{
+  "type": "open",
+  "question": "Welke twee Europese topclubs waren betrokken bij de beruchte rellen tijdens de Europacupfinale van 1985 in het Heizelstadion (XXXX & XXXX)?",
+  "correct": ["Liverpool & Juventus","Juventus & Liverpool"],
+  "image": "https://drupal2018.assets.rbfa.be/s3fs-public/styles/image_850x475/public/2018-10/heizeldrama2_0.jpg?itok=ZzUtYVUg",
+  "round": "R9",
+  "Thema": "Sport"
+},
+{
+  "type": "open",
+  "question": "Hoe heet het hondenras met korte poten dat vaak geassocieerd wordt met het Britse koningshuis?",
+  "correct": "Corgi",
+  "image": "https://media.os.fressnapf.com/cms/2020/07/ratgeber_hund_rasse_portraits_welsh-corgi-pembroke_1200x527.jpg?t=seoimg_703",
+  "round": "R9",
+  "Thema": "Natuur"
+},
+{
+  "type": "open",
+  "question": "Hoe heet het middelgrote hondenras dat bekendstaat om zijn uitstekende reukzin en vaak wordt ingezet als speurhond?",
+  "correct": "Beagle",
+  "image": "https://images.ctfassets.net/denf86kkcx7r/HJO06XFEAWjMW42CkMPQz/32c2d2f2b40fbe83a4ebd978f7df4b59/Beagle.webp",
+  "round": "R9",
+  "Thema": "Natuur"
+},
+{
+  "type": "open",
+  "question": "Welke Belgische speelgoedwinkelketen heeft een vogel als logo en is bekend in Vlaanderen?",
+  "correct": "Christiaensen",
+  "image": "https://jeugdsentimentportaal.wordpress.com/wp-content/uploads/2013/11/christiaensen-logo1.gif",
+  "round": "R9",
+  "Thema": "Cultuur"
+},
+{
+  "type": "open",
+  "question": "Wat is de naam van de Amerikaanse geestelijke die in 2024 werd verkozen tot paus en de naam Leo XIV aannam?",
+  "correct": "Robert Prevost",
+  "image": "https://images.vrt.be/vrtnws_web/2025/05/09/d4f3ff7e-0203-4656-92de-ca7386d270d1.jpg?width=900&height=506",
+  "round": "R9",
+  "Thema": "Geschiedenis"
+},
+{
+  "type": "open",
+  "question": "Welke Belgische chef-kok is eigenaar van het restaurant 't Fornuis in Antwerpen?",
+  "correct": "Johan Segers",
+  "image": "https://njam.tv/thumbnail/inline/30491/johan-segers-hetweekmenu-copyrightnjam.jpg",
+  "round": "R9",
+  "Thema": "Gastronomie"
+},
+{
+  "type": "open",
+  "question": "Welk bekend Duits kuuroord staat bekend om zijn thermale baden en wordt vaak bezocht voor wellness?",
+  "correct": "Baden-Baden",
+  "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/1a/8b/c9/99/caption.jpg?w=1200&h=-1&s=1",
+  "round": "R10",
+  "Thema": "Geografie"
+},
+{
+  "type": "open",
+  "question": "Welke vogelsoort, oorspronkelijk afkomstig van Mauritius, is in de 17e eeuw uitgestorven?",
+  "correct": "Dodo",
+  "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSMvYdqFI6uSYbgKpTE9yLKufYpXlWEnf-Rpg&s",
+  "round": "R10",
+  "Thema": "Natuur"
+},
+{
+  "type": "open",
+  "question": "Welke term uit de voodoo-traditie verwijst naar een amulet of talisman die geluk of bescherming moet brengen?",
+  "correct": "Gris-gris",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/b/b9/Grisgristuareg.JPG",
+  "round": "R10",
+  "Thema": "Cultuur"
+},
+{
+  "type": "open",
+  "question": "Welke Braziliaanse voetballer, bekend om zijn tijd bij AC Milan en Real Madrid, kreeg de bijnaam Kaka?",
+  "correct": "Kaka",
+  "image": "https://image.parool.nl/130177032/feature-crop/1200/1200/kaka-tijdens-een-trainingssessie-van-het-braziliaanse-team-met",
+  "round": "R10",
+  "Thema": "Sport"
+},
+{
+  "type": "open",
+  "question": "Welke beroemde gevangenis in de staat New York, VS, staat bekend om zijn strenge regime en iconische naam?",
+  "correct": "Sing Sing",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/Sing_Sing.jpg/1200px-Sing_Sing.jpg",
+  "round": "R10",
+  "Thema": "Geschiedenis"
+},
+{
+  "type": "open",
+  "question": "Welke Franse actrice werd bekend in de jaren 1970 en 1980 en speelde in tal van succesvolle films?",
+  "correct": "Miou-Miou",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/4/45/Miou-Miou_2013_3.jpg",
+  "round": "R10",
+  "Thema": "Shows & Films"
+},
+{
+  "type": "open",
+  "question": "Hoe heet het kleine neefje van Yogi Bear, vaak te zien als zijn trouwe metgezel in tekenfilms?",
+  "correct": "Boo Boo",
+  "image": "https://upload.wikimedia.org/wikipedia/en/4/4c/Boo-Boo_Bear.png",
+  "round": "R10",
+  "Thema": "Shows & Films"
+},
+{
+  "type": "open",
+  "question": "Welke traditionele Noord-Afrikaanse schotel bestaat uit gestoomde granen en wordt vaak geserveerd met groenten en vlees?",
+  "correct": "Couscous",
+  "image": "https://assets.tmecosys.com/image/upload/t_web_rdp_recipe_584x480_1_5x/img/recipe/ras/Assets/D3FE131E-EB10-46E8-9E93-5E178323751D/Derivates/A0B1EE28-94D2-4922-B871-CFB63832A281.jpg",
+  "round": "R10",
+  "Thema": "Gastronomie"
+},
+{
+  "type": "open",
+  "question": "Welke Britse popgroep uit de jaren 1980 staat bekend om hits als 'Hungry Like the Wolf' en een iconische new wave-stijl?",
+  "correct": "Duran Duran",
+  "image": "https://i.guim.co.uk/img/media/62a48ec5662a2f01f575fe186b43dc0296f813d7/0_0_2392_1620/master/2392.jpg?width=445&dpr=1&s=none&crop=none",
+  "round": "R10",
+  "Thema": "Muziek"
 }
 
 
