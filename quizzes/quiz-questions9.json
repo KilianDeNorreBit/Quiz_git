@@ -1,0 +1,569 @@
+{
+  "questions": [
+{
+  "type": "open",
+  "question": "Hoe heet de traditionele Hongaarse sterke drank die wordt gestookt uit gefermenteerd fruit zoals pruimen, abrikozen of peren?",
+  "correct": "Palinka",
+  "image": "https://dailynewshungary.b-cdn.net/wp-content/uploads/2023/06/palinkak-768x512.jpg",
+  "round": "R1",
+  "Thema": "Gastronomie"
+},
+{
+  "type": "open",
+  "question": "Hoe heet de plant waarvan de zeer giftige stof ricine wordt gewonnen en die ook bekendstaat als de castorolieplant?",
+  "correct": "Wonderboom",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/c/c7/Ricinus_comm01.jpg",
+  "round": "R1",
+  "Thema": "Natuur"
+},
+{
+  "type": "open",
+  "question": "Hoe heet de zee in de Atlantische Oceaan waar palingen naartoe trekken om zich voort te planten?",
+  "correct": "Sargassozee",
+  "image": "https://media.istockphoto.com/id/1461402528/nl/vector/sargasso-sea-on-the-world-map-vector-illustration.jpg?s=612x612&w=0&k=20&c=mWdySfkGJR-2oy1CCzKIBDALZwCytG6YKpmfzaWjMF8=",
+  "round": "R1",
+  "Thema": "Geografie"
+},
+{
+  "type": "open",
+  "question": "Hoe heten de vrouwelijke krijgers uit de Noordse mythologie die gesneuvelde helden naar Walhalla begeleiden?",
+  "correct": "Walkuren",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/4/48/Walkyrien_by_Emil_Doepler.jpg",
+  "round": "R1",
+  "Thema": "Geschiedenis"
+},
+{
+  "type": "open",
+  "question": "Hoe heet een stijlfiguur waarbij twee elkaar tegensprekende begrippen gecombineerd worden, zoals in de uitdrukking \"oorverdovende stilte\"?",
+  "correct": "Oxymoron",
+  "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQRUTCM3FporHeVNIb69b-LHkJDTc_etEVecA&s",
+  "round": "R1",
+  "Thema": "Taal"
+},
+{
+  "type": "open",
+  "question": "Hoe heet het geplande ondergrondse observatorium voor zwaartekrachtsgolven dat mogelijk in de Euregio Maas-Rijn gebouwd wordt?",
+  "correct": "Einsteintelescoop",
+  "image": "https://pomlimburg.be/app/uploads/2021/11/Einsteintelescoop.jpg",
+  "round": "R1",
+  "Thema": "Wetenschappen"
+},
+{
+  "type": "open",
+  "question": "Hoe heet de Belgische darter die bekendstaat om zijn flamboyante stijl en de bijnaam \"The Sheriff\"?",
+  "correct": "Erik Clarys",
+  "image": "https://cdn-images-3.listennotes.com/podcasts/sporttalk/3-erik-clarys-4DYo9AMyUbg-rgISU-fM4A7.1400x1400.jpg",
+  "round": "R1",
+  "Thema": "Sport"
+},
+{
+  "type": "open",
+  "question": "Hoe heet het literaire werk van Hugo Claus dat de titel deelt met een periode van extreme hitte in de zomer?",
+  "correct": "Hondsdagen",
+  "image": "https://www.standaarduitgeverij.be/wp-content/uploads/2018/02/Claus-Hugo-Gerald-Dauphin-1-e1519831134785.jpg",
+  "round": "R1",
+  "Thema": "Boeken & Strips"
+},
+{
+  "type": "open",
+  "question": "Hoe heet de beroemde ijsbeer die in de Berlijnse Zoo werd geboren en wereldwijd bekend werd door zijn menselijke verzorgers te volgen?",
+  "correct": "Knut",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/3/3a/Knut_2007_LKM.jpg",
+  "round": "R1",
+  "Thema": "Natuur"
+},
+{
+  "type": "open",
+  "question": "Hoe heet het kleine gebied dat van 1816 tot 1920 een neutraal ministaatje was tussen België, Duitsland en Nederland?",
+  "correct": "Neutraal Moresnet",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ac/TMK_vierlandenpunt.jpg/250px-TMK_vierlandenpunt.jpg",
+  "round": "R1",
+  "Thema": "Geschiedenis"
+},
+{
+  "type": "open",
+  "question": "Hoe heet de kat van de Belgische politicus Bart De Wever, die regelmatig op sociale media verschijnt?",
+  "correct": "Maximus",
+  "image": "https://images.hln.be/YmQxMmRkMjk5YzY0YWFmMDc0ZTkvZGlvLzI2MjgxNzgwOS9maWxsLzEyMDAvNjMw/bart-de-wever-n-va-en-maximus-textoris-pulcher",
+  "round": "R1",
+  "Thema": "Cultuur"
+},
+{
+  "type": "open",
+  "question": "Hoe heet de Amerikaanse internetondernemer die samen met Larry Sanger Wikipedia oprichtte in 2001?",
+  "correct": "Jimmy Wales",
+  "image": "https://cdn.prod.website-files.com/5fce0f6bc9af69423eefaa13/666561ee4e3b8a249554df8f_Jimmy.png",
+  "round": "R1",
+  "Thema": "IT & Games"
+},
+{
+  "type": "open",
+  "question": "Hoe heet de Britse architect uit de 20e eeuw die bekendstaat om zijn modernistische ontwerpen en flats in Londen, niet te verwarren met de James Bond-schurk?",
+  "correct": "Goldfinger",
+  "image": "https://i0.wp.com/heritagecalling.com/wp-content/uploads/2024/06/Architect-Erno-Goldfinger-Balfron-Tower-Alamy-E0WCMX.jpg?ssl=1",
+  "round": "R1",
+  "Thema": "Cultuur"
+},
+{
+  "type": "open",
+  "question": "Hoe heet het laagste punt in Noord-Amerika, gelegen in de Death Valley in Californië, dat bekendstaat om zijn extreme hitte?",
+  "correct": "Badwater",
+  "image": "https://www.nps.gov/common/uploads/cropped_image/primary/0BF63375-ADC3-7E77-CD94AEA67D3C8F53.jpg?width=1600&quality=90&mode=crop",
+  "round": "R1",
+  "Thema": "Geografie"
+},
+{
+  "type": "open",
+  "question": "Hoe heet de Duitse ingenieur en oprichter van een automerk die ook verantwoordelijk was voor de ontwikkeling van de originele Volkswagen Kever?",
+  "correct": "Porsche",
+  "image": "https://www.gallery-aaldering.com/wp-content/uploads/2025/11/volkswagen-beetle-oval-window-beetle-1955.jpg",
+  "round": "R1",
+  "Thema": "IT & Games"
+},
+{
+  "type": "open",
+  "question": "Hoe wordt de regio in Noord-Europa genoemd die Estland, Letland en Litouwen omvat?",
+  "correct": "Balticum",
+  "image": "https://www.ie-net.be/sites/default/files/styles/3_2__mobile_/public/paragraph_images/Balticum%20Kaart.jpg?itok=FvowLRkS&timestamp=1562753117",
+  "round": "R1",
+  "Thema": "Geografie"
+},
+{
+  "type": "open",
+  "question": "Hoe heet de Britse zangeres en singer‑songwriter uit Londen die internationale bekendheid verwierf met haar hit \"Messy\" en meerdere albums uitbracht?",
+  "correct": "Lola Young",
+  "image": "https://dy4340tc2t211.cloudfront.net/eyJsYXN0X3VwZGF0ZWQiOiIyMDI2LTAxLTA5IDE0OjU3OjA3IiwiYnVja2V0IjoidGFnbWFnLXdlYnNpdGUtcHJvZHVjdGlvbi1lYTg4YzAyIiwia2V5IjoiZmVlZC85ODExMzQtbWVzc3ktemFuZ2VyZXMtbG9sYS15b3VuZy1zdGFhdC1pbi1tYWFydC13ZWVyLW9wLWhldC1wb2RpdW0vU2NoZXJtYWZiZWVsZGluZy0yMDI2LTAxLTA5LW9tLTE0LjU2LjIyLnBuZyIsImVkaXRzIjp7ImpwZWciOnsicXVhbGl0eSI6ODIsInByb2dyZXNzaXZlIjp0cnVlLCJ0cmVsbGlzUXVhbnRpc2F0aW9uIjp0cnVlLCJvdmVyc2hvb3REZXJpbmdpbmciOnRydWUsIm9wdGltaXplU2NhbnMiOnRydWV9LCJyZXNpemUiOnsid2lkdGgiOjE1MzYsImhlaWdodCI6ODY0LCJmaXQiOiJjb3ZlciJ9LCJzaGFycGVuIjp0cnVlfX0=",
+  "round": "R1",
+  "Thema": "Muziek"
+},
+{
+  "type": "open",
+  "question": "Welke Italiaanse stad wordt geassocieerd met Giuseppe Garibaldi en staat bekend om haar historische centrum en de Vesuvius?",
+  "correct": "Napels",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/7/7b/Garibaldi_%281866%29.jpg",
+  "round": "R1",
+  "Thema": "Geografie"
+},
+{
+  "type": "open",
+  "question": "Welke Nederlandse provincie is de kleinste van het land qua oppervlakte?",
+  "correct": "Utrecht",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1c/De_Oudegracht_in_Utrecht..jpg/330px-De_Oudegracht_in_Utrecht..jpg",
+  "round": "R1",
+  "Thema": "Geografie"
+},
+{
+  "type": "open",
+  "question": "Hoe heet de hertog van Bourgondië uit de 14e eeuw die bekendstaat om zijn centraliserende politiek?",
+  "correct": "Filips de Stoute",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/8/8f/Philippe_le_Hardi_mg_1694.jpg",
+  "round": "R1",
+  "Thema": "Geschiedenis"
+},
+{
+  "type": "open",
+  "question": "Hoe heet de Belgische televisiepresentatrice en reportagemaakster die programma’s maakt voor o.a. VRT en bekendstaat om haar reeks zoals *Buurman, wat doet u nu?*?",
+  "correct": "Cath Luyten",
+  "image": "https://images.hln.be/YTEyOThhMzE5MTYwNDE3N2EyNDEvZGlvLzI2Nzg3MjA5My9maXQtd2lkdGgvMTIwMA",
+  "round": "R1",
+  "Thema": "Cultuur"
+},
+{
+  "type": "open",
+  "question": "Welke film uit 1992, geregisseerd door Ridley Scott, vertelt het verhaal van Christopher Columbus?",
+  "correct": "1492: Conquest of Paradise",
+  "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRbc5B6CWDG8zVIYcZ6QHBr49W5F1sj4DXXVw&s",
+  "round": "R1",
+  "Thema": "Shows & Films"
+},
+{
+  "type": "open",
+  "question": "Hoe heet de tweede zoon van Isaak en Rebekka in de Bijbel, die later de vader werd van de twaalf stammen van Israël?",
+  "correct": "Jakob",
+  "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRNWx9C7lahIx6aQC9OvfDgNH3k32_cHUR6RQ&s",
+  "round": "R1",
+  "Thema": "Geschiedenis"
+},
+{
+  "type": "open",
+  "question": "Welke term uit de financiële wereld wordt gebruikt voor een belegger die verwacht dat aandelenkoersen zullen stijgen?",
+  "correct": ["Stier","Bull"],
+  "image": "https://thumbs.dreamstime.com/b/de-stijging-van-voorraadaandelen-41430921.jpg",
+  "round": "R1",
+  "Thema": "Politiek"
+},
+{
+  "type": "open",
+  "question": "Hoe heet het jaarlijkse muziekfestival in Leuven dat bekendstaat om zijn diverse line-up van internationale en Belgische artiesten?",
+  "correct": "Marktrock",
+  "image": "https://image.demorgen.be/9973886/feature-crop/1200/900/na-leuven-en-bilzen-komt-er-nu-ook-een-marktrock-in-dendermo",
+  "round": "R1",
+  "Thema": "Muziek"
+},
+{
+  "type": "open",
+  "question": "Hoe heet de Nederlandse rapper die bekend werd met hits als 'Drank & Drugs' en 'Loterij'?",
+  "correct": "Lil Kleine",
+  "image": "https://cdn.nos.nl/image/2018/12/04/516853/2048x1152.jpg",
+  "round": "R1",
+  "Thema": "Muziek"
+},
+{
+  "type": "open",
+  "question": "Hoe heet de Romeinse god van de liefde, vaak afgebeeld als een jonge god met boog en pijlen?",
+  "correct": "Amor",
+  "image": "https://fldesignerhoneymoons.wordpress.com/wp-content/uploads/2014/11/19-nov-italy-48.jpg",
+  "round": "R1",
+  "Thema": "Cultuur"
+},
+{
+  "type": "open",
+  "question": "Hoe heet het middeleeuwse Noord-Europese handelsschip dat voornamelijk door de Hanzesteden werd gebruikt?",
+  "correct": "Kogge",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/Modell_der_Bremer_Kogge_von_1380.jpg/250px-Modell_der_Bremer_Kogge_von_1380.jpg",
+  "round": "R1",
+  "Thema": "Geschiedenis"
+},
+{
+  "type": "open",
+  "question": "Hoe heet de Franse profvoetballer, geboren in Reims, die als spits speelt en in 2025 bij Liverpool tekende?",
+  "correct": "Ekitike",
+  "image": "https://psgtalk.com/wp-content/uploads/2025/09/hugo-ekitike-newcastle-united-v-liverpool-premier-league-2025.jpg",
+  "round": "R1",
+  "Thema": "Sport"
+},
+{
+  "type": "open",
+  "question": "Hoe heet de film uit 2024 van John Krasinski die in sommige regio’s bekendstaat als *Imaginary Friends* en gaat over denkbeeldige vrienden die tot leven komen?",
+  "correct": ["IF", "Imaginary Friends"],
+  "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS3l0v6oE0oPZspPQSjktrQF4H17tv5sb6v2Q&s",
+  "round": "R1",
+  "Thema": "Shows & Films"
+},
+{
+  "type": "open",
+  "question": "Hoe heet het Amerikaanse bedrijf dat beroemd werd in de jaren 70 en 80 voor zijn pionierswerk in videogames en homecomputers?",
+  "correct": "Atari",
+  "image": "https://atari.com/cdn/shop/files/ProductImage-AV2.jpg?v=1692711673",
+  "round": "R1",
+  "Thema": "IT & Games"
+},
+{
+  "type": "open",
+  "question": "Hoe heet het merk van Amerikaanse bevroren wafelproducten dat vooral bekend werd door de populaire serie *Stranger Things*?",
+  "correct": "Eggo",
+  "image": "https://www.foodandwine.com/thmb/ItQ5Fktm7L7sWFIkWWPHGyz_hAw=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/connection-between-eleven-and-eggos-ft-blog1017-35fc905165854f13aaa3073c52f93e92.jpg",
+  "round": "R1",
+  "Thema": "Gastronomie"
+},
+{
+  "type": "open",
+  "question": "Welk symbool in het periodiek systeem staat voor het chemisch element kalium?",
+  "correct": "K",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/8/89/Colour_18-col_PT_with_labels.png",
+  "round": "R1",
+  "Thema": "Wetenschappen"
+},
+{
+  "type": "open",
+  "question": "Welke film van Alfonso Cuarón won meerdere Oscars, waaronder Beste Regisseur en Beste Buitenlandse Film, en speelt zich af in Mexico-Stad in de jaren 70?",
+  "correct": "Roma",
+  "image": "https://static01.nyt.com/images/2018/11/21/arts/21roma-1/21roma-1-videoSixteenByNineJumbo1600.jpg",
+  "round": "R1",
+  "Thema": "Shows & Films"
+},
+{
+  "type": "open",
+  "question": "Welke munteenheid wordt gebruikt in Albanië?",
+  "correct": "Lek",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/Flag_of_Albania.svg/330px-Flag_of_Albania.svg.png",
+  "round": "R1",
+  "Thema": "Geografie"
+},
+{
+  "type": "open",
+  "question": "Hoe heet de Amerikaanse alternatieve rockband uit Athens, Georgia, bekend van hits als 'Losing My Religion' en 'Everybody Hurts'?",
+  "correct": "R.E.M.",
+  "image": "https://cdn.britannica.com/19/246519-050-B3A607CE/Photo-of-REM-band-members.jpg",
+  "round": "R1",
+  "Thema": "Muziek"
+},
+{
+  "type": "open",
+  "question": "Hoe heet de belangrijke moskee in Jeruzalem die een heilige plaats is voor de islam en deel uitmaakt van de Haram al-Sharif?",
+  "correct": "Al-Aqsa",
+  "image": "https://zamzam.com/blog/wp-content/uploads/2021/08/shutterstock_1745937893.jpg",
+  "round": "R1",
+  "Thema": "Cultuur"
+},
+{
+  "type": "open",
+  "question": "Hoe heet het type landmijn uit de Tweede Wereldoorlog dat omhoog springt voordat het explodeert?",
+  "correct": "Bouncing Betty",
+  "image": "https://www.shutterstock.com/shutterstock/photos/2050977161/display_1500/stock-photo-the-german-s-mine-also-known-as-the-bouncing-betty-on-the-western-front-and-frog-mine-on-the-2050977161.jpg",
+  "round": "R1",
+  "Thema": "Geschiedenis"
+},
+{
+  "type": "open",
+  "question": "Hoe heet het Franse premium vodka‑merk dat bekendstaat om zijn hoge kwaliteit en luxe imago?",
+  "correct": "Grey Goose",
+  "image": "https://i.pinimg.com/736x/c2/9b/f2/c29bf22e3f12d591a6fb76485fd7c4e3.jpg",
+  "round": "R1",
+  "Thema": "Gastronomie"
+},
+{
+  "type": "open",
+  "question": "Hoe heet de Belgische wetenschapspublicist, auteur en organisator van het Nerdland Festival die moleculair bioloog is?",
+  "correct": "Hetty Helsmoortel",
+  "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTqIP3Qx4VwBXhwXJU8PBN_lqAtMQl3QzwHjA&s",
+  "round": "R1",
+  "Thema": "Wetenschappen"
+},
+{
+  "type": "open",
+  "question": "Hoe heet de Franse socialist en pacifist uit de late 19e en vroege 20e eeuw, bekend om zijn verzet tegen de Eerste Wereldoorlog?",
+  "correct": "Jean Jaurès",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Jean_Jaur%C3%A8s_%C3%A0_Montevideo_en_Uruguay_%281911%29.jpg/250px-Jean_Jaur%C3%A8s_%C3%A0_Montevideo_en_Uruguay_%281911%29.jpg",
+  "round": "R1",
+  "Thema": "Geschiedenis"
+},
+{
+  "type": "open",
+  "question": "Welke term uit de Tweede Wereldoorlog werd gebruikt door de nazi's voor het stiekem laten verdwijnen van politieke tegenstanders en verzetsstrijders?",
+  "correct": "Nacht und Nebel",
+  "image": "https://www.bpb.de/cache/images/4/183294_teaser_widh_800.jpg?854E3",
+  "round": "R1",
+  "Thema": "Geschiedenis"
+},
+{
+  "type": "open",
+  "question": "Hoe heet de roman van Roald Dahl over de excentrieke Oswald Hendryks Cornelius, een charmante levensgenieter en vrouwenversierder?",
+  "correct": "Oom Oswald",
+  "image": "https://media.s-bol.com/3KNZ2DD4pvnr/JqnJlGl/1200x1070.jpg",
+  "round": "R1",
+  "Thema": "Boeken & Strips"
+},
+{
+  "type": "open",
+  "question": "Hoe heet het klassieke cake‑recept waarbij de basis bestaat uit gelijke gewichten van boter, suiker, eieren en bloem?",
+  "correct": "Quatre-quarts",
+  "image": "https://recipesblob.oetker.be/assets/d7802489099c472fb2013e3f93d7df3f/1272x764/cakejpg.webp",
+  "round": "R1",
+  "Thema": "Gastronomie"
+},
+{
+  "type": "open",
+  "question": "Hoe heet de Belgische komiek en theatermaker, bekend om zijn absurdistische humor?",
+  "correct": "Vincent Voeten",
+  "image": "https://images.hln.be/NDY2M2NhNzI1ZTM4Y2VlMzM3ZmUvZGlvLzIzNzc3Nzk5NC9maXQtd2lkdGgvMTIwMA/vincent-voeten-in-de-slimste-mens-ter-wereld",
+  "round": "R1",
+  "Thema": "Shows & Films"
+},
+{
+  "type": "open",
+  "question": "Hoe heet het elektrische personenvoertuig van het Chinese automerk XPeng dat een ruime zevenzitter‑minivan is en geavanceerde EV‑technologie biedt?",
+  "correct": "XPeng X9",
+  "image": "https://static.moniteurautomobile.be/imgcontrol/images_tmp/clients/moniteur/c680-d465/content/medias/images/news/42000/500/50/xpengx9-1.jpg",
+  "round": "R1",
+  "Thema": "IT & Games"
+},
+{
+  "type": "open",
+  "question": "Hoe heet de Amerikaanse rockband uit Texas, bekend om hun lange baarden, bluesrock en hits als 'Sharp Dressed Man' en 'La Grange'?",
+  "correct": "ZZ Top",
+  "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQPRdRUEtkTYNPaWC5EcFKdZksOWbi0-y1K3Q&s",
+  "round": "R1",
+  "Thema": "Muziek"
+},
+{
+  "type": "open",
+  "question": "Welke Nederlandse rapper brak door met het album Crane en is bekend van nummers als Feesttent en Lil Craney?",
+  "correct": "Kraantje Pappie",
+  "image": "https://www.deroma.be/media/cache/default_uitdatabank/upload/media/default/328c/39/c98801ddc9516c48354f9fecf0b131fe0cc944ea.png",
+  "round": "R1",
+  "Thema": "Muziek"
+},
+{
+  "type": "open",
+  "question": "Hoe heet de Hongaarse gravin uit de 16e en 17e eeuw die berucht werd door beschuldigingen van moord op jonge meisjes?",
+  "correct": "Elisabeth Báthory",
+  "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRk_OnHE4N0KFa9M-z1FFOuOlSl1hCEoZQVcA&s",
+  "round": "R1",
+  "Thema": "Geschiedenis"
+},
+{
+  "type": "open",
+  "question": "Hoe heet de Amerikaanse abolitioniste die ontsnapte uit slavernij en vervolgens honderden tot slaaf gemaakten hielp ontsnappen via de Underground Railroad?",
+  "correct": "Harriet Tubman",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/Harriet_Tubman.jpg/960px-Harriet_Tubman.jpg",
+  "round": "R1",
+  "Thema": "Geschiedenis"
+},
+{
+  "type": "open",
+  "question": "Welke Oostenrijkse kunstenaar en architect stond bekend om zijn kleurrijke, organische gebouwen en zijn afkeer van rechte lijnen?",
+  "correct": "Friedensreich Hundertwasser",
+  "image": "https://www.classic-hotelwien.at/fileadmin/_processed_/e/8/csm_hundertwasserhaus_58cda62735.jpg",
+  "round": "R1",
+  "Thema": "Kunst"
+},
+{
+  "type": "open",
+  "question": "Hoe heet de officier die bekend werd als aanvoerder binnen het 506e parachutistenregiment tijdens de Tweede Wereldoorlog?",
+  "correct": "Richard Winters",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/Richard_Winters_3.jpg/250px-Richard_Winters_3.jpg",
+  "round": "R1",
+  "Thema": "Geschiedenis"
+},
+{
+  "type": "open",
+  "question": "Hoe heet de Schotse wetenschapper die in 1928 per toeval penicilline ontdekte?",
+  "correct": "Alexander Fleming",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Synthetic_Production_of_Penicillin_TR1468.jpg/960px-Synthetic_Production_of_Penicillin_TR1468.jpg",
+  "round": "R1",
+  "Thema": "Wetenschappen"
+},
+{
+  "type": "open",
+  "question": "Welke cocktail bestaat uit gin of vodka, droge vermout en een scheutje olijf- of zoute vloeistof, en wordt vaak geserveerd met een olijf als garnering?",
+  "correct": "Dirty Martini",
+  "image": "https://www.liquor.com/thmb/YbaFLqBKww1EdvE4ojPNe5sFjzg=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/dirty-martini-1500x1500-hero-6cbd60561031409ea1dbf1657d05cb2d.jpg",
+  "round": "R1",
+  "Thema": "Gastronomie"
+},
+{
+  "type": "open",
+  "question": "Bij welk Formule 1-team rijdt Lance Stroll, dat bekendstaat om luxe sportwagens en Britse elegantie?",
+  "correct": "Aston Martin",
+  "image": "https://cdn-1.motorsport.com/images/mgl/0ZRQlG80/s8/lance-stroll-aston-martin.jpg",
+  "round": "R1",
+  "Thema": "Sport"
+},
+{
+  "type": "open",
+  "question": "Welke Deens-Ierse natuurkundige ontwikkelde een model voor het atoom dat energiebanen van elektronen beschrijft?",
+  "correct": "Niels Bohr",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Niels_Bohr_Date_Unverified_LOC.jpg/250px-Niels_Bohr_Date_Unverified_LOC.jpg",
+  "round": "R1",
+  "Thema": "Wetenschappen"
+},
+{
+  "type": "open",
+  "question": "Welke Amerikaanse tennisster brak door als tiener en staat bekend om haar snelle stijl en indrukwekkende prestaties op Grand Slam-toernooien?",
+  "correct": "Coco Gauff",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/Gauff_WMQ19_%2824%29.jpg/250px-Gauff_WMQ19_%2824%29.jpg",
+  "round": "R1",
+  "Thema": "Sport"
+},
+{
+  "type": "open",
+  "question": "Welke Belgische vrouw won in 2004 de titel van Miss België?",
+  "correct": "Sylvie Petri",
+  "image": "https://image.libelle.nl/245779725/center-crop/1200/630/petri-benb-vol-liefde-nieuw-avontuur",
+  "round": "R1",
+  "Thema": "Cultuur"
+},
+{
+  "type": "open",
+  "question": "Welke citrusvrucht uit Oost-Azië wordt vaak gebruikt in de Japanse keuken vanwege zijn aromatische, zure smaak?",
+  "correct": "Yuzu",
+  "image": "https://images.njam.tv/full/c/c6da01/media/1565009279-5d48257f54696-203cf94e32728ab2ed9c3a1ce1a37c3c**jpg.webp",
+  "round": "R1",
+  "Thema": "Gastronomie"
+},
+{
+  "type": "open",
+  "question": "Welke Spaanse kunstenaar staat bekend om zijn surrealistische schilderijen, gebruik van felle kleuren en droomachtige, vaak abstracte vormen?",
+  "correct": "Joan Miró",
+  "image": "https://www.singulart.com/blog/wp-content/uploads/2023/11/Paintings-by-Joan-Miro-1140x684.jpg",
+  "round": "R1",
+  "Thema": "Kunst"
+},
+{
+  "type": "open",
+  "question": "Welke houtsoort, afkomstig van een naaldboom, staat bekend om zijn aromatische geur en wordt vaak gebruikt in meubels en parfums?",
+  "correct": "Ceder",
+  "image": "https://exzo.be/uploads/images/Houtsoorten/ceder/ceder-boom-visual.jpg",
+  "round": "R1",
+  "Thema": "Natuur"
+},
+{
+  "type": "open",
+  "question": "Welk mineraal staat bekend als het op één na hardste ter wereld en wordt vaak gebruikt in sieraden en industriële toepassingen?",
+  "correct": "Korund",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/a/a0/Corundum.jpg",
+  "round": "R1",
+  "Thema": "Wetenschappen"
+},
+{
+  "type": "open",
+  "question": "Welke Belgische comedian en ex‑beroepsmilitair staat bekend om zijn eindejaarsconference en optredens in Vlaanderen?",
+  "correct": "Yannick Noben",
+  "image": "https://www.desinger.be/media/cache/program_medium/uploads/programs/68cd8178cd2dc_yannick-noben-eindejaars-2025-albert-loos-prtnscrn.png",
+  "round": "R1",
+  "Thema": "Shows & Films"
+},
+{
+  "type": "open",
+  "question": "Welke traditionele gefermenteerde groentegerecht uit Korea wordt vaak pittig bereid en geserveerd als bijgerecht?",
+  "correct": "Kimchi",
+  "image": "https://mykoreankitchen.com/wp-content/uploads/2022/01/5.-Homemade-Kimchi.jpg",
+  "round": "R1",
+  "Thema": "Gastronomie"
+},
+{
+  "type": "open",
+  "question": "Welke bruisende frisdrank uit Schotland staat bekend om zijn oranje kleur en unieke zoet-frisse smaak?",
+  "correct": "Irn-Bru",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fd/Barr_IRN-BRU_Sugar_Free_%283_of_3%29.jpg/250px-Barr_IRN-BRU_Sugar_Free_%283_of_3%29.jpg",
+  "round": "R1",
+  "Thema": "Gastronomie"
+},
+{
+  "type": "open",
+  "question": "Welke Vlaamse acteur speelde onder meer de rol van Tony Paillard in de komische televisieserie ‘Het Eiland’?",
+  "correct": "Luc Nuyens",
+  "image": "https://images.uitdatabank.be/9e1e9115-18fa-4326-a746-d880eee61143.jpeg",
+  "round": "R1",
+  "Thema": "Shows & Films"
+},
+{
+  "type": "open",
+  "question": "Welke Amerikaanse schrijver, bekend van 'Adventures of Tom Sawyer' en 'Adventures of Huckleberry Finn', werd ook besproken in publicaties van Twayne Publishers?",
+  "correct": "Mark Twain",
+  "image": "https://cdn.britannica.com/83/136283-050-9C9D6ED8/Mark-Twain-1907.jpg",
+  "round": "R1",
+  "Thema": "Boeken & Strips"
+},
+{
+  "type": "open",
+  "question": "Van welk land is de vlag blauw met rode strepen boven en onder en een wit rond medaillon met twee mannen en een mahonieboom in het midden?",
+  "correct": "Belize",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/e/e7/Flag_of_Belize.svg",
+  "round": "R1",
+  "Thema": "Geografie"
+},
+{
+  "type": "open",
+  "question": "Welke 22‑jarige man werd in 2025 gearresteerd in verband met de dodelijke schietpartij op de Amerikaanse politieke activist Charlie Kirk?",
+  "correct": "Tyler Robinson",
+  "image": "https://live-production.wcms.abc-cdn.net.au/151c6114171b167477e12206c18f1947?impolicy=wcms_crop_resize&cropH=804&cropW=1206&xPos=255&yPos=304&width=862&height=575",
+  "round": "R1",
+  "Thema": "Politiek"
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+  ]
+}

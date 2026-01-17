@@ -6,8 +6,9 @@ const QUIZZES = {
   "Raak Quiz": "quizzes/quiz-questions4.json",
   "De Valier": "quizzes/quiz-questions5.json",
   "Levensvreugde Zomert": "quizzes/quiz-questions6.json",
-  "Geen idee van welke quiz dit was": "quizzes/quiz-questions7.json",
-  "De Lodderoeigen": "quizzes/quiz-questions8.json"
+  "Ne Vriejen Auvend": "quizzes/quiz-questions7.json",
+  "De Lodderoeigen": "quizzes/quiz-questions8.json",
+  "Trebor Seam": "quizzes/quiz-questions9.json"
 };
 
 let questions = [];
