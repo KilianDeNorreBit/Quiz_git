@@ -5572,6 +5572,742 @@
   "image": "https://live-production.wcms.abc-cdn.net.au/151c6114171b167477e12206c18f1947?impolicy=wcms_crop_resize&cropH=804&cropW=1206&xPos=255&yPos=304&width=862&height=575",
   "round": "R1",
   "Thema": "Politiek"
+},
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+{
+  "type": "open",
+  "question": "Hoe heet de Belgische film met een absurde titel die symbool staat voor zinloosheid en stilstand?",
+  "correct": "Waarom Wettelen?",
+  "image": "https://img.static-rmg.be/a/view/q75/w962/h503/f53.42,15.45/6680109/unnamed-file-jpg.jpg",
+  "round": "R1",
+  "Thema": "Shows & Films"
+},
+{
+  "type": "open",
+  "question": "Hoe heet de kat van de slechterik Gargamel in De Smurfen?",
+  "correct": "Azrael",
+  "image": "https://upload.wikimedia.org/wikipedia/en/1/1c/Gargamel-and-Azrael-comics_version.png",
+  "round": "R1",
+  "Thema": "Boeken & Strips"
+},
+{
+  "type": "open",
+  "question": "Welke Nederlandse kunstenaar was een belangrijke vertegenwoordiger van de Cobra-beweging?",
+  "correct": "Karel Appel",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/e/e7/Karel_Appel_%281982%29.jpg",
+  "round": "R1",
+  "Thema": "Kunst"
+},
+{
+  "type": "open",
+  "question": "Hoe noem je een stijlfiguur waarbij hetzelfde begrip onnodig wordt herhaald met woorden die dezelfde betekenis hebben?",
+  "correct": "Tautologie",
+  "image": "https://www.braint.nl/taalgids/images/pleonasme.jpg",
+  "round": "R1",
+  "Thema": "Taal"
+},
+{
+  "type": "open",
+  "question": "Wat is de hoofdstad van Nieuw-Zeeland?",
+  "correct": "Wellington",
+  "image": "https://images.contentstack.io/v3/assets/blt06f605a34f1194ff/blt45c1ec72d2a9f847/6857936c4966dc83982c92f0/AdobeStock_198582943-HEADER_MOBILE.jpg?fit=crop&disable=upscale&auto=webp&quality=60&crop=smart",
+  "round": "R1",
+  "Thema": "Geografie"
+},
+{
+  "type": "open",
+  "question": "Welke grote hondenras uit Turkije staat bekend als een beschermhond voor vee?",
+  "correct": "Anatolische Herder",
+  "image": "https://media.os.fressnapf.com/cms/2020/07/ratgeber_hund_rasse_portraits_kangal_1200x527.jpg?t=seoimg_703",
+  "round": "R1",
+  "Thema": "Natuur"
+},
+{
+  "type": "open",
+  "question": "Welke Belgische wielrenner staat bekend om zijn kracht in tijdritten en klassiekers?",
+  "correct": "Yves Lampaert",
+  "image": "https://images.vrt.be/width960/2022/07/01/05025f2a-f964-11ec-b07d-02b7b76bf47f.jpg",
+  "round": "R1",
+  "Thema": "Sport"
+},
+{
+  "type": "open",
+  "question": "Welke band bracht het nummer 'Epic' en 'Easy (like sunday morning)' uit in 1989, dat hen wereldwijde bekendheid gaf?",
+  "correct": "Faith No More",
+  "image": "https://i.scdn.co/image/765ad08f23f828d1a850c47ac417d7be260af932",
+  "round": "R1",
+  "Thema": "Muziek"
+},
+{
+  "type": "open",
+  "question": "Welke chemische verbinding wordt in de landbouw vaak gebruikt als stikstofrijke meststof?",
+  "correct": "Nitraat",
+  "image": "https://vilt.be/storage/files/5765e3f7-72b2-4949-8cdb-21e6e862aeb9/header_nitraatresidu-staalname-bodemstaal-diepte-vlm.jpg?t=1753194201",
+  "round": "R1",
+  "Thema": "Wetenschappen"
+},
+{
+  "type": "open",
+  "question": "Welke Japanse delicatesse bestaat uit rauwe vis of zeevruchten, vaak geserveerd zonder rijst?",
+  "correct": "Sashimi",
+  "image": "https://delishglobe.com/wp-content/uploads/2024/10/sashimi.png",
+  "round": "R1",
+  "Thema": "Gastronomie"
+},
+{
+  "type": "open",
+  "question": "Welk traditioneel Russisch snaarinstrument heeft meestal drie snaren en een driehoekige klankkast?",
+  "correct": "Balalaika",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/7/70/TenorBalalaika1.jpg",
+  "round": "R1",
+  "Thema": "Muziek"
+},
+{
+  "type": "open",
+  "question": "Welke kleine knaagdierensoort staat bekend om zijn extreem zachte, dichtgekleurde vacht en komt oorspronkelijk uit de Andes?",
+  "correct": "Chinchilla",
+  "image": "https://cms.dierenbescherming.nl/assets/hetKnaaghof/Dieren/_2880x1620_crop_center-center_none/chinchilla-banner-iStock-1359940227.jpg?stamp=2407091343&tag=lg",
+  "round": "R1",
+  "Thema": "Natuur"
+},
+{
+  "type": "open",
+  "question": "Welke fictiereeks speelt zich af in een futuristische stad en combineert actie, drama en politieke intriges?",
+  "correct": "Arcadia",
+  "image": "https://image.humo.be/252579991/width/2480/van-links-naar-rechts-monic-hendrickx-lynn-van-royen-en-maarten",
+  "round": "R1",
+  "Thema": "Shows & Films"
+},
+{
+  "type": "open",
+  "question": "Welke actrice speelt de rol van Nancy in de Vlaamse televisieserie 'Thuis'?",
+  "correct": "Ann Pira",
+  "image": "https://images.hln.be/NzYwYTM3ZWUyY2UyODFkZDFhOGYvZGlvLzI2ODI5OTAwNy9maXQtd2lkdGgvMTIwMA/actrice-ann-pira",
+  "round": "R1",
+  "Thema": "Shows & Films"
+},
+{
+  "type": "open",
+  "question": "Welke zeeman uit de Vlaamse stripreeks 'Jommeke' is een vriend van Jommeke en helpt vaak bij avonturen op zee?",
+  "correct": "Jan Haring",
+  "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQR6Cz4Zv2b9KcbYRVlONSirTJ5gumwAy4gyw&s",
+  "round": "R1",
+  "Thema": "Boeken & Strips"
+},
+{
+  "type": "open",
+  "question": "Welke stad is de hoofdstad van de Filipijnen?",
+  "correct": "Manilla",
+  "image": "https://www.27vakantiedagen.nl/wp-content/uploads/2017/06/filipijnen-manilla-2.jpg",
+  "round": "R1",
+  "Thema": "Geografie"
+},
+{
+  "type": "open",
+  "question": "Welke Amerikaanse muzikante wordt vaak de 'godmother of punk' genoemd en combineert poëzie met rockmuziek?",
+  "correct": "Patti Smith",
+  "image": "https://cdn-images.dzcdn.net/images/artist/b19f7c44b7b32a88466cc7a648474fdc/1900x1900-000000-81-0-0.jpg",
+  "round": "R1",
+  "Thema": "Muziek"
+},
+{
+  "type": "open",
+  "question": "Welke voetbalclub uit Istanbul, Turkije, staat bekend om zijn gele en rode kleuren?",
+  "correct": "Galatasaray SK",
+  "image": "https://prod-img.nieuwsblad.be/public/nieuws/jleq6w-mertens-blijft-nog-een-jaartje-in-turkije-voetballen./alternates/THREE_TWO_1620/Mertens%20blijft%20nog%20een%20jaartje%20in%20Turkije%20voetballen.",
+  "round": "R1",
+  "Thema": "Sport"
+},
+{
+  "type": "open",
+  "question": "Hoe wordt het fenomeen genoemd waarbij volwassenen emotioneel blijven hangen in hun jeugd en verantwoordelijkheid vermijden?",
+  "correct": "Peter Pan-syndroom",
+  "image": "https://media.post.rvohealth.io/wp-content/uploads/sites/3/2022/08/peter-pan-syndrome-flying-thumb.jpg",
+  "round": "R1",
+  "Thema": "Wetenschappen"
+},
+{
+  "type": "open",
+  "question": "Hoe heet het eerste deel van de dunne darm dat direct volgt op de maag?",
+  "correct": "Twaalfvingerige darm",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/3/3d/Illu_small_intestine.jpg",
+  "round": "R1",
+  "Thema": "Wetenschappen"
+},
+{
+  "type": "open",
+  "question": "Welke uitdrukking gebruik je wanneer iemand hetzelfde terugkrijgt wat hij of zij een ander heeft aangedaan?",
+  "correct": "Koekje van eigen deeg",
+  "image": "https://www.vrouwenpower.nl/wp-content/uploads/2021/11/koekje.jpg",
+  "round": "R1",
+  "Thema": "Taal"
+},
+{
+  "type": "open",
+  "question": "Welke Russische componist en pianist staat bekend om zijn emotionele pianoconcerten en symfonieën, waaronder het Tweede Pianoconcert?",
+  "correct": "Rachmaninov",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/b/be/Sergei_Rachmaninoff_cph.3a40575.jpg",
+  "round": "R1",
+  "Thema": "Muziek"
+},
+{
+  "type": "open",
+  "question": "Wat is de hoofdstad van Madagaskar?",
+  "correct": "Antananarivo",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/b/b5/Lake_Anosy%2C_Central_Antananarivo%2C_Capital_of_Madagascar%2C_Photo_by_Sascha_Grabow.jpg",
+  "round": "R1",
+  "Thema": "Geografie"
+},
+{
+  "type": "open",
+  "question": "Welke dagvlinder uit Europa staat bekend om zijn oranje-bruine vleugels met zwarte stippen en de naam die verwijst naar een klein topografisch overzicht?",
+  "correct": "Landkaartje",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/6/67/Araschnia_levana1.jpg",
+  "round": "R1",
+  "Thema": "Natuur"
+},
+{
+  "type": "open",
+  "question": "Welke geur van Chanel wordt gepresenteerd als een frisse, vrouwelijke en moderne parfumlijn?",
+  "correct": "Coco Mademoiselle",
+  "image": "https://media.douglas.be/medias/x4o7Bb917000-5-dgl-BE.jpg?context=bWFzdGVyfGltYWdlc3w0ODAxNDN8aW1hZ2UvanBlZ3xhR0kzTDJoa1pDODJOekl4T0RRMU1UUTJOREl5TWk5NE5HODNRbUk1TVRjd01EQmZOVjlrWjJ3dFFrVXVhbkJufDU3YjY2MGUxYWZkOTY5YTQyNmM3M2JjZjg5ODJmODM3ODg5NjY1NTA1NDdhNGRmNDVlNjMxMjE4ZmExYTNjMGM&grid=true",
+  "round": "R1",
+  "Thema": "Gastronomie"
+},
+{
+  "type": "open",
+  "question": "Welke Amerikaanse alternatieve metalband, opgericht in 1989, staat bekend om nummers als 'Unsung' en 'Milquetoast'?",
+  "correct": "Helmet",
+  "image": "https://lh3.googleusercontent.com/5yx20CXZcaxsC-bzf_boAxk1QJhg_0opoE7JsceqRLFbLj61VCKRGOKbAStpVSppufKKeXCSy8sF9Xc4=w1080-h450-p-l90-rj",
+  "round": "R1",
+  "Thema": "Muziek"
+},
+{
+  "type": "open",
+  "question": "Welke blauwe, enge popfiguur uit het videospel 'Poppy Playtime' werd een bekend internetfenomeen?",
+  "correct": "Huggy Wuggy",
+  "image": "https://townsquare.media/site/519/files/2022/03/attachment-screenshot.jpg?w=780&q=75",
+  "round": "R1",
+  "Thema": "IT & Games"
+},
+{
+  "type": "open",
+  "question": "Welke mysterieuze en excentrieke familiegenoot in de Disneyfilm 'Encanto' heeft de gave om de toekomst te zien?",
+  "correct": "Bruno",
+  "image": "https://upload.wikimedia.org/wikipedia/en/thumb/0/02/Bruno_Madrigal.png/240px-Bruno_Madrigal.png",
+  "round": "R1",
+  "Thema": "Shows & Films"
+},
+{
+  "type": "open",
+  "question": "Welke strip uit de Asterix-reeks speelt zich af in het gebied dat het huidige Portugal beslaat?",
+  "correct": "Asterix in Lusitania",
+  "image": "https://image.demorgen.be/264207710/width/2480/afbeelding",
+  "round": "R1",
+  "Thema": "Boeken & Strips"
+},
+{
+  "type": "open",
+  "question": "Welke klassieke schreefletter wordt vaak gebruikt in kranten en officiële documenten?",
+  "correct": "Times New Roman",
+  "image": "https://fontmeme.com/fonts/static/44186/times-roman-font-character-map.png",
+  "round": "R1",
+  "Thema": "Taal"
+},
+{
+  "type": "open",
+  "question": "Welke sportieve SUV van het Spaanse automerk Cupra is vernoemd naar een kaap op het eiland Mallorca?",
+  "correct": "Cupra Formentor",
+  "image": "https://a.storyblok.com/f/142628/2000x1125/b892e2f639/0e0e_c2r.png",
+  "round": "R1",
+  "Thema": "Cultuur"
+},
+{
+  "type": "open",
+  "question": "Welke Italiaanse eilandengroep in de Middellandse Zee staat bekend als een belangrijk toevluchtsoord voor migranten?",
+  "correct": "Lampedusa",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/Lampedusa_island.jpg/330px-Lampedusa_island.jpg",
+  "round": "R1",
+  "Thema": "Geografie"
+},
+{
+  "type": "open",
+  "question": "Welke wiskundige eigenschap stelt dat de volgorde van getallen bij optellen of vermenigvuldigen geen invloed heeft op het resultaat?",
+  "correct": "Commutativiteit",
+  "image": "https://www.klascement.net/files/1/4/3/3/2/5/l/Knipsel%2036.PNG",
+  "round": "R1",
+  "Thema": "Wetenschappen"
+},
+{
+  "type": "open",
+  "question": "Welke giftige plant wordt vaak gebruikt in de productie van hartmedicatie en staat bekend om zijn hoge, klokvormige bloemen?",
+  "correct": "Vingerhoedskruid",
+  "image": "https://sprinklr.co/cdn/shop/articles/vingerhoedskruid-digitalis_520x500_d4b8b453-9c99-43f2-8a41-fc78b5aeb8f7.jpg?v=1744376428",
+  "round": "R1",
+  "Thema": "Natuur"
+},
+{
+  "type": "open",
+  "question": "Hoe heet het horizontale bouwkundig element dat rust op de zuilen of pijlers in klassieke architectuur?",
+  "correct": "Architraaf",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/b/b9/Indeling_hoofdgestel.jpg",
+  "round": "R1",
+  "Thema": "Kunst"
+},
+{
+  "type": "open",
+  "question": "Welke term uit de Belgische criminaliteit verwijst naar een beruchte operatie tegen de maffia in de jaren 1980?",
+  "correct": "Spaghetti Arrest",
+  "image": "https://focus-wtv.be/public/import/_1200x630_crop_center-center_82_none/335.jpg?mtime=1687443366",
+  "round": "R1",
+  "Thema": "Politiek"
+},
+{
+  "type": "open",
+  "question": "Welke Britse singer-songwriter bracht het nummer 'Let Her Go' uit, dat wereldwijd een hit werd in 2012?",
+  "correct": "Passenger",
+  "image": "https://aem.dropbox.com/cms/content/dam/dropbox/blog/files/2017/07/passenger_new_shot_1300_760.png",
+  "round": "R1",
+  "Thema": "Muziek"
+},
+{
+"type": "open",
+"question": "Welke Schotse whisky met het iconische logo van een wandelende man is wereldwijd een van de best verkochte blends?",
+"correct": "Johnnie Walker",
+"image": "https://mir-s3-cdn-cf.behance.net/project_modules/fs_webp/07aa1b75700943.5c53a275878d4.jpg",
+"round": "R1",
+"Thema": "Gastronomie"
+},
+{
+"type": "open",
+"question": "Hoe heet de inheemse plant met witte schermbloemen die vaak langs bermen en weilanden groeit in het voorjaar?",
+"correct": "Fluitenkruid",
+"image": "https://cdn.webshopapp.com/shops/11257/files/432338843/fluitenkruid-anthriscus-sylvestris.jpg",
+"round": "R1",
+"Thema": "Natuur"
+},
+{
+"type": "open",
+"question": "Welke Catalaanse kunstenaar wordt gezien als een van de belangrijkste vertegenwoordigers van het surrealisme?",
+"correct": "Joan Miró",
+"image": "https://thumbs.dreamstime.com/b/abstracte-achtergrond-de-franse-schilder-van-stijlmiro-93206264.jpg",
+"round": "R1",
+"Thema": "Kunst"
+},
+{
+"type": "open",
+"question": "Hoe heet de film uit 2025 die op de 97e Academy Awards vijf Oscars won, waaronder Beste Film, en geregisseerd is door Sean Baker?",
+"correct": "Anora",
+"image": "https://wmimages.bruzz.be/styles/1f8c29ed4efcaed916a7e270e4064aaa5d961eac/2024-10/d2314c22-anoracreditdrewdaniels-8.jpg?style=W3sianBlZyI6eyJxdWFsaXR5Ijo3MH19LHsicmVzaXplIjp7ImZpdCI6Imluc2lkZSIsIndpZHRoIjoxMjk2LCJoZWlnaHQiOjg2NCwid2l0aG91dEVubGFyZ2VtZW50Ijp0cnVlfX1d&sign=7b12e0a537c8a35b241d08fee7807da08e0290a3059bdcc28fda5faed7b677ae",
+"round": "R1",
+"Thema": "Shows & Films"
+},
+{
+"type": "open",
+"question": "Welke kleine, kleurrijke, zoete snoepjes zijn vaak fruitig van smaak en populair tijdens Pasen in de VS?",
+"correct": "Jelly Beans",
+"image": "https://cdn.britannica.com/31/263331-050-F2AC9E47/jelly-bean-candy.jpg",
+"round": "R1",
+"Thema": "Gastronomie"
+},
+{
+"type": "open",
+"question": "Welke Vlaamse politicus is sinds 2019 minister-president van de Vlaamse regering en lid van de N-VA?",
+"correct": "Jan Jambon",
+"image": "https://n-va.be/sites/n-va.be/files/styles/social_media_image/public/2024-06/jan_jambon.jpg?h=b805996a&itok=IsPKxoTG",
+"round": "R1",
+"Thema": "Politiek"
+},
+{
+"type": "open",
+"question": "Welke Franse wielrenner, bekend om zijn aanvallende stijl en meerdere etappezeges in de Tour de France, rijdt voor het team Soudal–Quick-Step?",
+"correct": "Julian Alaphilippe",
+"image": "https://images.vrt.be/width960/2024/07/28/2510b13b-4ce4-11ef-92ff-02b7b76bf47f.jpg",
+"round": "R1",
+"Thema": "Sport"
+},
+{
+"type": "open",
+"question": "Welke klassieke Italiaanse stoofschotel wordt gemaakt van kalfsschenkel, gestoofd in witte wijn en bouillon met groenten en kruiden?",
+"correct": "Ossobuco",
+"image": "https://www.simplyrecipes.com/thmb/2AjZWxY7oJ7jkMRtrSjtkQAtvQg=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/__opt__aboutcom__coeus__resources__content_migration__simply_recipes__uploads__2006__12__Osso-Buco-LEAD-5-a816159cbe9740a5b21f3c1e515f9da2.jpg",
+"round": "R1",
+"Thema": "Gastronomie"
+},
+{
+"type": "open",
+"question": "Welke Nederlandse singer-songwriter bracht in 2014 de hit 'Home' uit en is bekend om zijn ingetogen popliedjes?",
+"correct": "Dotan",
+"image": "https://images.sk-static.com/images/media/profile_images/artists/1331804/huge_avatar",
+"round": "R1",
+"Thema": "Muziek"
+},
+{
+"type": "open",
+"question": "Welke vroege lentebloem staat bekend om zijn kleurrijke kelkjes en wordt vaak in tuinen en parken geplant om de winter te doorbreken?",
+"correct": "Krokus",
+"image": "https://florastore.com/cdn/shop/collections/Atmosphere_01_SQ_4.png?v=1736857077",
+"round": "R1",
+"Thema": "Natuur"
+},
+{
+"type": "open",
+"question": "Welke Belgische politica was Vlaams minister van Leefmilieu en Landbouw van 1999 tot 2003 en later voorzitter van de groene partij Groen!?",
+"correct": "Vera Dua",
+"image": "https://upload.wikimedia.org/wikipedia/commons/8/82/Vera_Dua_at_the_federal_parliament%2C_Brussels%2C_2008.jpg",
+"round": "R1",
+"Thema": "Politiek"
+},
+{
+"type": "open",
+"question": "Welke Belgische winkelketen is gespecialiseerd in papierwaren, kantoorartikelen en creatieve hobbyproducten?",
+"correct": "AVA",
+"image": "https://officeservicecompany.com/wp-content/uploads/2020/11/office_supplies-min-1024x684.jpg",
+"round": "R1",
+"Thema": "Cultuur"
+},
+{
+"type": "open",
+"question": "Welke vrouw was de langdurige partner van Adolf Hitler en trouwde met hem kort voor hun gezamenlijke dood in 1945?",
+"correct": "Eva Braun",
+"image": "https://hips.hearstapps.com/hmg-prod/images/candid-photograph-of-eva-braun-with-adolf-hitler-at-the-news-photo-1758624853.pjpeg?crop=0.783xw:0.972xh;0.0619xw,0&resize=1200:*",
+"round": "R1",
+"Thema": "Geschiedenis"
+},
+{
+"type": "open",
+"question": "Welke bittere Franse aperitieflikeur, vaak gebruikt in cocktails zoals de 'Picon bière', wordt traditioneel geserveerd met bier of witte wijn?",
+"correct": "Picon",
+"image": "https://fgdjrynm.filerobot.com/recipes/53ed7d5731c92914da491df6935287f68cdd9a13c43f19b73e3696706f872fdc.jpg?vh=65ec7f&h=800&w=800&q=60",
+"round": "R1",
+"Thema": "Gastronomie"
+},
+{
+"type": "open",
+"question": "Hoe heet het voormalige Belgische pretpark in Adinkerke dat geopend was van 1935 tot 1999 en later werd omgebouwd tot Plopsaland De Panne?",
+"correct": "Meli Park",
+"image": "https://meli.be/app/uploads/2024/06/melipark-achtbaan.png",
+"round": "R1",
+"Thema": "Cultuur"
+},
+{
+"type": "open",
+"question": "Welke Franse schilder wordt gezien als een van de grondleggers van het impressionisme en maakte onder andere het beroemde werk 'Le Petit Déjeuner sur l’herbe'?",
+"correct": "Édouard Manet",
+"image": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/Manet%2C_Edouard_-_Le_D%C3%A9jeuner_sur_l%27Herbe_%28The_Picnic%29_%281%29.jpg/330px-Manet%2C_Edouard_-_Le_D%C3%A9jeuner_sur_l%27Herbe_%28The_Picnic%29_%281%29.jpg",
+"round": "R1",
+"Thema": "Kunst"
+},
+{
+"type": "open",
+"question": "Welke luchthaven in de Algarve, Portugal, staat bekend als de belangrijkste toegangspoort tot deze toeristische regio?",
+"correct": "Faro",
+"image": "https://www.citytripjelissabon.be/wp-content/uploads/2019/06/Beautiful-sandy-beach-near-Lagos-Algarve-Portugal-min.jpg",
+"round": "R1",
+"Thema": "Geografie"
+},
+{
+"type": "open",
+"question": "Welke god uit de Romeinse mythologie heerst over de onderwereld en is bekend als de Romeinse tegenhanger van de Griekse Hades?",
+"correct": "Pluto",
+"image": "https://images.squarespace-cdn.com/content/v1/5dfcdf49fed1bb50506fb980/1593097451886-FT2Z06K9DIQWNE9LFQQ2/Hades-et-Cerberus-III.jpg",
+"round": "R1",
+"Thema": "Geschiedenis"
+},
+{
+"type": "open",
+"question": "Welke Frankische koning, die rond 466–511 leefde, wordt beschouwd als de eerste koning die alle Frankische stammen verenigde en het christendom aannam?",
+"correct": "Clovis",
+"image": "https://upload.wikimedia.org/wikipedia/commons/8/86/Fran%C3%A7ois-Louis_Dejuinne_%281786-1844%29_-_Clovis_roi_des_Francs_%28465-511%29.jpg",
+"round": "R1",
+"Thema": "Geschiedenis"
+},
+{
+"type": "open",
+"question": "Welke primatensoort, bekend om zijn kleurrijke gezicht en grote slagtanden, leeft voornamelijk in de regenwouden van West-Afrika?",
+"correct": "Mandril",
+"image": "https://upload.wikimedia.org/wikipedia/commons/9/93/Mandril.jpg",
+"round": "R1",
+"Thema": "Natuur"
+},
+{
+"type": "open",
+"question": "Welke fysische verschijnsel beschrijft de verandering in waargenomen frequentie van een geluid of licht wanneer de bron en de waarnemer zich ten opzichte van elkaar bewegen?",
+"correct": "Doppler-effect",
+"image": "https://flypaper.soundfly.com/wp-content/uploads/2018/01/doppler-effect-header.jpg",
+"round": "R1",
+"Thema": "Wetenschappen"
+},
+{
+"type": "open",
+"question": "Welke Belgische auteur schreef 'Oorlog en Terpentijn' en is bekend om zijn romans, poëzie en essays die persoonlijke geschiedenis met bredere historische thema's verbinden?",
+"correct": "Stefan Hertmans",
+"image": "https://www.standaarduitgeverij.be/wp-content/uploads/2020/09/Hertmans-Stefan-kleur-%C2%A9-Saskia-Vanderstichele-afgekocht-voor-De-Opgang-1-scaled.jpg",
+"round": "R1",
+"Thema": "Boeken & Strips"
+},
+{
+"type": "open",
+"question": "Welke kleine, dubbele handtrommel uit Cuba wordt vaak gebruikt in Afro-Cubaanse muziekstijlen zoals salsa en rumba?",
+"correct": "Bongo",
+"image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQJoEIhX3Wv_whP18CTOzCWdzJb3ZOTREC3vw&s",
+"round": "R1",
+"Thema": "Muziek"
+},
+{
+"type": "open",
+"question": "Welke Engelse darter, bijgenaamd 'The Iceman', won meerdere grote titels in de PDC, waaronder de World Matchplay en World Grand Prix?",
+"correct": "Gerwyn Price",
+"image": "https://r.testifier.nl/Acbs8526SDKI/resizing_type:fit/watermark:Kieran%20Cleeves%2FPDC/width:3840/height:2560/plain/https://s3-newsifier.ams3.digitaloceanspaces.com/dartsnieuws.com/images/2025-11/gerwyn-price-3-6915028c41531.JPG@webp",
+"round": "R1",
+"Thema": "Sport"
+},
+{
+"type": "open",
+"question": "Welke Belgische architect, bekend om zijn Art Nouveau-stijl, ontwierp onder andere het beroemde Hôtel Tassel in Brussel?",
+"correct": "Victor Horta",
+"image": "https://upload.wikimedia.org/wikipedia/commons/4/45/Victor_Horta_%28cropped%29.jpg",
+"round": "R1",
+"Thema": "Kunst"
+},
+{
+"type": "open",
+"question": "Welke muziekstreamingdienst, opgericht in 2014 door Jay-Z, staat bekend om hoge kwaliteit audio en exclusieve releases van artiesten?",
+"correct": "Tidal",
+"image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQks3LgYHrg2MgjDjsnC8QTQinZGoZYzjCImA&s",
+"round": "R1",
+"Thema": "Muziek"
+},
+{
+"type": "open",
+"question": "Welke stop-motion animatieserie volgt de avonturen van een kleine, nieuwsgierige pinguïn die in de Antarctische kou woont?",
+"correct": "Pingu",
+"image": "https://m.media-amazon.com/images/S/pv-target-images/7516838365a8cd2dfaf622e4e1eda7c5b8b6f9f4b823c97dbf9971549f618c6c._SX1080_FMjpg_.jpg",
+"round": "R1",
+"Thema": "Shows & Films"
+},
+{
+"type": "open",
+"question": "Welke luxueuze Franse modehuizen staat bekend om iconische handtassen zoals de Birkin en Kelly?",
+"correct": "Hermès",
+"image": "https://assets.turbologo.com/blog/en/2021/07/07061928/hermes-monogram-logo.png",
+"round": "R1",
+"Thema": "Gastronomie"
+},
+{
+"type": "open",
+"question": "Welke Belgische krant publiceert ook het wekelijkse wetenschapsmagazine genaamd 'EOS', gericht op populaire wetenschap en techniek?",
+"correct": "EOS",
+"image": "foto/EOS.jpg",
+"round": "R1",
+"Thema": "Wetenschappen"
+},
+{
+"type": "open",
+"question": "Welke Belgische alternatieve rockband, opgericht in Antwerpen in 1991, staat bekend om hun experimentele stijl en albums zoals 'Worst Case Scenario'?",
+"correct": "dEUS",
+"image": "https://img.static-rmg.be/a/view/q75/w1600/h836/f52.45,49.76/4768969/deus-jpg.jpg",
+"round": "R1",
+"Thema": "Muziek"
+},
+{
+"type": "open",
+"question": "Welke figuur uit de traditionele kerststal wordt beschouwd als een van de drie wijzen of koningen die het kindje Jezus kwamen bezoeken? Hij wordt vaak afgebeeld als de oudste, wijze koning uit Perzië of Europa en schenkt goud, wat symbool staat voor wijsheid en het koningschap.",
+"correct": "Melchior",
+"image": "https://cdn.myonlinestore.eu/93c1574b-6be1-11e9-a722-44a8421b9960/image/cache/full/c2cddbb116613ea07a8198e630742300e24712a3.jpg?20260123073340",
+"round": "R1",
+"Thema": "Cultuur"
+},
+{
+"type": "open",
+"question": "Welke Hongaarse politicus is sinds 2010 premier van Hongarije en bekend om zijn nationalistische en conservatieve beleid?",
+"correct": "Viktor Orbán",
+"image": "https://upload.wikimedia.org/wikipedia/commons/7/78/President_Donald_Trump_hosts_a_bilateral_lunch_meeting_with_Hungarian_Prime_Minister_Viktor_Orban.2_%28cropped%29.jpg",
+"round": "R1",
+"Thema": "Politiek"
+},
+{
+"type": "open",
+"question": "Welke Franse filosoof, wiskundige en wetenschapper uit de 17e eeuw is beroemd om zijn uitspraak 'Cogito, ergo sum' en wordt vaak gezien als grondlegger van het rationalisme?",
+"correct": "René Descartes",
+"image": "https://upload.wikimedia.org/wikipedia/commons/7/73/Frans_Hals_-_Portret_van_Ren%C3%A9_Descartes.jpg",
+"round": "R1",
+"Thema": "Wetenschappen"
+},
+{
+"type": "open",
+"question": "Welke mythische staf, vaak omwonden door een slang, is een symbool van de geneeskunde en medische beroepen?",
+"correct": "Esculaap",
+"image": "https://historiek.net/wp-content/uploads-phistor1/2021/01/Caduceus.jpg",
+"round": "R1",
+"Thema": "Cultuur"
+},
+{
+"type": "open",
+"question": "Welke gebergteketen in het oosten van Noord-Amerika strekt zich uit van Alabama tot Newfoundland en is bekend om zijn oude, afgeronde toppen en dicht beboste hellingen?",
+"correct": "Appalachen",
+"image": "https://upload.wikimedia.org/wikipedia/commons/6/66/AppalachianLocatorMap2.png",
+"round": "R1",
+"Thema": "Geografie"
+},
+{
+"type": "open",
+"question": "Welke Britse elektronische muziekgroep, opgericht in de late jaren 1980 door de broerparen Hartnoll, is bekend om nummers zoals 'Chime' en 'The Box'?",
+"correct": "Orbital",
+"image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRGjuDSOfkzLpCLJg9FwVy_uKAAWZ2BNyg51Q&s",
+"round": "R1",
+"Thema": "Muziek"
+},
+{
+"type": "open",
+"question": "Welke term uit de biologie beschrijft het vermogen van een organisme om interne omstandigheden, zoals temperatuur en pH, constant te houden ondanks veranderingen in de omgeving?",
+"correct": "Homeostase",
+"image": "https://ecdn.menselijklichaam.nl/storage/Homeostase-300x219.jpg?strip=all&fit=300%2C219",
+"round": "R1",
+"Thema": "Wetenschappen"
+},
+{
+"type": "open",
+"question": "Welke gebeurtenis in de 16e eeuw in de Lage Landen verwijst naar het vernielen van religieuze kunst en beelden door protestanten tijdens de Reformatie?",
+"correct": "Beeldenstorm",
+"image": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/72/Dirck_van_Delen_-_Beeldenstorm_in_een_kerk.jpg/250px-Dirck_van_Delen_-_Beeldenstorm_in_een_kerk.jpg",
+"round": "R1",
+"Thema": "Geschiedenis"
+},
+{
+"type": "open",
+"question": "Welke vrouwelijke farao van het oude Egypte, die regeerde in de 15e eeuw v.Chr., is bekend om haar uitgebreide handelsmissies en monumentale bouwprojecten?",
+"correct": "Hatsjepsoet",
+"image": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/Sphinx_of_Hatshepsut_MET_DP153114.jpg/500px-Sphinx_of_Hatshepsut_MET_DP153114.jpg",
+"round": "R1",
+"Thema": "Geschiedenis"
+},
+{
+"type": "open",
+"question": "Welke Belgische atleet is gespecialiseerd in de zevenkamp en behaalde onder andere een bronzen medaille op het EK 2014 in Zürich?",
+"correct": "Thomas Van der Plaetsen",
+"image": "https://upload.wikimedia.org/wikipedia/commons/4/43/Thomas_Van_der_Plaetsen_Sopot_2014.jpg",
+"round": "R1",
+"Thema": "Sport"
+},
+{
+"type": "open",
+"question": "Welke grootste levende hagedis, afkomstig van een Indonesisch eiland, staat bekend om zijn gevaarlijke beet en vleesetende dieet?",
+"correct": "Komodovaraan",
+"image": "https://images.prismic.io/blijdorp/ZuFlxxoQrfVKl9EB_Komodovaraan-paspoort.jpg?auto=format,compress",
+"round": "R1",
+"Thema": "Natuur"
+},
+{
+"type": "open",
+"question": "Welke kleine marterachtige, bekend om zijn donkerbruine vacht en witte keelvlek, komt voor in Europese bossen en wordt vaak verwisseld met de steenmarter?",
+"correct": "Hermelijn",
+"image": "https://www.zoogdiervereniging.nl/sites/default/files/zoogdiersoort/Hermelijn003_OtteZijlstra_Hongarije_200802dd.jpg",
+"round": "R1",
+"Thema": "Natuur"
+},
+{
+"type": "open",
+"question": "Welke groene pigmentstof in planten is essentieel voor fotosynthese en absorbeert voornamelijk rood en blauw licht om energie uit zonlicht te halen?",
+"correct": "Chlorofyl",
+"image": "https://seos-project.eu/agriculture/images/chloroplast_inside.jpg",
+"round": "R1",
+"Thema": "Wetenschappen"
+},
+{
+"type": "open",
+"question": "Welke historische staat in zuidelijk Afrika bestond van 1965 tot 1979 en werd later het moderne Zimbabwe?",
+"correct": "Rhodesië",
+"image": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/Flag_of_the_British_South_Africa_Company.svg/1280px-Flag_of_the_British_South_Africa_Company.svg.png",
+"round": "R1",
+"Thema": "Geschiedenis"
+},
+{
+"type": "open",
+"question": "Welke berg, met een hoogte van 2.864 meter, is de hoogste van Slovenië en een nationaal symbool dat ook voorkomt op het Sloveense wapen?",
+"correct": "Triglav",
+"image": "https://erjavcevakoca.be/wp-content/uploads/2024/03/Triglav-mountain-Slovenia_06.jpg",
+"round": "R1",
+"Thema": "Geografie"
+},
+{
+"type": "open",
+"question": "Welke bijnaam wordt soms gebruikt voor het beroemde Brusselse beeldje van een plassend jongetje dat een symbool is van de stad?",
+"correct": "Petit Julien",
+"image": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c4/Bruxelles_Manneken_Pis_cropped.jpg/250px-Bruxelles_Manneken_Pis_cropped.jpg",
+"round": "R1",
+"Thema": "Cultuur"
+},
+{
+"type": "open",
+"question": "Welke Vlaamse dichter en priester uit de 19e eeuw wordt beschouwd als een van de grootste Nederlandstalige dichters en staat bekend om zijn religieuze en natuurpoëzie?",
+"correct": "Guido Gezelle",
+"image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYcIsJrckxVAidbW3Kuh0tlKb_c1SH28eqZA&s",
+"round": "R1",
+"Thema": "Boeken & Strips"
+},
+{
+"type": "open",
+"question": "Welke Belgische auteur, bekend om romans zoals 'Sprakeloos' en 'Het Goddelijke Monster', staat bekend om zijn vaak provocerende en satirische stijl?",
+"correct": "Tom Lanoye",
+"image": "https://image.humo.be/255149132/width/2480/afbeelding",
+"round": "R1",
+"Thema": "Boeken & Strips"
+},
+{
+"type": "open",
+"question": "Welke Amerikaanse schrijver is bekend van controversiële romans zoals 'American Psycho' en 'Less Than Zero', waarin hij vaak de oppervlakkigheid van de moderne maatschappij onderzoekt?",
+"correct": "Bret Easton Ellis",
+"image": "https://upload.wikimedia.org/wikipedia/commons/c/cb/Ellis.jpg",
+"round": "R1",
+"Thema": "Boeken & Strips"
 }
 
 

@@ -8,7 +8,8 @@ const QUIZZES = {
   "Levensvreugde Zomert": "quizzes/quiz-questions6.json",
   "Ne Vriejen Auvend": "quizzes/quiz-questions7.json",
   "De Lodderoeigen": "quizzes/quiz-questions8.json",
-  "Trebor Seam": "quizzes/quiz-questions9.json"
+  "Trebor Seam": "quizzes/quiz-questions9.json",
+  "Natuurpunt": "quizzes/quiz-questions10.json"
 };
 
 let questions = [];
