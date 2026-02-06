@@ -362,14 +362,6 @@
 },
 {
   "type": "open",
-  "question": "Welke kleine roofdieren uit de familie van de marterachtigen zijn bekend om hun behendigheid en worden soms in tuinen aangetroffen?",
-  "correct": "Marterachtigen",
-  "image": "https://upload.wikimedia.org/wikipedia/commons/3/3a/Mustelidae-01.jpg",
-  "round": "R7",
-  "Thema": "Natuur"
-},
-{
-  "type": "open",
   "question": "Welke Vlaamse podcast behandelt actuele thema's en gesprekken in korte afleveringen?",
   "correct": "Het Kwartier",
   "image": "https://images.vrt.be/orig/2025/09/03/70bfa758-6bcb-44d3-bfe0-e879ef6f5233.jpg?aspect_ratio=16%3A9&h=412",

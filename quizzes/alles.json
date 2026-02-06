@@ -2357,14 +2357,6 @@
 },
 {
   "type": "open",
-  "question": "Welke kleine roofdieren uit de familie van de marterachtigen zijn bekend om hun behendigheid en worden soms in tuinen aangetroffen?",
-  "correct": "Marterachtigen",
-  "image": "https://upload.wikimedia.org/wikipedia/commons/3/3a/Mustelidae-01.jpg",
-  "round": "R7",
-  "Thema": "Natuur"
-},
-{
-  "type": "open",
   "question": "Welke Vlaamse podcast behandelt actuele thema's en gesprekken in korte afleveringen?",
   "correct": "Het Kwartier",
   "image": "https://images.vrt.be/orig/2025/09/03/70bfa758-6bcb-44d3-bfe0-e879ef6f5233.jpg?aspect_ratio=16%3A9&h=412",
@@ -5988,14 +5980,6 @@
 "image": "https://images.sk-static.com/images/media/profile_images/artists/1331804/huge_avatar",
 "round": "R1",
 "Thema": "Muziek"
-},
-{
-"type": "open",
-"question": "Welke vroege lentebloem staat bekend om zijn kleurrijke kelkjes en wordt vaak in tuinen en parken geplant om de winter te doorbreken?",
-"correct": "Krokus",
-"image": "https://florastore.com/cdn/shop/collections/Atmosphere_01_SQ_4.png?v=1736857077",
-"round": "R1",
-"Thema": "Natuur"
 },
 {
 "type": "open",
