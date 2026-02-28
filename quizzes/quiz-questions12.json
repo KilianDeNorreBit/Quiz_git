@@ -1,6 +1,341 @@
 {
   "questions": [
-
+{
+  "type": "open",
+  "question": "Welke Vlaamse schrijver is de auteur van de roman \"Kaas\"?",
+  "correct": "Willem Elsschot",
+  "image": "foto/kaas_boek.jpg",
+  "round": "R1",
+  "Thema": "Boeken & Strips"
+},
+{
+  "type": "open",
+  "question": "Welke Bulgaarse voetballer won in 1994 de Ballon d’Or na een sterk WK met zijn land?",
+  "correct": "Christo Stoitsjkov",
+  "image": "https://s.hs-data.com/gfx/person/l/41476.jpg?fallback=male",
+  "round": "R1",
+  "Thema": "Sport"
+},
+{
+  "type": "open",
+  "question": "Welke Amerikaanse zangeres bracht in 1997 het invloedrijke neo-soulalbum \"Baduizm\" uit?",
+  "correct": "Eryka Badu",
+  "image": "https://media.newyorker.com/photos/590975ff1c7a8e33fb38f63a/1:1/w_1841,h_1841,c_limit/160425_r28041.jpg",
+  "round": "R1",
+  "Thema": "Muziek"
+},
+{
+  "type": "open",
+  "question": "Hoe heet de traditionele sterke drank uit de Balkan die wordt gemaakt van gefermenteerde pruimen?",
+  "correct": "Slivovits",
+  "image": "foto/Slivovice.jpg",
+  "round": "R1",
+  "Thema": "Gastronomie"
+},
+{
+  "type": "open",
+  "question": "Welke Britse romantische schilder staat bekend om zijn dramatische zeegezichten en werken zoals \"The Fighting Temeraire\"?",
+  "correct": "Turner",
+  "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQQp91OBEV1DeBkZbCOTzCzUkXbxTstso5YNA&s",
+  "round": "R1",
+  "Thema": "Kunst"
+},
+{
+  "type": "open",
+  "question": "Welke Russische tennisser heeft meerdere Grand Slam-titels gewonnen, waaronder de US Open in 2021?",
+  "correct": "Daniil Medvedev",
+  "image": "https://imgs.search.brave.com/pr8wqlIUKsIC040nveB5PalZwDvtZU5JGlBGpnAK2WM/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9kMm1l/MnFnOGRmaXc4dS5j/bG91ZGZyb250Lm5l/dC9jb250ZW50L3Vw/bG9hZHMvMjAyNS8x/MC9EYW5paWwtTWVk/dmVkZXYtNDk2eDI4/MC5qcGc",
+  "round": "R1",
+  "Thema": "Sport"
+},
+{
+  "type": "open",
+  "question": "Welke Amerikaanse schrijver is bekend van het klassieke werk 'Moby-Dick'?",
+  "correct": "Herman Melville",
+  "image": "https://imgs.search.brave.com/mxva-muTpLQdZA6wmmT1i-0TvwQ7OQcpMI050XgJHWk/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9zaG9y/dHN0b3J5cHJvamVj/dC5jb20vd3AtY29u/dGVudC91cGxvYWRz/LzIwMjEvMTAvSGVy/bWFuLU1lbHZpbGxl/X2NhcmQuanBn",
+  "round": "R1",
+  "Thema": "Boeken & Strips"
+},
+{
+  "type": "open",
+  "question": "Welke Nederlandse schilder, bekend om zijn werk in de Cobra-beweging?",
+  "correct": "Karel Appel",
+  "image": "https://imgs.search.brave.com/0HRQ3MGMFgqC6e4V3Bdo9pToVBdZYrIA0KAmj6Q71BU/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly93d3cu/b3BlcmFnYWxsZXJ5/LmNvbS9zdG9yYWdl/L2FydGlzdHMvS2Fy/ZWwtQXBwZWwuanBn",
+  "round": "R1",
+  "Thema": "Kunst"
+},
+{
+  "type": "open",
+  "question": "Welke uilensoort, bekend om zijn hartvormige gezicht, wordt beschouwd als een symbool van de nacht?",
+  "correct": "Kerkuil",
+  "image": "https://imgs.search.brave.com/c1df2hNBe2H3jv41WNTpTFoxfmACTNTViM4jeRZaCUc/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly93d3cu/YmlqMTIubmwvd3At/Y29udGVudC91cGxv/YWRzLzIwMjQvMDgv/S2VubmlzZG9jdW1l/bnQtS2Vya3VpbC1B/bmRyZS1FaWprZW5h/YXIuanBn",
+  "round": "R1",
+  "Thema": "Natuur"
+},
+{
+  "type": "open",
+  "question": "Hoe heet de frituur uit Gaston & Leo",
+  "correct": "Terminus",
+  "image": "https://imgs.search.brave.com/PtakMgmzrl0PtqemdrTpzKkkCaYkiqVWEV7xs2o90fw/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9pLmRp/c2NvZ3MuY29tL1lv/V0pqOHBhV2N3blBD/TEg5OUJtR3dFRFBu/dDE4Vjl0MzJ5eThF/cWFqZHcvcnM6Zml0/L2c6c20vcTo0MC9o/OjMwMC93OjMwMC9j/ek02THk5a2FYTmpi/MmR6L0xXUmhkR0Zp/WVhObExXbHQvWVdk/bGN5OVNMVFkwT1RJ/ei9NUzB4TlRneU5E/Y3hNamMyL0xUTTJO/RGt1YW5CbFp3Lmpw/ZWc",
+  "round": "R1",
+  "Thema": "Shows & Films"
+},
+{
+  "type": "open",
+  "question": "Welke populaire versleutelde berichtenapp staat bekend om zijn focus op privacy en is beschikbaar op zowel Android als iOS?",
+  "correct": "Signal",
+  "image": "https://imgs.search.brave.com/3s54OAnqJwaXBYvFPnXeeRhEGgcjJOrI069l6LKSbbE/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9hYm91/dHNpZ25hbC5jb20v/ZmlsZXMvc2lnbmFs/LWFwcC1kb3dubG9h/ZGVuLnBuZw",
+  "round": "R1",
+  "Thema": "IT & Games"
+},
+{
+  "type": "open",
+  "question": "Wie is de eerste vrouwelijke premier van Italië, die in 2022 aantrad als leider van de Italiaanse regering?",
+  "correct": "Giorgia Meloni",
+  "image": "https://imgs.search.brave.com/6cR1QJ7S-RZTCZtyA8vuaXzfGZGCY5pEvbeujauRYr4/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly93d3cu/ZnQuY29tL19fb3Jp/Z2FtaS9zZXJ2aWNl/L2ltYWdlL3YyL2lt/YWdlcy9yYXcvaHR0/cHM6Ly9kMWUwMGVr/NGViYWJtcy5jbG91/ZGZyb250Lm5ldC9w/cm9kdWN0aW9uL2Ix/NjMwMWIwLTJjZjYt/NDJhNC1iMjcxLTMz/MDExYjRmM2Y4YS5q/cGc_c291cmNlPW5l/eHQmZml0PXNjYWxl/LWRvd24mZHByPTIm/d2lkdGg9MjQw",
+  "round": "R1",
+  "Thema": "Politiek"
+},
+{
+  "type": "open",
+  "question": "Welke Australische tennisser wordt beschouwd als een van de grootste aller tijden en won twee keer het Grand Slam, waarbij hij in 1962 en 1969 alle vier de major toernooien op zijn naam schreef?",
+  "correct": "Rod Laver",
+  "image": "https://imgs.search.brave.com/wO25MbQA_5UlevXO_4EmVL3ScL9XxtW5tu-oZ2PgsQI/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9kMm1l/MnFnOGRmaXc4dS5j/bG91ZGZyb250Lm5l/dC9jb250ZW50L3Vw/bG9hZHMvMjAyNC8w/OS8yMTE0NDgxNi9S/b2QtTGF2ZXItMTMy/MHg3NDIuanBn",
+  "round": "R1",
+  "Thema": "Sport"
+},
+{
+  "type": "open",
+  "question": "Welke bloem, bekend om haar kleurrijke bloei en vaak geassocieerd met symboliek van wijsheid en vriendschap, draagt de naam van een Griekse godin?",
+  "correct": "Iris",
+  "image": "https://imgs.search.brave.com/b1jBAgpyg7aRMHSDn6lhlzhyNZcrTKGqvA8hzZKlLVE/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly90My5m/dGNkbi5uZXQvanBn/LzAxLzUxLzA1LzYy/LzI0MF9GXzE1MTA1/NjIxMV9QZkx3RVNw/Q1Z2bXNrcUpYbGtV/dUQ5VjRrZk1iMXJm/Ry53ZWJw",
+  "round": "R1",
+  "Thema": "Natuur"
+},
+{
+  "type": "open",
+  "question": "Welk eilandland in de Stille Oceaan staat bekend om zijn koninkrijk, is beroemd om zijn ongerepte natuur en wordt vaak aangeduid als 'het koninkrijk van de oceaan'?",
+  "correct": "Tonga",
+  "image": "https://imgs.search.brave.com/UNnSE638IPsRCg4IgXgAAYeX3hZqB7Ll_1hIZeGK7wg/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9hc3Nl/dHMzLmNic25ld3Nz/dGF0aWMuY29tL2h1/Yi9pL3IvMjAyMi8w/MS8xOS8xMzRlYzVh/Yi1iMTUxLTQ4YWIt/YWZkNy0wOTY4YTUx/NmQzOWIvdGh1bWJu/YWlsLzYyMHgyNzkv/NjdmN2I1YjM0ZmFm/YjFiOTU3Zjk0YzM5/NjcxYzI4YjQvMjAy/Mi0wMS0xOXQxNTA4/Mzl6LTE0NTk3MzI4/MTAtcmMyZjJzOTVw/ZHBvLXJ0cm1hZHAt/My10b25nYS12b2xj/YW5vLmpwZyM",
+  "round": "R1",
+  "Thema": "Geografie"
+},
+{
+  "type": "open",
+  "question": "In de Griekse mythologie, wie is de god van de liefde, vaak afgebeeld met een boog en pijlen waarmee hij de harten van mensen doorboorde?",
+  "correct": "Eros",
+  "image": "https://imgs.search.brave.com/a10dK2cdZsSB-twZ_G1KVh_Mf7xHTcrKSlcMn7PKYlA/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly90NC5m/dGNkbi5uZXQvanBn/LzAxLzAyLzc0Lzg3/LzM2MF9GXzEwMjc0/ODcxNF9iN3dqY0s2/bTlwWnhVRW1ud0ZK/ZkMycEVkYWExd1NB/Ty5qcGc",
+  "round": "R1",
+  "Thema": "Mythologie"
+},
+{
+  "type": "open",
+  "question": "Welke Japanse gefermenteerde pasta, gemaakt van sojabonen, zout en rijst, wordt vaak gebruikt in soepen en sauzen in de Japanse keuken?",
+  "correct": "Miso",
+  "image": "https://imgs.search.brave.com/OV_MkE6rWZyBYL3u3AbLD_R2aIJ54W6acYbEnLPikL4/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9pbWcu/ZnJlZXBpay5jb20v/ZnJlZS1waG90by9z/dGVhbWluZy1ib3ds/LW1pc28tc291cC13/aXRoLXRvZnUtZ3Jl/ZW4tb25pb25zXzIz/LTIxNTIwMTAzMTMu/anBnP3NlbXQ9YWlz/X2h5YnJpZCZ3PTc0/MCZxPTgw",
+  "round": "R1",
+  "Thema": "Gastronomie"
+},
+{
+  "type": "open",
+  "question": "Welke Bahamaanse muziekgroep is vooral bekend van hun hit 'Who Let the Dogs Out', die wereldwijd populair werd in 2000?",
+  "correct": "Baha Men",
+  "image": "https://imgs.search.brave.com/qf1cehztI1uHSryhil6QkIYBK1hOLRzbw6Dq6dPpyWk/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9tZWRp/YS5nZXR0eWltYWdl/cy5jb20vaWQvMTA3/NTY5OTkyL3Bob3Rv/L2JhaGEtbWVuLWR1/cmluZy0yMDAwLWJp/bGxib2FyZC1tdXNp/Yy1hd2FyZHMtaW4t/bGFzLXZlZ2FzLmpw/Zz9zPTYxMng2MTIm/dz0wJms9MjAmYz1o/Z1lRRklFWlpkSWpR/d0RHaDgzT0MyU3RC/amhrcGp5bzhQR1FH/WVMzTkJnPQ",
+  "round": "R1",
+  "Thema": "Muziek"
+},
+{
+"type": "open",
+"question": "Welke bloemen werden het symbool van de Portugese revolutie van 1974?",
+"correct": "anjers",
+"image": "https://www.tuinplanten-denkreupel.be/images/catalog/zomerbloeiers-selecta/anjer-Dianthus_Pink-Kisses.jpg",
+"round": "R1",
+"Thema": "Geschiedenis"
+},
+{
+"type": "open",
+"question": "Welke Schots-Amerikaanse uitvinder wordt algemeen beschouwd als de pionier van de praktische telefoon?",
+"correct": "Graham Bell",
+"image": "https://upload.wikimedia.org/wikipedia/commons/9/9c/Alexander_Graham_Bell.jpeg",
+"round": "R1",
+"Thema": "Wetenschappen"
+},
+{
+"type": "open",
+"question": "Hoe heet de Vlaamse televisieserie uit 2012 over vijf zussen die samen een moordcomplot smeden tegen hun schoonbroer?",
+"correct": "Clan",
+"image": "https://images2.persgroep.net/rcs/zS8yJwZ_IqJGvQUgIcBs5A78cQM/diocontent/165435618/_fitwidth/426?appId=038a353bad43ac27fd436dc5419c256b&quality=0.8",
+"round": "R1",
+"Thema": "Shows & Films"
+},
+{
+"type": "open",
+"question": "Hoe heet het Indiase gerecht op basis van linzen dat vaak wordt geserveerd met rijst of naanbrood?",
+"correct": "Dahl",
+"image": "https://www.smaakt.bio/wp-content/uploads/sites/4/2020/02/linzensoep-dahl-vegan.png",
+"round": "R1",
+"Thema": "Gastronomie"
+},
+{
+"type": "open",
+"question": "Welke Oostenrijkse wielrenner stond bekend om zijn prestaties in bergachtige etappes van de Tour de France?",
+"correct": "Felix Gall",
+"image": "https://encrypted-tbn2.gstatic.com/licensed-image?q=tbn:ANd9GcSiJOh5xBeTumGh1JqvanfjBSsH6bgHidFqRT5NQiLMbMsV87LskPG14VhLLuHXA8qLW_ZcDBAH1Glt0lw",
+"round": "R1",
+"Thema": "Sport"
+},
+{
+"type": "open",
+"question": "Wat is de volledige naam van de Britse kunstenares die bekendstaat om haar experimentele schilder- en installatiewerken?",
+"correct": "Florence Adelina Hess",
+"image": "https://images.kunstveiling.nl/tmp-bea3f922cd8163465f34ddc9a4156e41-henri-hess_s1500.jpeg",
+"round": "R1",
+"Thema": "Kunst"
+},
+{
+"type": "open",
+"question": "Welke Noorse toneelschrijver wordt vaak beschouwd als de vader van het moderne drama en schreef onder andere 'Een poppenhuis'?",
+"correct": "Henrik Ibsen",
+"image": "https://upload.wikimedia.org/wikipedia/commons/5/51/Henrik_Ibsen_by_Gustav_Borgen_NFB-19775.jpg",
+"round": "R1",
+"Thema": "Boeken & Strips"
+},
+{
+"type": "open",
+"question": "Welk grote, harige rund leeft voornamelijk in de bergen van Centraal-Azië en wordt vaak gebruikt als lastdier?",
+"correct": "Jak",
+"image": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1c/Bos_mutus.JPG/1280px-Bos_mutus.JPG",
+"round": "R1",
+"Thema": "Natuur"
+},
+{
+"type": "open",
+"question": "Welke Oostenrijkse schilder uit de Jugendstilperiode staat bekend om werken zoals 'De kus' en zijn decoratieve, gouden stijl?",
+"correct": "Gustav Klimt",
+"image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/The_Kiss_-_Gustav_Klimt_-_Google_Cultural_Institute.jpg/330px-The_Kiss_-_Gustav_Klimt_-_Google_Cultural_Institute.jpg",
+"round": "R1",
+"Thema": "Kunst"
+},
+{
+"type": "open",
+"question": "Welke naaldboom uit het geslacht Larix staat bekend om zijn naalden die in de herfst geel kleuren en afvallen?",
+"correct": "Lork",
+"image": "https://www.floravannederland.nl/upload/foto/full/bfc1e7fd406640a7bde05ff025ff1d73.jpg",
+"round": "R1",
+"Thema": "Natuur"
+},
+{
+"type": "open",
+"question": "Welke zeezoogdier uit de Arctische wateren staat bekend om zijn lange, spiraalvormige tand die lijkt op een hoorn?",
+"correct": "Narwal",
+"image": "https://static.vecteezy.com/system/resources/thumbnails/071/585/465/small/majestic-narwhal-with-its-iconic-tusk-swims-gracefully-through-deep-blue-ocean-waters-photo.jpg",
+"round": "R1",
+"Thema": "Natuur"
+},
+{
+"type": "open",
+"question": "Welke Egyptische farao, beroemd om zijn lange heerschappij en indrukwekkende tempelbouw, wordt vaak geassocieerd met de bouwwerken van Abu Simbel?",
+"correct": "Ramses",
+"image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR2ifVlHo1QfdVxzsMj-NCHrbNYCqPRsHn5SQ&s",
+"round": "R1",
+"Thema": "Geschiedenis"
+},
+{
+"type": "open",
+"question": "Welke plant uit Oost-Afrika en het Arabisch Schiereiland staat bekend om zijn stimulerende bladeren die traditioneel worden gekauwd?",
+"correct": "Qat",
+"image": "https://upload.wikimedia.org/wikipedia/commons/5/56/Catha_edulis.jpg",
+"round": "R1",
+"Thema": "Natuur"
+},
+{
+"type": "open",
+"question": "Welk Italiaans merk staat bekend om zijn retro-design huishoudtoestellen zoals koelkasten en ovens?",
+"correct": "Smeg",
+"image": "foto/Smeg.png",
+"round": "R1",
+"Thema": "Gastronomie"
+},
+{
+"type": "open",
+"question": "Welke Belgische voetballer van Congolese afkomst stond bekend om zijn prestaties bij Standard Luik en andere clubs als aanvaller?",
+"correct": "Mohamed Tchite",
+"image": "https://upload.wikimedia.org/wikipedia/commons/7/7c/Vorscla-Standard_%288%29.jpg",
+"round": "R1",
+"Thema": "Sport"
+},
+{
+"type": "open",
+"question": "Welk chemisch element, met symbool S, wordt vaak gebruikt in vulkanisatie van rubber, lucifers en als meststofcomponent?",
+"correct": "Zwavel",
+"image": "https://www.lichtpuntjekristallen.nl/wp-content/uploads/zwavel-24-7.jpg",
+"round": "R1",
+"Thema": "Wetenschappen"
+},
+{
+"type": "open",
+"question": "Welke rivier in Duitsland stroomt door steden zoals Minden en Bremen en mondt uit in de Noordzee?",
+"correct": "Wezer",
+"image": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Weser-bei-Polle.jpg/330px-Weser-bei-Polle.jpg",
+"round": "R1",
+"Thema": "Geografie"
+},
+{
+"type": "open",
+"question": "Welke Belgische politicus, lid van de christendemocratische partij, was prominent actief in de jaren 1970 en 1980?",
+"correct": "Karel Van Miert",
+"image": "https://img.static-rmg.be/a/view/q75/w620/h413/3541535/4965897-jpg.jpg",
+"round": "R1",
+"Thema": "Politiek"
+},
+{
+"type": "open",
+"question": "Welke Baskische kuststad staat ook bekend als Donostia en ligt in het noorden van Spanje?",
+"correct": "San Sebastian",
+"image": "https://images.contentstack.io/v3/assets/blt06f605a34f1194ff/blt51a7f80f2ad96c3f/68820c286c8b80a665205ecd/pexels-luis-peralta-58498002-HEADER-MOBILE.jpg?fit=crop&disable=upscale&auto=webp&quality=60&crop=smart",
+"round": "R1",
+"Thema": "Geografie"
+},
+{
+"type": "open",
+"question": "Welke klimplant, bekend om zijn felgekleurde bladeren in de herfst, wordt ook wel Parthenocissus genoemd?",
+"correct": "Wilde wingerd",
+"image": "https://nl-be.bakker.com/cdn/shop/files/25971_1.jpg?v=1763557716&width=1946",
+"round": "R1",
+"Thema": "Natuur"
+},
+{
+"type": "open",
+"question": "Welke Nederlandse wetenschapper is bekend om de naar hem vernoemde wet die het verband tussen windrichting en luchtdruk verklaart?",
+"correct": "Christiaan Buys Ballot",
+"image": "https://upload.wikimedia.org/wikipedia/commons/3/3e/Buysballot.jpg",
+"round": "R1",
+"Thema": "Wetenschappen"
+},
+{
+"type": "open",
+"question": "Hoe heet het Belgische fort dat tijdens de Tweede Wereldoorlog door Duitse troepen werd aangevallen in 1940?",
+"correct": "Eben Emael",
+"image": "https://www.tracesofwar.com/upload/1864210106141748.jpg",
+"round": "R1",
+"Thema": "Geschiedenis"
+},
+{
+"type": "open",
+"question": "Welke Belgische televisieserie uit de jaren 1990 gaat over het komische leven van een groep gierige, maar grappige personages?",
+"correct": "vrolijke vrekken",
+"image": "https://images.play.tv/styles/ab210229ebf345468d87dc47eeae7ebe4e52b023cf61be542af2db4c3cc078e6/meta/20240606105942-ongezien-vv-ep9-08779-sflqma.jpg?style=W3sicmVzaXplIjp7IndpZHRoIjoxOTIwLCJoZWlnaHQiOjEwODB9fV0=&sign=140f0c651be305f8670cd8175951d098135dcc59ef7a589ffad71076d7e22150",
+"round": "R1",
+"Thema": "Shows & Films"
+},
+{
+"type": "open",
+"question": "Welke Amerikaanse dramaserie speelt zich af in de reclamewereld van de jaren 1960 en volgt het leven van Don Draper?",
+"correct": "mad men",
+"image": "https://www.hollywoodreporter.com/wp-content/uploads/2015/02/mad_men_cast.jpg?w=1440&h=810&crop=1",
+"round": "R1",
+"Thema": "Shows & Films"
+},
 {
 "type": "open",
 "question": "Welke meetschaal wordt vaak gebruikt in enquêtes om attitudes of meningen te meten met antwoordcategorieën zoals bijvoorbeeld van 1 tot 5?",
