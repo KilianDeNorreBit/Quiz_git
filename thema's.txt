@@ -16,7 +16,7 @@ Taal
 
 Ik zal de prompt geven in dit formaat: antwoord (context)
 vermeld nooit het anwoord in de vraag
-
+voornamen aanvullen mag, en namen mogen met hoofdletter
 
 Gebruik deze template en vergeet de komma niet
 {

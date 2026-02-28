@@ -1,0 +1,133 @@
+{
+  "questions": [
+
+{
+"type": "open",
+"question": "Welke meetschaal wordt vaak gebruikt in enquêtes om attitudes of meningen te meten met antwoordcategorieën zoals bijvoorbeeld van 1 tot 5?",
+"correct": "Likert schaal",
+"image": "https://managementmodellensite.nl/webcontent/uploads/Likert-schaal.png",
+"round": "R1",
+"Thema": "Wetenschappen"
+},
+{
+"type": "open",
+"question": "Hoe heet de opstand tegen het bewind van keizer Jozef II in de Oostenrijkse Nederlanden aan het einde van de 18e eeuw?",
+"correct": "Brabantse Omwenteling",
+"image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSFiOrUwRNX5qP6x0FnReCNPftgSe6sMk6zPA&s",
+"round": "R1",
+"Thema": "Geschiedenis"
+},
+{
+"type": "open",
+"question": "Hoe heet het grote koperen blaasinstrument uit de tuba-familie dat vooral gebruikt wordt in fanfares en harmonieën?",
+"correct": "Bombardon",
+"image": "https://upload.wikimedia.org/wikipedia/commons/5/5f/Brass_instruments_-_Musical_Instrument_Museum%2C_Brussels_-_IMG_3936.JPG",
+"round": "R1",
+"Thema": "Muziek"
+},
+{
+"type": "open",
+"question": "Hoe heet het Belgische abdijbier dat zijn oorsprong vindt in een benedictijnerabdij in Vlaams-Brabant?",
+"correct": "Affligem",
+"image": "foto/Affligem.png",
+"round": "R1",
+"Thema": "Gastronomie"
+},
+{
+"type": "open",
+"question": "Hoe heet de Britse misdaadfilm uit 1969 met onder andere Michael Caine in de hoofdrol, die later een Amerikaanse remake kreeg in 2003?",
+"correct": "The Italian Job",
+"image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTHt1uAK3GjyKC1cMnf-oSGba1TAPzC7TSIyA&s",
+"round": "R1",
+"Thema": "Shows & Films"
+},
+{
+"type": "open",
+"question": "Hoe heet de aartsengel die volgens de christelijke traditie de geboorte van Jezus aankondigde aan Maria?",
+"correct": "Gabriël",
+"image": "https://paintingbynumbersshop.com/cdn/shop/files/Archangel-Gabriel-canvas_c5f2f4f2-00d3-49e6-8763-ee580c750315.jpg?v=1747812099",
+"round": "R1",
+"Thema": "Cultuur"
+},
+{
+"type": "open",
+"question": "Hoe heet de opvallend gekleurde vogel uit de kraaienfamilie met blauwe vleugelveren die veel voorkomt in Vlaamse bossen?",
+"correct": "Vlaamse gaai",
+"image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTZEL0_t_I6LYD1crml7x6tg4dqX4rCbCRRiQ&s",
+"round": "R1",
+"Thema": "Natuur"
+},
+{
+"type": "open",
+"question": "Hoe heet het aromatische kruid met naaldvormige blaadjes dat vaak gebruikt wordt in de mediterrane keuken bij onder andere vlees- en aardappelgerechten?",
+"correct": "Rozemarijn",
+"image": "https://cdn.prod.website-files.com/61e9187251450c179fcfd7c9/625e66d878d53c0717a9dfca_rozemarijn.jpg",
+"round": "R1",
+"Thema": "Gastronomie"
+},
+{
+"type": "open",
+"question": "Welke Belgische darster staat bekend als  'The Duchess'  in nationale en internationale dartscompetities?",
+"correct": "Noa-Lynn van Leuven",
+"image": "https://upload.wikimedia.org/wikipedia/commons/2/2b/Noa_Lynn_van_Leuven.png",
+"round": "R1",
+"Thema": "Sport"
+},
+{
+"type": "open",
+"question": "Hoe heet de larve van kevers, vaak witachtig en C-vormig, die bekendstaat als schadelijk voor grasvelden en plantenwortels?",
+"correct": "Engerling",
+"image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTgHcJ7TkX9srCVqH3YeYxMkV6771zXvsdMdQ&s",
+"round": "R1",
+"Thema": "Natuur"
+},
+{
+"type": "open",
+"question": "Welke Belgische historicus en auteur is bekend om zijn boeken over Napoleon en Europese geschiedenis?",
+"correct": "Johan Op de Beeck",
+"image": "https://prod-img.nieuwsblad.be/public/nieuws/icnxef-d7180ad6-cb78-484f-b173-6b2961eb534a.jpg/alternates/THREE_TWO_1620/d7180ad6-cb78-484f-b173-6b2961eb534a.jpg",
+"round": "R1",
+"Thema": "Boeken & Strips"
+},
+{
+"type": "open",
+"question": "Welke Amerikaanse acteur speelde de hoofdrol in de film *Manchester by the Sea* uit 2016?",
+"correct": "Casey Affleck",
+"image": "https://i.guim.co.uk/img/media/b6e3e59a4b1a820cab81e0ba435a2565f53772be/0_91_3000_1800/master/3000.jpg?width=1200&height=900&quality=85&auto=format&fit=crop&s=21895f61ea762b1bb917fffc55e1c50c",
+"round": "R1",
+"Thema": "Shows & Films"
+},
+{
+"type": "open",
+"question": "Hoe heet het zeldzame hondenras uit België dat bekendstaat om zijn snelheid en slanke bouw, vaak gebruikt bij de jacht?",
+"correct": "Afgaanse windhond",
+"image": "https://upload.wikimedia.org/wikipedia/commons/f/fe/Afghan_Hound.jpg",
+"round": "R1",
+"Thema": "Natuur"
+},
+{
+"type": "open",
+"question": "Hoe heet de kleurrijke tuinplant met oranje of gele bloemen die vaak gebruikt wordt om ongedierte in de moestuin te weren?",
+"correct": "Afrikaantje",
+"image": "https://www.tuinplanten-denkreupel.be/images/catalog/a-schutt/afrikaantje-Tagetes-x-patula-Texana-FlameS.jpg",
+"round": "R1",
+"Thema": "Natuur"
+},
+{
+"type": "open",
+"question": "Hoe heet de Amerikaanse spaceshuttle die tussen 1992 en 2011 werd ingezet voor ruimtemissies van NASA?",
+"correct": "Endeavour",
+"image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSZs_m3ImrFgvBsdT4fJoF9VD43qImvKfFy0g&s",
+"round": "R1",
+"Thema": "Wetenschappen"
+},
+{
+"type": "open",
+"question": "Hoe heet het Italiaanse dessert waarbij een bolletje vanille-ijs wordt overgoten met een shot hete espresso?",
+"correct": "Affogato",
+"image": "https://static01.nyt.com/images/2021/08/15/magazine/affogato/affogato-mediumSquareAt3X-v2.jpg",
+"round": "R1",
+"Thema": "Gastronomie"
+}
+  ]
+}
