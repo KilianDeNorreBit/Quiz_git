@@ -11,7 +11,8 @@ const QUIZZES = {
   "Trebor Seam": "quizzes/quiz-questions9.json",
   "Natuurpunt": "quizzes/quiz-questions10.json",
   "TRIVIMI": "quizzes/quiz-questions11.json",
-  "Quiz N-VA": "quizzes/quiz-questions12.json"
+  "Quiz N-VA": "quizzes/quiz-questions12.json",
+  "Daatmet": "quizzes/quiz-questions13.json"
 };
 
 let questions = [];

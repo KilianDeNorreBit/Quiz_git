@@ -5640,7 +5640,7 @@
 {
   "type": "open",
   "question": "Hoe noem je een stijlfiguur waarbij hetzelfde begrip onnodig wordt herhaald met woorden die dezelfde betekenis hebben?",
-  "correct": "Tautologie",
+  "correct": "pleonasme",
   "image": "https://www.braint.nl/taalgids/images/pleonasme.jpg",
   "round": "R1",
   "Thema": "Taal"
@@ -7478,6 +7478,423 @@
 "image": "https://static01.nyt.com/images/2021/08/15/magazine/affogato/affogato-mediumSquareAt3X-v2.jpg",
 "round": "R1",
 "Thema": "Gastronomie"
+},
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+{
+  "type": "open",
+  "question": "Hoe heet de Belgische drugscrimineel uit Lommel (°1986) die bekendstaat als een belangrijke figuur in internationale cocaïnesmokkel en ooit op de Most Wanted-lijst van de federale politie stond?",
+  "correct": "Flor Bressers",
+  "image": "https://shared.tvl.be/ext/tvl/w1920/Flor.jpg.webp?t=1750420237",
+  "round": "R1",
+  "Thema": "Geschiedenis"
+},
+{
+  "type": "open",
+  "question": "Welke Duits-Amerikaanse raketingenieur speelde een sleutelrol in de ontwikkeling van de V-2-raket tijdens de Tweede Wereldoorlog en later in het Amerikaanse Apollo-ruimteprogramma?",
+  "correct": "Wernher von Braun",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Wernher_von_Braun.jpg/330px-Wernher_von_Braun.jpg",
+  "round": "R1",
+  "Thema": "Wetenschappen"
+},
+{
+  "type": "open",
+  "question": "Welke Venezolaanse politicus volgde Hugo Chávez op en werd in 2013 president van Venezuela na diens overlijden?",
+  "correct": "Nicolás Maduro",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/55/Nicolas_Maduro_on_December_31%2C_2025_%28cropped2%29.jpg/960px-Nicolas_Maduro_on_December_31%2C_2025_%28cropped2%29.jpg",
+  "round": "R1",
+  "Thema": "Politiek"
+},
+{
+  "type": "open",
+  "question": "Hoe heet het Duitse onderzoekscentrum aan de Oostzee waar tijdens de Tweede Wereldoorlog de V-2-raketten werden ontwikkeld?",
+  "correct": "Peenemünde",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Peenem%C3%BCnde_in_VG.svg/330px-Peenem%C3%BCnde_in_VG.svg.png",
+  "round": "R1",
+  "Thema": "Geschiedenis"
+},
+{
+  "type": "open",
+  "question": "Welke film uit 1992 leverde Al Pacino zijn eerste Oscar voor Beste Acteur op voor zijn rol als een blinde, gepensioneerde kolonel?",
+  "correct": "Scent of a Woman",
+  "image": "https://tertangala.net/wp-content/uploads/2025/03/MV5BY2E1NWFlNzItOGY4MS00MTJhLWEzZDctM2NhNzVkZTU2Mjc0XkEyXkFqcGc@._V1_.jpg",
+  "round": "R1",
+  "Thema": "Shows & Films"
+},
+{
+  "type": "open",
+  "question": "Wat is de hoofdstad van Venezuela en ligt in een vallei nabij het Avila-gebergte aan de noordkust van het land?",
+  "correct": "Caracas",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Caracas_desde_el_%C3%A1vila.jpg/330px-Caracas_desde_el_%C3%A1vila.jpg",
+  "round": "R1",
+  "Thema": "Geografie"
+},
+{
+  "type": "open",
+  "question": "Welke vogelsoort is roadrunner?",
+  "correct": "Renkoekoek",
+  "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRMwE5ChjoBKi718IFrgix9tPqe4kyupJmnWA&s",
+  "round": "R1",
+  "Thema": "Natuur"
+},
+{
+  "type": "open",
+  "question": "Welke Amerikaanse tienerdramaserie, uitgezonden van 1998 tot 2003, volgt de levens van Dawson, Joey en hun vrienden in een klein kuststadje?",
+  "correct": "Dawson's Creek",
+  "image": "https://ichef.bbci.co.uk/ace/standard/2560/cpsprodpb/e9ec/live/b5d16ab0-0812-11f1-9972-d3f265c101c6.jpg",
+  "round": "R1",
+  "Thema": "Shows & Films"
+},
+{
+  "type": "open",
+  "question": "Hoe heet de krachtige Atlantische orkaan uit oktober 2025 die als categorie 5 over Jamaica trok en in de geschiedenisboekjes terechtkwam vanwege zijn recordsterkte en verwoestende impact?",
+  "correct": "Melissa",
+  "image": "https://image.demorgen.be/264581926/width/2480/schade-in-jamaica-na-de-doortocht-van-orkaan-melissa",
+  "round": "R1",
+  "Thema": "Natuur"
+},
+{
+  "type": "open",
+  "question": "Welke Amerikaanse federale instantie, onderdeel van het Department of Homeland Security, is verantwoordelijk voor de handhaving van immigratiewetten en douaneregels?",
+  "correct": "Immigration and Customs Enforcement",
+  "image": "https://whyy.org/wp-content/uploads/2025/05/police-ice-agent-file.jpg",
+  "round": "R1",
+  "Thema": "Politiek"
+},
+{
+  "type": "open",
+  "question": "Welke Noord-Koreaanse leider, stichter van de Democratische Volksrepubliek Korea, regeerde van 1948 tot 1994 en legde de basis voor de dynastie van zijn familie?",
+  "correct": "Kim Il-sung",
+  "image": "https://images-bonnier.imgix.net/files/his/production/2022/10/25112338/noord-korea-kim-dynastie.jpeg?auto=format,compress&crop=focalpoint&fp-x=0.5&fp-y=0.5&ar=1.5:1&w=922&q=80&fit=crop",
+  "round": "R1",
+  "Thema": "Politiek"
+},
+{
+  "type": "open",
+  "question": "Hoe heet de grootste vulkaan in ons zonnestelsel, gelegen op Mars, die meer dan 21 kilometer hoog is?",
+  "correct": "Olympus Mons",
+  "image": "https://hips.hearstapps.com/hmg-prod/images/gettyimages-1128676376-64c391cab69e7.jpg?crop=1xw:0.8998356464572681xh;center,top&resize=1200:*",
+  "round": "R1",
+  "Thema": "Wetenschappen"
+},
+{
+  "type": "open",
+  "question": "Welke term uit de logica en taalwetenschap verwijst naar een uitspraak die altijd waar is omdat het begrip of de proposities erin zichzelf herhalen, zoals 'vrij en onafhankelijk'?",
+  "correct": "Tautologie",
+  "image": "",
+  "round": "R1",
+  "Thema": "Taal"
+},
+{
+  "type": "open",
+  "question": "Welke rivier in Canada, de langste van het land, stroomt door het noordwesten van de provincie Alberta en de Northwest Territories richting de Beaufortzee?",
+  "correct": "McKenzie",
+  "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSmvb56Zz61ZBCI5wBknjzL0ioylxjbmZKY1w&s",
+  "round": "R1",
+  "Thema": "Geografie"
+},
+{
+  "type": "open",
+  "question": "Welke planten groeien op andere planten of objecten zonder parasitair te zijn en halen hun voedingsstoffen uit de lucht en regenwater?",
+  "correct": "Epifieten",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/9/9b/Epiphytes_costa_rica_santa_elena.jpg",
+  "round": "R1",
+  "Thema": "Natuur"
+},
+{
+  "type": "open",
+  "question": "Welke soort leer, herkenbaar aan zijn zachte, fluweelachtige oppervlak dat ontstaat door het schuren van de bovenste laag van de huid, wordt vaak gebruikt voor schoenen en meubels?",
+  "correct": "Nubuck",
+  "image": "https://deleergroothandel.nl/wp-content/uploads/2024/03/nubuck.jpg",
+  "round": "R1",
+  "Thema": "Gastronomie"
+},
+{
+  "type": "open",
+  "question": "Hoe heet de Amerikaanse politica en woordvoerster van de Republikeinse Partij die sinds 2025 de jongste perssecretaris van het Witte Huis is in de administratie van Donald Trump?",
+  "correct": "Karoline Leavitt",
+  "image": "https://newsukraine.rbc.ua/static/img/_/l/_livitt_gettyimages_2248855760__1__b07cc7679a6574ff75d4a597f96e0947_1300x820_31ecb8b02909f9c6430e8e2a546cae34_1200x675.jpg",
+  "round": "R1",
+  "Thema": "Politiek"
+},
+{
+  "type": "open",
+  "question": "Welke Amerikaanse politica en campagneleider stond bekend om haar rol in meerdere Republikeinse verkiezingscampagnes en werd adviseur van Donald Trump tijdens zijn presidentscampagnes?",
+  "correct": "Susie Wiles",
+  "image": "https://images.vrt.be/vrtnws_web/2024/11/07/6e9349c7-1fd5-407c-b110-950814b5083f.jpg?width=900&height=506",
+  "round": "R1",
+  "Thema": "Politiek"
+},
+{
+  "type": "open",
+  "question": "Welke kleurrijke vogel uit Midden-Amerika, met een opvallende lange staart en vaak geassocieerd met Maya- en Azteekse mythologie, is het nationale symbool van Guatemala?",
+  "correct": "Quetzal",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/c/ce/Resplendent_Quetzal_male_-_Cloud_Forest_in_Costa_Rica.jpg",
+  "round": "R1",
+  "Thema": "Natuur"
+},
+{
+  "type": "open",
+  "question": "Welke Italiaanse wijn, afkomstig uit een streek in Toscane en vaak gemaakt van de Sangiovese-druif, is bekend om zijn robijnrode kleur en fruitige smaak?",
+  "correct": "Chianti",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/6/66/Fiasco_di_vino_rosso_da_tavola_Monteriggioni.jpg",
+  "round": "R1",
+  "Thema": "Gastronomie"
+},
+{
+  "type": "open",
+  "question": "Welke term wordt gebruikt voor een islamitische jurist die een religieus juridisch advies of uitspraak geeft, ook wel bekend als een religieuze rechtsgeleerde?",
+  "correct": "Mufti",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/2/26/Mufti_Menk_2022_%28cropped%29.jpg",
+  "round": "R1",
+  "Thema": "Cultuur"
+},
+{
+  "type": "open",
+  "question": "Welke term uit de kernfysica beschrijft een situatie waarin de kern van een kernreactor oververhit raakt en de splijtstof smelt, wat kan leiden tot ernstige radioactieve lekkages?",
+  "correct": "Meltdown",
+  "image": "https://images.squarespace-cdn.com/content/v1/54aac5e4e4b0b6dc3e1f6866/1489673487595-O6ZWXKOL0GFS8UU9BC1R/meltdown.jpg",
+  "round": "R1",
+  "Thema": "Wetenschappen"
+},
+{
+  "type": "open",
+  "question": "Welke Belgische wetenschapper en astronaut, geboren in 1941, werd op 24 maart 1992 de eerste Belg in de ruimte tijdens de STS-45-missie met de Space Shuttle Atlantis?",
+  "correct": "Dirk Frimout",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/a/ad/Frimout.jpg",
+  "round": "R1",
+  "Thema": "Wetenschappen"
+},
+{
+  "type": "open",
+  "question": "Welke Sovjet-Russische kosmonaut werd op 16 juni 1963 de eerste vrouw in de ruimte aan boord van Vostok 6?",
+  "correct": "Valentina Teresjkova",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/6/61/RIAN_archive_612748_Valentina_Tereshkova.jpg",
+  "round": "R1",
+  "Thema": "Wetenschappen"
+},
+{
+"type": "open",
+"question": "Welke Tsjechische dissident en toneelschrijver werd na de Fluwelen Revolutie de eerste president van Tsjechië?",
+"correct": "Václav Havel",
+"image": "https://cdn.britannica.com/59/196759-050-F2C08A9A/Vaclav-Havel.jpg",
+"round": "R1",
+"Thema": "Politiek"
+},
+{
+"type": "open",
+"question": "Hoe heet het beroemde kunstmuseum aan Trafalgar Square in Londen waar een grote collectie Europese schilderkunst te zien is?",
+"correct": "National Gallery",
+"image": "https://thenudge.com/wp-content/uploads/2019/06/national-gallery-e1663853913406-768x511.jpeg",
+"round": "R1",
+"Thema": "Kunst"
+},
+{
+"type": "open",
+"question": "Hoe heet de stad in de Amerikaanse staat Connecticut waar de prestigieuze Yale University gevestigd is?",
+"correct": "New Haven",
+"image": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/New_Haven%2C_Connecticut_skyline_%28cropped%29.jpg/330px-New_Haven%2C_Connecticut_skyline_%28cropped%29.jpg",
+"round": "R1",
+"Thema": "Geografie"
+},
+{
+"type": "open",
+"question": "Welke Franse revolutionair en leider van het Schrikbewind speelde een centrale rol tijdens de Franse Revolutie?",
+"correct": "Maximilien de Robespierre",
+"image": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/12/Robespierre.jpg/1280px-Robespierre.jpg",
+"round": "R1",
+"Thema": "Geschiedenis"
+},
+{
+"type": "open",
+"question": "Hoe heet de filosofische levensopvatting waarbij het nastreven van genot en plezier als het hoogste goed wordt beschouwd?",
+"correct": "Hedonisme",
+"image": "https://www.filosofie.nl/app/uploads/2016/06/Peter_Paul_Rubens_-_Banquet_dAchelous.jpg",
+"round": "R1",
+"Thema": "Cultuur"
+},
+{
+"type": "open",
+"question": "Hoe heet de Zwitsers-Italiaanse voorzitter van de FIFA die in 2016 Sepp Blatter opvolgde?",
+"correct": "Gianni Infantino",
+"image": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/Gianni_Infantino_2019.jpg/250px-Gianni_Infantino_2019.jpg",
+"round": "R1",
+"Thema": "Sport"
+},
+{
+"type": "open",
+"question": "Hoe heet de Belgische tiener die in 2006 in het Brusselse Centraal Station werd vermoord bij een roof van een mp3-speler?",
+"correct": "Joe Van Holsbeeck",
+"image": "https://images.hln.be/YjdlNTU2N2YyOTczMDhlYWI1NzEvZGlvLzU3MzEzMDkxL2ZpbGwvNTEyLzM0Mg/joe-van-holsbeeck-werd-vermoord-in-het-centraal-station-van-brussel-om-zijn-mp3-speler",
+"round": "R1",
+"Thema": "Geschiedenis"
+},
+{
+"type": "open",
+"question": "Hoe heette de Amerikaanse lerares die in 1986 omkwam bij de ramp met de spaceshuttle Challenger tijdens een missie van NASA?",
+"correct": "Christa McAuliffe",
+"image": "https://upload.wikimedia.org/wikipedia/commons/4/4a/Christa_McAuliffe.jpg",
+"round": "R1",
+"Thema": "Wetenschappen"
+},
+{
+"type": "open",
+"question": "Hoe heet de Britse punkband uit de jaren 70 met frontman Johnny Rotten die bekend werd met het nummer 'Anarchy in the U.K.'?",
+"correct": "Sex Pistols",
+"image": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1e/Sex_Pistols_in_Paradiso.jpg/330px-Sex_Pistols_in_Paradiso.jpg",
+"round": "R1",
+"Thema": "Muziek"
+},
+{
+"type": "open",
+"question": "Hoe heet de Franse dj en producer die wordt beschouwd als een pionier van de elektronische muziek en bekendstaat om tracks zoals 'The Man with the Red Face'?",
+"correct": "Laurent Garnier",
+"image": "https://static.ra.co/images/profiles/square/laurentgarnier.jpg?dateUpdated=1574086292000",
+"round": "R1",
+"Thema": "Muziek"
+},
+{
+"type": "open",
+"question": "Hoe heet de Belgische mijnramp in 1956 waarbij 262 mijnwerkers omkwamen in Marcinelle, Wallonië?",
+"correct": "Marcinelle",
+"image": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/Marcinelle_JPG4.jpg/330px-Marcinelle_JPG4.jpg",
+"round": "R1",
+"Thema": "Geschiedenis"
+},
+{
+"type": "open",
+"question": "Welke Belgische politicus was in 1946 minister van Buitenlandse Zaken en speelde een belangrijke rol bij de oprichting van de NAVO en de Europese Gemeenschap?",
+"correct": "Paul-Henri Spaak",
+"image": "https://upload.wikimedia.org/wikipedia/commons/6/6a/Bundesarchiv_Bild_183-39998-0427%2C_Paul-Henri_Spaak.jpg",
+"round": "R1",
+"Thema": "Politiek"
+},
+{
+"type": "open",
+"question": "Hoe heet het beroemde nationale park in Zuid-Afrika dat bekendstaat om zijn grote populatie wilde dieren, waaronder de Big Five?",
+"correct": "Kruger Nationaal Park",
+"image": "https://upload.wikimedia.org/wikipedia/commons/7/76/Kruger_Park_Zebra.jpg",
+"round": "R1",
+"Thema": "Natuur"
+},
+{
+"type": "open",
+"question": "Hoe heet de grote rivier die door China, India en Pakistan stroomt en de basis vormde voor een van de oudste beschavingen ter wereld?",
+"correct": "Indus",
+"image": "https://cdn.pixabay.com/photo/2018/12/06/06/16/zanskar-river-3859214_1280.jpg",
+"round": "R1",
+"Thema": "Geografie"
+},
+{
+"type": "open",
+"question": "Welk chemisch element met symbool Ir en atoomnummer 77 staat bekend om zijn extreme hardheid en weerstand tegen corrosie?",
+"correct": "Iridium",
+"image": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a8/Iridium-2.jpg/250px-Iridium-2.jpg",
+"round": "R1",
+"Thema": "Wetenschappen"
+},
+{
+"type": "open",
+"question": "Welke stad is de hoofdstad van de Amerikaanse staat Tennessee en staat bekend als het centrum van de countrymuziek?",
+"correct": "Nashville",
+"image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTe3ALIwYfkuUJ9sFC2jWR1rhT5ufA2ucEQug&s",
+"round": "R1",
+"Thema": "Geografie"
+},
+{
+"type": "open",
+"question": "Hoe heet de Belgische band en dj-duo uit Gent dat bekendstaat om hun eclectische mix van elektronische muziek en rock?",
+"correct": "Soulwax",
+"image": "https://cdn-images.dzcdn.net/images/artist/15e05cbdb30ab457226231c36b7a978d/1900x1900-000000-80-0-0.jpg",
+"round": "R1",
+"Thema": "Muziek"
+},
+{
+"type": "open",
+"question": "Hoe heet de Belgische eenmansband van Maarten Devoldere, ook bekend van de groep Balthazar?",
+"correct": "Warhaus",
+"image": "https://muziekgieterij.nl/wp-content/uploads/2025/01/warhaus.jpg",
+"round": "R1",
+"Thema": "Muziek"
+},
+{
+"type": "open",
+"question": "Hoe heet de voormalige luchthaven in Berlijn die tijdens de Koude Oorlog bekend werd door de luchtbrug en nu dienstdoet als groot openbaar park?",
+"correct": "Tempelhof",
+"image": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/FlughafenBerlinTempelhof1984.jpg/250px-FlughafenBerlinTempelhof1984.jpg",
+"round": "R1",
+"Thema": "Geografie"
+},
+{
+"type": "open",
+"question": "Welke giftige stof, aanwezig in bessen van de nachtschadeplant belladonna, kan het zenuwstelsel aantasten en wordt ook medisch gebruikt in kleine doses?",
+"correct": "Atropine",
+"image": "https://www.van-dingenen-over-planten.nl/img/108.%20Bes%20van%20wolfkers.jpg",
+"round": "R1",
+"Thema": "Wetenschappen"
+},
+{
+"type": "open",
+"question": "Hoe heet de Romeinse god van het vuur en de smeedkunst, vaak afgebeeld met een aambeeld en hamer?",
+"correct": "Vulcanus",
+"image": "https://historiek.net/wp-content/uploads-phistor1/2007/10/Vulcanus-Hephaestos-volgens-Rubens-1-e1453454505376.jpg",
+"round": "R1",
+"Thema": "Geschiedenis"
+},
+{
+"type": "open",
+"question": "Hoe heet de Franse krant die vooral bekendstaat om haar uitgebreide sportverslaggeving, met de nadruk op voetbal en wielrennen?",
+"correct": "L'Équipe",
+"image": "https://yt3.googleusercontent.com/ytc/AIdro_l26CqLwjVMwrn8H4IqpPax8qGSVsyW2bHF6tMlTrowZJSt=s900-c-k-c0x00ffffff-no-rj",
+"round": "R1",
+"Thema": "Sport"
+},
+{
+"type": "open",
+"question": "Welke groep van chemische stoffen in het lichaam werkt als natuurlijke pijnstiller en wordt vaak geassocieerd met een gevoel van geluk of euforie?",
+"correct": "Endorfine",
+"image": "https://www.vitakruid.nl/media/cache/overview_image_xl/media/image/7c/4f/bc11c04eff126fab9f07ff7ab97a.jpg",
+"round": "R1",
+"Thema": "Wetenschappen"
+},
+{
+"type": "open",
+"question": "Welke Midden-Amerikaanse staat grenst aan Mexico en Guatemala en heeft als hoofdstad Belmopan?",
+"correct": "Belize",
+"image": "https://upload.wikimedia.org/wikipedia/commons/e/e7/Flag_of_Belize.svg",
+"round": "R1",
+"Thema": "Geografie"
 }
 
 
