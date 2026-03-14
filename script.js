@@ -12,7 +12,8 @@ const QUIZZES = {
   "Natuurpunt": "quizzes/quiz-questions10.json",
   "TRIVIMI": "quizzes/quiz-questions11.json",
   "Quiz N-VA": "quizzes/quiz-questions12.json",
-  "Daatmet": "quizzes/quiz-questions13.json"
+  "Daatmet": "quizzes/quiz-questions13.json",
+  "BCAT": "quizzes/quiz-questions14.json"
 };
 
 let questions = [];

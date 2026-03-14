@@ -7895,8 +7895,249 @@
 "image": "https://upload.wikimedia.org/wikipedia/commons/e/e7/Flag_of_Belize.svg",
 "round": "R1",
 "Thema": "Geografie"
-}
+},
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+{
+  "type": "open",
+  "question": "Welke Amerikaanse rivier staat bekend onder de bijnaam 'Big Muddy'?",
+  "correct": "Missouri",
+  "image": "https://lh3.googleusercontent.com/proxy/mQPsTnQycaBCEv2CIecz0EUwayh3OL-n9lyYXKBk9pQrrJW9aukbaf5Da6HQo6UU_diBtsXjqzdt7y9_klS-RwywHMJ9kKJB",
+  "round": "R1",
+  "Thema": "Geografie"
+},
+{
+  "type": "open",
+  "question": "Hoe heet de grote rugspier die verantwoordelijk is voor het naar achter en naar beneden bewegen van de arm?",
+  "correct": "Musculus latissimus dorsi",
+  "image": "https://static.wixstatic.com/media/9d0db6_97d9289f39544eaa91d10f356db3c46d~mv2.png/v1/fill/w_568,h_524,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/9d0db6_97d9289f39544eaa91d10f356db3c46d~mv2.png",
+  "round": "R1",
+  "Thema": "Wetenschappen"
+},
+{
+  "type": "open",
+  "question": "Welke sociaal psycholoog voerde in de jaren 60 beroemde experimenten uit naar gehoorzaamheid aan autoriteit aan de Yale University?",
+  "correct": "Milgram",
+  "image": "https://behavioralscientistorg.b-cdn.net/wp-content/uploads/2018/07/Greenwood_MilgramRevisited_0718.png",
+  "round": "R1",
+  "Thema": "Wetenschappen"
+},
+{
+  "type": "open",
+  "question": "Hoe heet het studioalbum uit 1984 van Leonard Cohen waarop het nummer 'Hallelujah' voor het eerst verscheen?",
+  "correct": "Various Positions",
+  "image": "foto/Cohen.png",
+  "round": "R1",
+  "Thema": "Muziek"
+},
+{
+  "type": "open",
+  "question": "Welke Amerikaanse filmcomponist schreef de muziek voor films als Titanic, Braveheart en Avatar?",
+  "correct": "James Horner",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/9/9f/James-horner-07.jpg",
+  "round": "R1",
+  "Thema": "Shows & Films"
+},
+{
+  "type": "open",
+  "question": "Hoe heet de rivier die door Verviers stroomt en een zijrivier is van de Ourthe?",
+  "correct": "Vesder",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/b/bc/KaartVesder.jpg",
+  "round": "R1",
+  "Thema": "Geografie"
+},
+{
+  "type": "open",
+  "question": "Welke eerste plaag trof Egypte volgens het Bijbelverhaal uit het boek Exodus?",
+  "correct": "Water veranderde in bloed",
+  "image": "https://cms-imgp.jw-cdn.org/img/p/1102016030/univ/art/1102016030_univ_cnt_3_xl.jpg",
+  "round": "R1",
+  "Thema": "Geschiedenis"
+},
+{
+  "type": "open",
+  "question": "Hoe heet de chemische reactie tussen aminozuren en suikers die voedsel een bruine kleur en karakteristieke smaak geeft bij bakken of braden?",
+  "correct": "Maillard-reactie",
+  "image": "https://groentegroente.nl/wp-content/uploads/Spek-1-698.jpg",
+  "round": "R1",
+  "Thema": "Gastronomie"
+},
+{
+  "type": "open",
+  "question": "Wat is de hoofdstad van Liberia?",
+  "correct": "Monrovia",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b8/Flag_of_Liberia.svg/1280px-Flag_of_Liberia.svg.png",
+  "round": "R1",
+  "Thema": "Geografie"
+},
+{
+  "type": "open",
+  "question": "Welke gitaaraccessoire verandert het geluid door het frequentiespectrum te moduleren en wordt vaak gebruikt voor expressieve effecten?",
+  "correct": "Wah Wah Pedal",
+  "image": "https://m.media-amazon.com/images/I/51zF4pYPmzL._AC_UF1000,1000_QL80_.jpg",
+  "round": "R1",
+  "Thema": "Muziek"
+},
+{
+  "type": "open",
+  "question": "Naar welke Belgische pionier in de luchtvaart is het metrostation in Brussel vernoemd?",
+  "correct": "Thieffry",
+  "image": "https://usercontent.one/wp/www.hangarflying.eu/wp-content/uploads/elementor/thumbs/201901TH-2-ocqdxqbcndji1o1mf5n34yiovs379fuht5jyjv2b0g.jpg?media=1769209332",
+  "round": "R1",
+  "Thema": "Geschiedenis"
+},
+{
+  "type": "open",
+  "question": "Welk discohitnummer uit 1978 werd gezongen door Donna Summer en won een Academy Award voor Beste Originele Nummer?",
+  "correct": "Last Dance",
+  "image": "https://i.ytimg.com/vi/cd7eNPx5kjk/maxresdefault.jpg",
+  "round": "R1",
+  "Thema": "Muziek"
+},
+{
+  "type": "open",
+  "question": "Welke rivier stroomt van het Meer van Galilea naar de Dode Zee en vormt een belangrijke geografische grens in het Midden-Oosten?",
+  "correct": "Jordaan",
+  "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/07/23/f2/68/jordaan-amsterdam.jpg?w=900&h=500&s=1",
+  "round": "R1",
+  "Thema": "Geografie"
+},
+{
+  "type": "open",
+  "question": "Hoe heet de grote wespensoort die bekendstaat om zijn harde angel en bedreiging voor bijenkolonies?",
+  "correct": "Europese hoornaar",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/3/3b/Vespa_crabro_80708_edited.jpg",
+  "round": "R1",
+  "Thema": "Natuur"
+},
+{
+  "type": "open",
+  "question": "Hoe heet een groep everzwijnen?",
+  "correct": "Rotte",
+  "image": "https://www.natuurpunt.be/sites/default/files/styles/full/public/2023-06/Everzwijn_rotte_1253589994_Shutterstock.jpg?itok=HZd_949t",
+  "round": "R1",
+  "Thema": "Natuur"
+},
+{
+  "type": "open",
+  "question": "Welke stijlfiguur verbindt twee of meer woorden in een zin, terwijl ze grammaticaal of betekenisvol slechts op één van die woorden van toepassing zijn?",
+  "correct": "Zeugma",
+  "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRF1R2HqKAGvOig374zdF_Z-sDyWIl-0svNSA&s",
+  "round": "R1",
+  "Thema": "Taal"
+},
+{
+  "type": "open",
+  "question": "Welke Franse natuurkundige ontdekte radioactiviteit en gaf zijn naam aan de eenheid van radioactieve activiteit?",
+  "correct": "Henri Becquerel",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/a/a3/Henri_Becquerel.jpg",
+  "round": "R1",
+  "Thema": "Wetenschappen"
+},
+{
+  "type": "open",
+  "question": "Welke architect ontwierp het beroemde Guggenheim Museum in Bilbao, Spanje?",
+  "correct": "Frank Gehry",
+  "image": "https://static01.nyt.com/images/2025/12/04/obituaries/00gehry_cine_2_grab/00gehry_cine_2_grab-jumbo.png",
+  "round": "R1",
+  "Thema": "Kunst"
+},
+{
+  "type": "open",
+  "question": "Hoe heet de Mona Lisa in het Italiaans?",
+  "correct": "La Gioconda",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Mona_Lisa%2C_by_Leonardo_da_Vinci%2C_from_C2RMF_retouched.jpg/960px-Mona_Lisa%2C_by_Leonardo_da_Vinci%2C_from_C2RMF_retouched.jpg",
+  "round": "R1",
+  "Thema": "Kunst"
+},
+{
+  "type": "open",
+  "question": "Welke brillenontwerper ontwierp het opvallende montuur dat vaak gedragen wordt door de Franse president Emmanuel Macron?",
+  "correct": "Henry Julien",
+  "image": "https://ivisiontech.eu/wp-content/uploads/2026/01/macron.jpeg",
+  "round": "R1",
+  "Thema": "Cultuur"
+},
+{
+  "type": "open",
+  "question": "Welk protestlied werd geschreven door Bruce Springsteen naar aanleiding van de gebeurtenissen in Minneapolis en bekritiseert politiegeweld en racisme?",
+  "correct": "Streets Of Minneapolis",
+  "image": "https://www.thisdayinmusic.com/wp-content/uploads/1949/09/Bruce-Springsteen-GettyImages-75504097.webp",
+  "round": "R1",
+  "Thema": "Muziek"
+},
+{
+  "type": "open",
+  "question": "Welke Nederlandse stad staat bekend om zijn historische binnenstad en een grote technische universiteit?",
+  "correct": "Delft",
+  "image": "https://www.amsterdam.net/en/wp-content/uploads/sites/136/delft-hd.jpg",
+  "round": "R1",
+  "Thema": "Geografie"
+},
+{
+  "type": "open",
+  "question": "Hoe noemt men een obligatie met een hoge rente en een hoog risico op wanbetaling?",
+  "correct": "Junk Bond",
+  "image": "foto/Junk.png",
+  "round": "R1",
+  "Thema": "Politiek"
+},
+{
+  "type": "open",
+  "question": "Welk restaurant werd geopend door de Belgische chef Piet Huysentruyt en staat bekend om zijn creatieve keuken?",
+  "correct": "Likoké",
+  "image": "https://www.be-gusto.be/wp-content/uploads/2013/08/9457555906_02b44b10a0.jpg",
+  "round": "R1",
+  "Thema": "Gastronomie"
+},
+{
+  "type": "open",
+  "question": "Welk festival in België staat bekend om zijn focus op hiphop, rap en urban cultuur, en brengt jaarlijks jonge artiesten samen?",
+  "correct": "Drip Festival",
+  "image": "foto/DRIP.png",
+  "round": "R1",
+  "Thema": "Muziek"
+}
 
 
   ]
