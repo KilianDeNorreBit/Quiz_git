@@ -8137,6 +8137,238 @@
   "image": "foto/DRIP.png",
   "round": "R1",
   "Thema": "Muziek"
+},
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+{
+"type": "open",
+"question": "Hoe heet de iconische wolkenkrabber in die jarenlang tot de hoogste gebouwen ter wereld behoorde?",
+"correct": "Taipei 101",
+"image": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/Taipei_101_from_Xiangshan_20250905.jpg/250px-Taipei_101_from_Xiangshan_20250905.jpg",
+"round": "R1",
+"Thema": "Geografie"
+},
+{
+"type": "open",
+"question": "Hoe heet de luxe boot van Gert Verhulst?",
+"correct": "Evanna",
+"image": "https://images.hln.be/NjM2NTZlZTIzYmFhMmNkYWRhMzMvZGlvLzEwMTA2NzUyNC9maWxsLzEzNTEvOTAw/de-boot-van-gert-verhulst-evanna-staat-te-koop-voor-1-6-miljoen",
+"round": "R1",
+"Thema": "Cultuur"
+},
+{
+"type": "open",
+"question": "Welke Vlaamse schrijver schreef De Leeuw van Vlaenderen?",
+"correct": "Hendrik Conscience",
+"image": "foto/De_Leeuw_van_Vlaanderen.png",
+"round": "R1",
+"Thema": "Geschiedenis"
+},
+{
+"type": "open",
+"question": "Hoe heet de wijk in Parijs, het staat bekend om zijn studentenwijk waar al in de 14e eeuw studenten uit alle delen van de wereld naartoe trokken ?",
+"correct": "Quartier Latin",
+"image": "https://citytripparijs.eu/wp-content/uploads/2017/03/quartier-latin-parijs.jpg",
+"round": "R1",
+"Thema": "Geografie"
+},
+{
+  "type": "open",
+  "question": "Hoe heet de Amerikaanse actrice en talkshowhost, echtgenote van Will Smith?",
+  "correct": "Jada Pinkett Smith",
+  "image": "https://imagenes.elpais.com/resizer/v2/JX655AQZCFC5FKGE3LNF2MGMWI.jpg?auth=16987f52185a19a568f2b1a3869c0ac716a3ff334f714dc8aeb54dbea4cf59ce&width=1960&height=1470&focal=2336%2C577",
+  "round": "R1",
+  "Thema": "Shows & Films"
+},
+{
+  "type": "open",
+  "question": "Hoe heet de mascotte van VTM?",
+  "correct": "Amedee",
+  "image": "https://images.hln.be/OTdjMGYzMWY0YmIxNjA1YzY0NDMvZGlvLzE0MTg3NzIxMy9maWxsLzEzODMvOTAw/amedee-de-mascotte-van-vtm",
+  "round": "R1",
+  "Thema": "Cultuur"
+},
+
+{
+  "type": "open",
+  "question": "Hoe heet de voormalige Belgische bankinstelling die later onderdeel werd van KBC?",
+  "correct": "Kredietbank",
+  "image": "foto/Kredietbank.jpg",
+  "round": "R1",
+  "Thema": "Geschiedenis"
+},
+{
+  "type": "open",
+  "question": "Wat is de munteenheid van Liechtenstein?",
+  "correct": "Zwitserse frank",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/Flag_of_Liechtenstein.svg/1280px-Flag_of_Liechtenstein.svg.png",
+  "round": "R1",
+  "Thema": "Geografie"
+},
+{
+  "type": "open",
+  "question": "Hoe heet het sportieve model van Volkswagen dat in verschillende generaties werd uitgebracht en bekendstaat als coupé?",
+  "correct": "Volkswagen Scirocco",
+  "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSjVXJYi0TBfc35bswUUYyX__93z3svDdsJKw&s",
+  "round": "R1",
+  "Thema": "Cultuur"
+},
+{
+  "type": "open",
+  "question": "In welke Belgische gemeente vindt jaarlijks een pompoenrace plaats?",
+  "correct": "Kasterlee",
+  "image": "https://www.bedrijfsprofiel.be/images-nieuws/ons-pompoenzaad-is-een-begrip-in-de-hele-wereld16959954927926.jpg",
+  "round": "R1",
+  "Thema": "Cultuur"
+},
+{
+  "type": "open",
+  "question": "Hoe heet de film over het Jamaicaanse bobsleeteam op de Olympische Winterspelen?",
+  "correct": "Cool Runnings",
+  "image": "https://i.guim.co.uk/img/media/e9eb5cbf391f4a2c969839153fea1db5aad905fc/0_0_1746_1184/master/1746.jpg?width=465&dpr=1&s=none&crop=none",
+  "round": "R1",
+  "Thema": "Shows & Films"
+},
+{
+  "type": "open",
+  "question": "Welke Belgische chef-kok staat bekend als een specialist in grillen en barbecue?",
+  "correct": "Peter De Clercq",
+  "image": "https://peterdeclercq.be/wp-content/uploads/2022/07/https___static.nieuwsblad.be_Assets_Images_Upload_2022_07_13_69772ea0-d74a-41fb-867a-d59ed92eaa96-e1667644222459.jpg",
+  "round": "R1",
+  "Thema": "Gastronomie"
+},
+{
+  "type": "open",
+  "question": "Hoe heet de bekende feestzaal van Eddy Wally?",
+  "correct": "Paris Las Vegas",
+  "image": "https://images.hln.be/ZmFiMWYwNGE5MWI0MDA1MTQ5YjQvZGlvLzc1MzEyNDI0L2ZpbGwvMTYwMC83NjE/eddy-wally-in-de-jaren-60-op-een-van-de-optredens-in-zijn-nokvolle-feestzaal-paris-las-vegas",
+  "round": "R1",
+  "Thema": "Shows & Films"
+},
+{
+  "type": "open",
+  "question": "Hoe heet het beroemde racecircuit in Engeland waar de Formule 1 Grand Prix van Groot-Brittannië wordt verreden?",
+  "correct": "Silverstone",
+  "image": "https://static01.nyt.com/images/2019/07/13/sports/13sp-silverstone-inyt1/merlin_157516356_009c6be7-3977-4ad6-b4bc-52d2addf96e1-superJumbo.jpg",
+  "round": "R1",
+  "Thema": "Sport"
+},
+{
+  "type": "open",
+  "question": "Hoe heet de Vlaamse televisieshow van Bart De Pauw waarin hij blikt op zijn juridische problemen, carrière en donkere dagen?",
+  "correct": "Het uur van de olifant",
+  "image": "https://images4.persgroep.net/rcs/I-NZH_ycE0ED8jqwNA7jIfHvUGc/diocontent/266769076/_fitwidth/1400?appId=038a353bad43ac27fd436dc5419c256b&quality=0.8",
+  "round": "R1",
+  "Thema": "Shows & Films"
+},
+{
+  "type": "open",
+  "question": "Hoe heet de Australische luchtvaartmaatschappij die vaak de bijnaam 'The Flying Kangaroo' draagt?",
+  "correct": "Qantas",
+  "image": "https://www.qantas.com/dynamic-assets/assets/urn:aaid:aem:de417b06-65dd-4879-83a1-3022b8982362/as/qantas-plane-tail-kangaroo-flight-travel-credit-airline.avif?format=avif&qiv=161025",
+  "round": "R1",
+  "Thema": "Natuur"
+},
+{
+  "type": "open",
+  "question": "Hoe heet het hondenras dat afkomstig is uit Frankrijk en bekendstaat als een grote, gespierde waakhond?",
+  "correct": "Bordeauxdog",
+  "image": "https://cdn.wamiz.fr/cdn-cgi/image/format=auto,quality=80,width=1200,height=675,fit=cover/animal/breed/dog/adult/670e8572e273a150088100.jpg",
+  "round": "R1",
+  "Thema": "Natuur"
+},
+{
+  "type": "open",
+  "question": "Hoe heet het handelsverdrag tussen verschillende Zuid-Amerikaanse landen dat onder meer de landbouwhandel regelt?",
+  "correct": "Mercosur",
+  "image": "https://images.vrt.be/vrtnws_web/2025/12/18/41e98557-6f17-46f3-9512-9755902aabba.jpg?width=900&height=506",
+  "round": "R1",
+  "Thema": "Politiek"
+},
+{
+  "type": "open",
+  "question": "Voor welk automerk rijdt rallypiloot Thierry Neuville in het Wereldkampioenschap Rally?",
+  "correct": "Hyundai",
+  "image": "https://cdn-7.motorsport.com/images/amp/Y99DQwAY/s1000/thierry-neuville-martijn-wydae.jpg",
+  "round": "R1",
+  "Thema": "Sport"
+},
+{
+  "type": "open",
+  "question": "Hoe heet het winnende restaurant in Leuven van het programma 'Mijn Pop-uprestaurant'?",
+  "correct": "Lucia",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/ba/Mijn_pop-uprestaurant_Buff_%28edited%29.jpg/250px-Mijn_pop-uprestaurant_Buff_%28edited%29.jpg",
+  "round": "R1",
+  "Thema": "Gastronomie"
+},
+{
+  "type": "open",
+  "question": "Hoe heet de wijk in Amsterdam waar in 1992 een grote vliegramp plaatsvond met een vrachtvliegtuig?",
+  "correct": "Bijlmer",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/f/f6/Bijlmerramp2_without_link.jpg",
+  "round": "R1",
+  "Thema": "Geschiedenis"
+},
+{
+  "type": "open",
+  "question": "Hoe heet het populaire bordspel en speelgoed uit de jaren 90 waarbij je via een telefoon aanwijzingen krijgt over een geheime crush?",
+  "correct": "Droomtelefoon",
+  "image": "foto/Droomtelefoon.jpg",
+  "round": "R1",
+  "Thema": "Cultuur"
+},
+{
+  "type": "open",
+  "question": "Hoe heet de bekende winkelstraat en voetgangerszone in het centrum van Rotterdam?",
+  "correct": "Lijnbaan",
+  "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSDr8Y65zwZkkoNj9IeL1Xp3Df6NdEOdAsz0A&s",
+  "round": "R1",
+  "Thema": "Geografie"
+},
+{
+  "type": "open",
+  "question": "Wie wordt gezien als de uitvinder van de eerste thermoscoop, de voorloper van de thermometer?",
+  "correct": "Galileo Galilei",
+  "image": "https://www.carolina.com/images/product/large/745509A.jpg",
+  "round": "R1",
+  "Thema": "Wetenschappen"
+},
+{
+  "type": "open",
+  "question": "Hoe heet een grote oude begraafplaats die vaak wordt aangeduid als een stad van de doden?",
+  "correct": "Necropolis",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/8/81/Glasgow_Necropolis_-_aerial_-_2025-04-17_01.jpg",
+  "round": "R1",
+  "Thema": "Geschiedenis"
 }
 
 
