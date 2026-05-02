@@ -1,0 +1,120 @@
+{
+  "questions": [
+{
+"type": "open",
+"question": "Welke Franse kunstenaar veroorzaakte opschudding met een urinoir als kunstwerk uit 1917?",
+"correct": "Marcel Duchamp",
+"image": "https://upload.wikimedia.org/wikipedia/commons/c/ce/Marcel_Duchamp.jpg",
+"round": "R1",
+"Thema": "Kunst"
+},
+{
+"type": "open",
+"question": "Welke Vlaamse primitief schilderde een beroemd zelfportret met een opvallende rode hoofdbedekking?",
+"correct": "Jan van Eyck",
+"image": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/Portrait_of_a_Man_by_Jan_van_Eyck.jpg/330px-Portrait_of_a_Man_by_Jan_van_Eyck.jpg",
+"round": "R1",
+"Thema": "Kunst"
+},
+{
+"type": "open",
+"question": "Welke Catalaanse kunstenaar staat bekend om zijn speelse, abstracte vormen en kleurrijke, surrealistische composities?",
+"correct": "Joan Miró",
+"image": "https://d1ee3oaj5b5ueh.cloudfront.net/thumbs/1440xAUTO_processed_article_2023_08_3f9855f3-762d-40e6-bb11-56a49185882a-banner-master.jpg",
+"round": "R1",
+"Thema": "Kunst"
+},
+{
+"type": "open",
+"question": "Hoe heet de beruchte benzodiazepine die vaak in verband wordt gebracht met verdovende effecten en misbruik in het uitgaansleven?",
+"correct": "Rohypnol",
+"image": "https://www.dea.gov/sites/default/files/styles/large/public/2023-04/Rohypnol_aka_roofies4%20copy.jpg?h=9cbe1644&itok=ufydGaZH",
+"round": "R1",
+"Thema": "Wetenschappen"
+},
+{
+"type": "open",
+"question": "Welke held uit de Griekse mythologie moest twaalf bijna onmogelijke werken volbrengen als straf?",
+"correct": "Hercules",
+"image": "https://cdn.britannica.com/48/135348-050-D07319BE/Statue-Hercules-marble-ce-Roman-New-York.jpg",
+"round": "R1",
+"Thema": "Geschiedenis"
+},
+{
+"type": "open",
+"question": "Hoe heet een ondeugend mythisch wezen uit de Germaanse folklore dat vaak in huizen of mijnen rondzwerft?",
+"correct": "Kobold",
+"image": "https://upload.wikimedia.org/wikipedia/commons/7/7f/Kobold_artlibre_jnl.jpg",
+"round": "R1",
+"Thema": "Cultuur"
+},
+{
+"type": "open",
+"question": "Hoe heet de langlopende Amerikaanse soapserie rond de familie Forrester en hun mode-imperium?",
+"correct": "The Bold and the Beautiful",
+"image": "https://wwwimage-tve.cbsstatic.com/thumbnails/photos/w1920-q80/marquee/1042361/48/74/92/asset_marquee_52a064d8-9839-4f82-aa9c-748ebba9b3b3.jpg",
+"round": "R1",
+"Thema": "Shows & Films"
+},
+{
+"type": "open",
+"question": "Hoe heette de elite-infanterie van het Ottomaanse Rijk die bestond uit gerekruteerde en opgeleide jongens uit veroverde gebieden?",
+"correct": "Janitsaren",
+"image": "https://upload.wikimedia.org/wikipedia/commons/c/c3/Battle_of_Vienna.SultanMurads_with_janissaries.jpg",
+"round": "R1",
+"Thema": "Geschiedenis"
+},
+{
+"type": "open",
+"question": "Hoe heet de medische screening bij pasgeborenen om erfelijke aandoeningen op te sporen?",
+"correct": "Hielprik",
+"image": "https://verloskundigenwaterlandoost.nl/wp-content/uploads/2023/08/6-2.jpg",
+"round": "R1",
+"Thema": "Wetenschappen"
+},
+{
+"type": "open",
+"question": "Welke internationale landcode wordt gebruikt voor Oostenrijk op voertuigen en in het verkeer?",
+"correct": "A",
+"image": "https://wegenvignetten.nl/uploads/userfiles/images/met-de-auto-door-oostenrijk.jpg",
+"round": "R1",
+"Thema": "Geografie"
+},
+{
+"type": "open",
+"question": "Welke Zuid-Amerikaanse vrijheidsstrijder gaf zijn naam aan landen, valuta en monumenten in verschillende Latijns-Amerikaanse staten?",
+"correct": "Simón Bolívar",
+"image": "https://redhistoria.com/wp-content/uploads/2013/02/biografia-simon-bolivar.png",
+"round": "R1",
+"Thema": "Geschiedenis"
+},
+{
+"type": "open",
+"question": "Hoe heet het Zweedse kinderboekpersonage dat op de rug van een gans door Zweden reist?",
+"correct": "Nils Holgersson",
+"image": "https://images.justwatch.com/backdrop/279082058/s640/nils-holgersson.jpg",
+"round": "R1",
+"Thema": "Boeken & Strips"
+},
+{
+"type": "open",
+"question": "Hoe heet de klassieke Franse saus op basis van hollandaisesaus, luchtig gemaakt met opgeklopte room?",
+"correct": "Mousselinesaus",
+"image": "https://nl.petitchef.com/imgupl/recipe/mousselinesaus--lg-471188p761304.webp",
+"round": "R1",
+"Thema": "Gastronomie"
+},
+{
+"type": "open",
+"question": "Welke Belgische basketbalspeler zie je hier?",
+"correct": "Sam Daelemans",
+"image": "https://www.proballers.com/media/cache/torso_player/https---www.proballers.com/ul/player/1-1ecffbf7-bc9a-6a08-9c90-3508eed94a59.jpg",
+"round": "R1",
+"Thema": "Sport"
+}
+
+
+
+
+  ]
+}
