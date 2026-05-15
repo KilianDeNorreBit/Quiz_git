@@ -111,10 +111,87 @@
 "image": "https://www.proballers.com/media/cache/torso_player/https---www.proballers.com/ul/player/1-1ecffbf7-bc9a-6a08-9c90-3508eed94a59.jpg",
 "round": "R1",
 "Thema": "Sport"
+},
+{
+  "type": "open",
+  "question": "Waarvoor staat de Amerikaanse afkorting 'DOGE' binnen de overheid?",
+  "correct": "Department of Government Efficiency",
+  "image": "https://cdn.britannica.com/76/269476-050-7057997C/elon-musk-donald-trump-oval-office-white-house-february-11-2025-DOGE-department-of-goverment-efficiency.jpg",
+  "round": "R1",
+  "Thema": "Politiek"
+},
+{
+  "type": "open",
+  "question": "Hoe heet de Belgische short-track speed skating team?",
+  "correct": "Belgian Ice Bears",
+  "image": "https://images.vrt.be/width960/2026/02/10/b45b66ce-d193-4024-9f18-45c0504aaf39.jpg",
+  "round": "R1",
+  "Thema": "Sport"
+},
+{
+  "type": "open",
+  "question": "Welke Italiaanse actrice werd een internationaal filmicoon in de jaren 60 en speelde in films zoals 'Il Gattopardo'?",
+  "correct": "Claudia Cardinale",
+  "image": "https://images.nu.nl/m/fi0xn8waapct_wd1280/1/0/1023/576/italiaanse-actrice-claudia-cardinale-op-87-jarige-leeftijd-overleden.jpg",
+  "round": "R1",
+  "Thema": "Shows & Films"
+},
+{
+  "type": "open",
+  "question": "Welke Britse supermodel werd wereldwijd beroemd in de jaren 90 en werd het gezicht van de 'heroin chic' trend?",
+  "correct": "Kate Moss",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/8/8b/11_-_Kate_Moss-001_%2816510685424%29.jpg",
+  "round": "R1",
+  "Thema": "Cultuur"
+},
+{
+  "type": "open",
+  "question": "Welke Belgische crimineel werd in de jaren 80 berucht door de ontvoering van oud-premier Paul Vanden Boeynants?",
+  "correct": "Patrick Haemers",
+  "image": "https://www.woestijnvis.be/uploads/production/_720x300_fit_center-center_80/debendehaemers_banner.jpg",
+  "round": "R1",
+  "Thema": "Geschiedenis"
+},
+{
+  "type": "open",
+  "question": "Hoe werd de middeleeuwse rechtbank genoemd die in de Lage Landen vaak in open lucht recht sprak en onder een baldakijn zetelde?",
+  "correct": "Vierschaar",
+  "image": "https://www.antwerpenmorgen.be/files/download/dcbe1483-6991-4512-9a59-f0320226adf5",
+  "round": "R1",
+  "Thema": "Geschiedenis"
+},
+{
+  "type": "open",
+  "question": "Welke ontdekkingsreiziger sprak de beroemde woorden 'Dr. Livingstone, I presume?' toen hij David Livingstone in Afrika ontmoette?",
+  "correct": "Henry Morton Stanley",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/d/df/Henry_Morton_Stanley_1.jpg?utm_source=nl.wikiquote.org&utm_campaign=index&utm_content=original",
+  "round": "R1",
+  "Thema": "Geschiedenis"
+},
+{
+  "type": "open",
+  "question": "Welke Nederlandse schilder uit de late middeleeuwen staat bekend om zijn fantasierijke en duistere taferelen zoals 'De Tuin der Lusten'?",
+  "correct": "Jheronimus Bosch",
+  "image": "https://www.meisterdrucke.be/kunstwerke/300px/Hieronymus_Bosch_-_The_Garden_of_Earthly_Delights_1500s_-_(MeisterDrucke-1149895).jpg",
+  "round": "R1",
+  "Thema": "Kunst"
+},
+{
+  "type": "open",
+  "question": "Welke Belgische wielrenner won onder meer Strade Bianche en rijdt voor Team Visma | Lease a Bike?",
+  "correct": "Tiesj Benoot",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/d/d3/Tiesj_Benoot_%282023%29.jpg?utm_source=nl.wikipedia.org&utm_campaign=index&utm_content=original",
+  "round": "R1",
+  "Thema": "Sport"
+},
+{
+  "type": "open",
+  "question": "Welke Belgische comedy- en muziekgroep staat bekend om absurde en vaak platvloerse Nederlandstalige liedjes zoals 'pakt je zak'?",
+  "correct": "Preuteleute",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/c/c1/Preuteleute_2019.jpg",
+  "round": "R1",
+  "Thema": "Muziek"
 }
-
-
-
 
   ]
 }
