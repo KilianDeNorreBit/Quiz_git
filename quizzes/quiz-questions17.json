@@ -1,0 +1,172 @@
+{
+  "questions": [
+{
+  "type": "open",
+  "question": "Wie is sinds 2017 de secretaris-generaal van de Verenigde Naties?",
+  "correct": "António Guterres",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/1/15/U.N._Secretary_General_Antonio_Guterres_%283x4_cropped_b%29.jpg",
+  "round": "R1",
+  "Thema": "Politiek"
+},
+{
+  "type": "open",
+  "question": "Welke Amerikaanse staat is qua oppervlakte de kleinste van het land?",
+  "correct": "Rhode Island",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/69/Rhode_Island_in_United_States_%28zoom%29.svg/1280px-Rhode_Island_in_United_States_%28zoom%29.svg.png",
+  "round": "R1",
+  "Thema": "Geografie"
+},
+{
+  "type": "open",
+  "question": "Welke Vlaamse komiek vormde samen met Leo Martin een bekend komisch duo?",
+  "correct": "Gaston Berghmans",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/9/95/Gaston_Berghmans_1997_mh.jpg",
+  "round": "R1",
+  "Thema": "Shows & Films"
+},
+{
+  "type": "open",
+  "question": "Welke stripreeks gaat over een pratende hond die samen met zijn baasje in Frankrijk beleeft?",
+  "correct": "Dommel",
+  "image": "https://ec4t3nms2zc.exactdn.com/wp-content/uploads/2025/08/dommel-kattern.png",
+  "round": "R1",
+  "Thema": "Boeken & Strips"
+},
+{
+  "type": "open",
+  "question": "Welke Italiaanse vulkaan op de Eolische eilanden staat bekend om zijn bijna voortdurende activiteit?",
+  "correct": "Stromboli",
+  "image": "https://www.naturescanner.nl/media/726-stromboli/large/50x50/726-stromboli.jpg",
+  "round": "R1",
+  "Thema": "Natuur"
+},
+{
+  "type": "open",
+  "question": "Welke Belgische schoonheidskoningin werd in 2018 gekroond tot Miss België en vertegenwoordigde ons land internationaal?",
+  "correct": "Angeline Flor Pua",
+  "image": "https://images.hln.be/ZGlvLzExNzM5MTE4Ny9mb2N1cy1hbmQtZmlsbC8wLjUvMC41LzEyMDAvMTIwMA/candidate-angeline-flor-pua-celebrates-on-the-podium-after-winning-the-miss-belgium-2018-beauty-contest-in-the-plopsa-theater-friday-12-january-2018-in-de-panne-belga-photo-laurie-dieffembacq",
+  "round": "R1",
+  "Thema": "Cultuur"
+},
+{
+  "type": "open",
+  "question": "Hoe heet de Antwerpse cinema die vernoemd is naar de pioniers van de filmgeschiedenis?",
+  "correct": "Lumière",
+  "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSspG7t3SroWY1_utDEJ47ekjARRWdbImY6vyyqQ6RbnmFXfd-Nn8u3Isk&s=10",
+  "round": "R1",
+  "Thema": "Shows & Films"
+},
+{
+  "type": "open",
+  "question": "Welke roman van Nick Cave vertelt het verhaal van een vertegenwoordiger die na het overlijden van zijn vrouw met zijn zoon op pad gaat?",
+  "correct": "The Death of Bunny Munro",
+  "image": "foto/the-death-of-bunny-munro.png",
+  "round": "R1",
+  "Thema": "Boeken & Strips"
+},
+{
+  "type": "open",
+  "question": "Welke Franse postorderfirma was bekend om haar catalogi met kleding en huishoudartikelen?",
+  "correct": "3 Suisses",
+  "image": "https://www.3suisses.fr/media/tile/3-suisses/14377/hp-mobile-3s-mode-soldes-d4.png",
+  "round": "R1",
+  "Thema": "Cultuur"
+},
+{
+  "type": "open",
+  "question": "Welke Franse kaas uit Normandië is een van de oudste bekende kazen van Frankrijk en heeft vaak een hartvorm?",
+  "correct": "Neufchâtel",
+  "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQtuIWB5DQxz3HyU-G-J1UfDvNVWygMSHp2-7m8Xra0pQ&s=10",
+  "round": "R1",
+  "Thema": "Gastronomie"
+},
+{
+  "type": "open",
+  "question": "Welke Belgische zangeres en songwriter won De Nieuwe Lichting van Studio Brussel en staat bekend om nummers zoals 'Beautiful Pain'?",
+  "correct": "Tessa Dixson",
+  "image": "https://d12xfkzf9kx8ij.cloudfront.net/a0K5J000000afOKUAY_700x700.jpg",
+  "round": "R1",
+  "Thema": "Muziek"
+},
+{
+  "type": "open",
+  "question": "Welke Belgische verzekeraar is bekend om autoverzekeringen en werd opgericht in Limburg?",
+  "correct": "Corona Direct",
+  "image": "https://s3.eu-west-3.amazonaws.com/pub.be/2017/01/Corona-Kunstmaan-abri-1-1024x1024.jpg",
+  "round": "R1",
+  "Thema": "Cultuur"
+},
+{
+  "type": "open",
+  "question": "Welk Nederlands biermerk werd genoemd naar de rivier waaraan de brouwerij in Amsterdam gevestigd was?",
+  "correct": "Amstel",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/Amsterdam_Amstel_20041105.jpg/330px-Amsterdam_Amstel_20041105.jpg",
+  "round": "R1",
+  "Thema": "Gastronomie"
+},
+{
+  "type": "open",
+  "question": "Welke Belgische kruidenlikeur uit Antwerpen wordt gemaakt volgens een geheim recept met verschillende kruiden?",
+  "correct": "Elixir d'Anvers",
+  "image": "foto/elixer.png",
+  "round": "R1",
+  "Thema": "Gastronomie"
+},
+{
+  "type": "open",
+  "question": "Welke Belgische snowboarder won meerdere wereldbekerwedstrijden en nam deel aan de Olympische Winterspelen?",
+  "correct": "Sam Maes",
+  "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSW2XF_VUVOMscmE2wkk-tzNGj31zTGdaZpfZyx6sUHLWuHmiv0LKINtBk&s=10",
+  "round": "R1",
+  "Thema": "Sport"
+},
+{
+  "type": "open",
+  "question": "Welke Amerikaanse fotograaf maakte de beroemde foto van het Afghaanse meisje met de groene ogen die op de cover van National Geographic verscheen?",
+  "correct": "Steve McCurry",
+  "image": "https://focusmagazine.nl/wp-content/uploads/2025/04/Sharbat-Gula-Afghan-Girl-1984-2.jpg",
+  "round": "R1",
+  "Thema": "Kunst"
+},
+{
+  "type": "open",
+  "question": "Hoe heet in de Griekse mythologie de diepe onderwereld waar de zwaarste gestraften verblijven?",
+  "correct": "Tartarus",
+  "image": "https://www.greeklegendsandmyths.com/uploads/5/3/1/3/53133595/4869440_orig.jpg",
+  "round": "R1",
+  "Thema": "Geschiedenis"
+},
+{
+  "type": "open",
+  "question": "Welke film uit 1988 met Tom Cruise gaat over een jonge barman die succes probeert te vinden in de cocktailwereld?",
+  "correct": "Cocktail",
+  "image": "https://m.media-amazon.com/images/M/MV5BMjM5NzUxMjExNV5BMl5BanBnXkFtZTgwMTY1NjQ1MjI@._V1_.jpg",
+  "round": "R1",
+  "Thema": "Shows & Films"
+},
+{
+  "type": "open",
+  "question": "Welke Australische zanger is bekend van de hit 'Black and Gold' uit 2008?",
+  "correct": "Sam Sparro",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/8/88/Sam_Sparro_in_November_2012_%28cropped_2%29.jpg",
+  "round": "R1",
+  "Thema": "Muziek"
+},
+{
+  "type": "open",
+  "question": "Welke Ierse filosoof en politicus uit de 18e eeuw schreef over het sublieme en bekritiseerde de Franse Revolutie?",
+  "correct": "Edmund Burke",
+  "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTIXDSP0veSzYp-sgORjyGtCgQBkiw4m5M9mMzYQO5MKf_zOS-AhC1kpB8&s=10",
+  "round": "R1",
+  "Thema": "Wetenschappen"
+},
+{
+  "type": "open",
+  "question": "Welke Belgische politicoloog en professor aan de Universiteit Gent is bekend als politiek analist in de media?",
+  "correct": "Carl Devos",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/d/de/Carldevos675.jpg",
+  "round": "R1",
+  "Thema": "Politiek"
+}
+  ]
+}
