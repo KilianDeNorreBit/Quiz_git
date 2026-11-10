@@ -1,0 +1,220 @@
+{
+  "questions": [
+{
+  "type": "open",
+  "question": "Welk virus wordt voornamelijk overgedragen via contact met uitwerpselen, urine of speeksel van besmette knaagdieren?",
+  "correct": "Hantavirus",
+  "image": "https://image.gezondheid.be/XTRA/Getty_hantavirus_hantavirose_HFRS_2026.jpg",
+  "round": "R1",
+  "Thema": "Wetenschappen"
+},
+{
+  "type": "open",
+  "question": "Welke kat kreeg veel aandacht op sociale media nadat haar baasjes een oproep lanceerden om haar terug te vinden na haar mysterieuze verdwijning?",
+  "correct": "Mishu",
+  "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRLsng_cib-eeAYUNuA2IQ--SDYinD_QSE1F55RIZ8-LiFABRwnFlucI_9H&s=10",
+  "round": "R1",
+  "Thema": "Natuur"
+},
+{
+  "type": "open",
+  "question": "Welke Duitse AfD-politicus uit Saksen-Anhalt werd bekend als fractievoorzitter in het deelstaatparlement en als kandidaat bij de deelstaatverkiezingen van 2026?",
+  "correct": "Ulrich Siegmund",
+  "image": "https://prod-img.nieuwsblad.be/public/nieuws/8g0nrz-file87gar2lnbog9igmu9ep/alternates/THREE_TWO_1620/file87gar2lnbog9igmu9ep",
+  "round": "R1",
+  "Thema": "Politiek"
+},
+{
+  "type": "open",
+  "question": "Welke Amerikaanse man werd in 2023 gearresteerd en beschuldigd van betrokkenheid bij de moord op rapper Tupac Shakur in 1996?",
+  "correct": "Duane Davis",
+  "image": "https://ichef.bbci.co.uk/ace/standard/1024/cpsprodpb/1727/live/b113f970-a5a1-11f1-b109-879e35c24276.jpg",
+  "round": "R1",
+  "Thema": "Muziek"
+},
+{
+  "type": "open",
+  "question": "Hoe heet de documentaire over het leven van Palestijnen in de Gazastrook, die de oorlog en de dagelijkse realiteit van burgers in beeld brengt?",
+  "correct": "Naza",
+  "image": "https://image.demorgen.be/278306188/width/2480/afbeelding",
+  "round": "R1",
+  "Thema": "Shows & Films"
+},
+{
+  "type": "open",
+  "question": "Welke Vlaamse politicus van de N-VA werd in 2024 minister-president van de Vlaamse Regering, als opvolger van Jan Jambon?",
+  "correct": "Matthias Diependaele",
+  "image": "https://images.vrt.be/vrtnws_web/2024/07/26/37b66bfa-4b55-11ef-92ff-02b7b76bf47f.jpg?width=900&height=506",
+  "round": "R1",
+  "Thema": "Politiek"
+},
+{
+  "type": "open",
+  "question": "Wat is de echte naam van de Vlaamse zanger Willy Sommers?",
+  "correct": "Willy De Gieter",
+  "image": "https://www.willysommers.be/content/img/1/2718-33045-willysommers-960px-eeb9671ddcbcec40.jpg",
+  "round": "R1",
+  "Thema": "Muziek"
+},
+{
+  "type": "open",
+  "question": "Wat is de echte naam van de Vlaamse zanger die bekendstaat onder de artiestennaam Metejoor?",
+  "correct": "Joris Van Rossem",
+  "image": "https://ctmentertainment.be/wp-content/uploads/2023/04/Metejoor-vierkant-1024x1024.jpg",
+  "round": "R1",
+  "Thema": "Muziek"
+},
+{
+  "type": "open",
+  "question": "Wat is de echte naam van de Vlaamse zangeres die bekendstaat onder de artiestennaam Dana Winner?",
+  "correct": "Chantal Vanlee",
+  "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/ca/Dana_winner-1578748462.jpg/1280px-Dana_winner-1578748462.jpg?utm_source=nl.wikipedia.org&utm_campaign=index&utm_content=thumbnail",
+  "round": "R1",
+  "Thema": "Muziek"
+},
+{
+  "type": "open",
+  "question": "Wat is de echte naam van de Antwerpse rapper die bekendstaat onder de artiestennaam Tourist LeMC?",
+  "correct": "Johannes Faes",
+  "image": "https://www.reggaegeel.com/_next/image?url=https%3A%2F%2Fcms.reggaegeel.com%2Fwp-content%2Fuploads%2F2026%2F02%2F024_TouristControleKwijt_BenPhotography.jpg&w=3840&q=75",
+  "round": "R1",
+  "Thema": "Muziek"
+},
+{
+  "type": "open",
+  "question": "Wat is de echte naam van de Vlaamse zanger die bekendstaat onder de artiestennaam Bart Kaëll?",
+  "correct": "Bart Gyselinck",
+  "image": "https://showbizzcontent.be/bio/bartkaell.jpg",
+  "round": "R1",
+  "Thema": "Muziek"
+},
+{
+  "type": "open",
+  "question": "Wat is de echte naam van de Belgische dj en producer die bekendstaat als Pat Krimson en mee aan de basis lag van 2 Fabiola?",
+  "correct": "Patrick Claesen",
+  "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQezKM2qq6QTumn9QDhTtIN_7ASm_V-kmIC9-9oztIQbnvpAuWyvSwV4sg&s=10",
+  "round": "R1",
+  "Thema": "Muziek"
+},
+{
+  "type": "open",
+  "question": "Wat is de echte naam van de Belgische zanger die bekendstaat onder de artiestennaam Red Sebastian en België vertegenwoordigde op het Eurovisiesongfestival in 2025?",
+  "correct": "Seppe Herreman",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/7/7d/Red_Sebastian_Seppe_Herreman_%28cropped%29.JPG?utm_source=nl.wikipedia.org&utm_campaign=index&utm_content=original",
+  "round": "R1",
+  "Thema": "Muziek"
+},
+{
+  "type": "open",
+  "question": "Wat is de echte naam van de Belgische zangeres die bekendstaat onder de artiestennaam Sandra Kim en in 1986 het Eurovisiesongfestival won?",
+  "correct": "Sandra Caldarone",
+  "image": "https://prod-img.gva.be/public/incoming/az5arb-a96fb62c-22a4-11eb-864f-f91801125396.jpg-binary/alternates/BASE_FOUR_FIVE/a96fb62c-22a4-11eb-864f-f91801125396.jpg%20binary",
+  "round": "R1",
+  "Thema": "Muziek"
+},
+{
+  "type": "open",
+  "question": "Wat is de echte naam van de Belgische muzikant die bekendstaat onder de artiestennaam DAAN en bekend werd met nummers als 'Housewife'?",
+  "correct": "Daan Stuyven",
+  "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSdd5J5UFot0uq8ql4oIcYAfD7gsnP6xczf5gi4yvfZP5sG5TvX35jQlW0&s=10",
+  "round": "R1",
+  "Thema": "Muziek"
+},
+{
+  "type": "open",
+  "question": "Wat is de echte naam van de Vlaamse zanger die bekendstaat als Will Tura en hits scoorde met onder andere 'Eenzaam zonder jou'?",
+  "correct": "Arthur Blanckaert",
+  "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQsVU4b01EfR4gvpLgmTmObuIGbNGOtzNIpNEZWYOINPg&s=10",
+  "round": "R1",
+  "Thema": "Muziek"
+},
+{
+  "type": "open",
+  "question": "Hoe lang duurde de omzwerving van Odysseus voordat hij na de Trojaanse Oorlog terugkeerde naar Ithaka, volgens de Griekse mythologie?",
+  "correct": "10 jaar",
+  "image": "https://www.grieksegids.nl/fotos/uploads-com/2013/05/route-odysseus-in-stavros.jpg",
+  "round": "R1",
+  "Thema": "Geschiedenis"
+},
+{
+  "type": "open",
+  "question": "Naar welk Griekse eiland probeert Odysseus na de Trojaanse Oorlog terug te keren in het beroemde epos van Homerus?",
+  "correct": "Ithaka",
+  "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/ce/North_ithaca.jpg/330px-North_ithaca.jpg?utm_source=nl.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+  "round": "R1",
+  "Thema": "Geschiedenis"
+},
+{
+  "type": "open",
+  "question": "Welke bijnaam kreeg de Engelse koning Richard I, die bekendstond om zijn militaire leiderschap tijdens de Derde Kruistocht?",
+  "correct": "Leeuwenhart",
+  "image": "https://primary.jwwb.nl/public/w/h/f/temp-rfijgnywvctcsvsnljgh/jshyhi/640px-richard_coeur_de_lion.jpg",
+  "round": "R1",
+  "Thema": "Geschiedenis"
+},
+{
+  "type": "open",
+  "question": "Hoe heet de veldslag uit 1916 tijdens de Eerste Wereldoorlog, waarbij Britse en Franse troepen een groot offensief lanceerden tegen het Duitse leger aan het westfront?",
+  "correct": "Slag aan de Somme",
+  "image": "https://historiek.net/wp-content/uploads-phistor1/2013/11/slag-aan-de-somme.jpg",
+  "round": "R1",
+  "Thema": "Geschiedenis"
+},
+{
+  "type": "open",
+  "question": "Welke Amerikaanse uitvinder en zakenman speelde een belangrijke rol in de ontwikkeling van de praktische gloeilamp en richtte een van de eerste industriële onderzoekslaboratoria op?",
+  "correct": "Thomas Edison",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/e/ef/ThomasEdison.jpg?utm_source=nl.wikipedia.org&utm_campaign=index&utm_content=original",
+  "round": "R1",
+  "Thema": "Wetenschappen"
+},
+{
+  "type": "open",
+  "question": "Hoe heet de Spaanse oorlogsvloot die in 1588 door koning Filips II naar Engeland werd gestuurd, maar na zware gevechten en stormen grotendeels mislukte in haar invasiepoging?",
+  "correct": "Spaanse Armada",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/c/c1/De_Spaanse_Armada_voor_de_Engelse_kust.JPG?utm_source=nl.wikipedia.org&utm_campaign=index&utm_content=original",
+  "round": "R1",
+  "Thema": "Geschiedenis"
+},
+{
+  "type": "open",
+  "question": "Welke Spaanse koning stuurde in 1588 de grote oorlogsvloot naar Engeland die bekendstaat als de Spaanse Armada?",
+  "correct": "Filips II",
+  "image": "https://historiek.net/wp-content/uploads-phistor1/2016/11/Filips-II-Koning-van-Spanje-.jpg",
+  "round": "R1",
+  "Thema": "Geschiedenis"
+},
+{
+  "type": "open",
+  "question": "Welke Amerikaanse alpineskiester won olympisch goud op de afdaling in 2010 en behoort tot de succesvolste skiesteressen in de geschiedenis van de Wereldbeker?",
+  "correct": "Lindsey Vonn",
+  "image": "https://images.hln.be/ZGlvLzI4MDE4NDU4Ny9maXQtd2lkdGgvNjc2/lindsey-vonn-afgelopen-weekend-op-het-lacma-art-film-gala-intussen-ruilde-ze-het-galakleed-voor-het-ziekenhuisplunje",
+  "round": "R1",
+  "Thema": "Sport"
+},
+{
+  "type": "open",
+  "question": "Hoe heet de jaarlijkse roeiwedstrijd op de rivier de Theems tussen de roeiteams van twee prestigieuze Britse universiteiten, Oxford en Cambridge?",
+  "correct": "The Boat Race",
+  "image": "https://historyuk.s3.eu-west-2.amazonaws.com/s3fs-public/2020-07/boat_race.jpg",
+  "round": "R1",
+  "Thema": "Sport"
+},
+{
+  "type": "open",
+  "question": "Welke Belgische tweelingbroers zijn allebei professionele motorcrossers en behoren tot de internationale top, waarbij de ene uitkomt in de MXGP-klasse en de andere in de MX2-klasse?",
+  "correct": "Coenen",
+  "image": "https://images.vrt.be/orig/2026/06/01/8b4d5fea-a2f3-4be1-b77d-2b14a7707758.jpg",
+  "round": "R1",
+  "Thema": "Sport"
+},
+{
+  "type": "open",
+  "question": "Welke Duitse wielrenner brak in 2025 internationaal door met een derde plaats in het eindklassement van de Tour de France en een podiumplaats in het jongerenklassement?",
+  "correct": "Florian Lipowitz",
+  "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a7/Florian_Lipowitz_-_Tour_de_France_2025_final_podium.jpg/250px-Florian_Lipowitz_-_Tour_de_France_2025_final_podium.jpg?utm_source=nl.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+  "round": "R1",
+  "Thema": "Sport"
+}
+  ]
+}

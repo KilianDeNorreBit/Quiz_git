@@ -2,7 +2,7 @@ const QUIZZES = {
   "Alle Quizzen": "quizzes/alles.json",
   "Quiz My Ass": "quizzes/quiz-questions.json",
   "De Grote Mei Quiz": "quizzes/quiz-questions2.json",
-  "De slimste mens van Eeregem": "quizzes/quiz-questions3.json",
+  "De slimste mens van Eeregem 2025": "quizzes/quiz-questions3.json",
   "Raak Quiz": "quizzes/quiz-questions4.json",
   "De Valier": "quizzes/quiz-questions5.json",
   "Levensvreugde Zomert": "quizzes/quiz-questions6.json",
@@ -16,7 +16,8 @@ const QUIZZES = {
   "BCAT": "quizzes/quiz-questions14.json",
   "FC Dender": "quizzes/quiz-questions15.json",
   "BBC Vesting": "quizzes/quiz-questions16.json",
-  "Greut & Groesj": "quizzes/quiz-questions17.json"
+  "Greut & Groesj": "quizzes/quiz-questions17.json",
+  "De slimste mens van Eeregem 2026": "quizzes/quiz-questions18.json"
 };
 
 let questions = [];
