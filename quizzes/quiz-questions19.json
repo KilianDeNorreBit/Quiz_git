@@ -1,0 +1,164 @@
+{
+  "questions": [
+{
+  "type": "open",
+  "question": "Welke Belgische weerman is bekend als meteoroloog bij de VRT?",
+  "correct": "Frank Duboccage",
+  "image": "https://image.demorgen.be/205548555/feature-crop/1200/1200/frank-duboccage",
+  "round": "R1",
+  "Thema": "Cultuur"
+},
+{
+  "type": "open",
+  "question": "Welke Britse schrijfster werd wereldberoemd met de erotische romanreeks Fifty Shades?",
+  "correct": "E.L. James",
+  "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRy3YAcdak_pIFhCA1jzEF3LGwUn20XUuRw2qdZ03Xw4PP89cWFnx5ECtJ5&s=10",
+  "round": "R1",
+  "Thema": "Boeken & Strips"
+},    
+{
+  "type": "open",
+  "question": "Welke Nederlandse dichter en toneelschrijver uit de Gouden Eeuw schreef het treurspel Gijsbrecht van Aemstel?",
+  "correct": "Joost van den Vondel",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/7/72/J_vondel.jpg?utm_source=nl.wikipedia.org&utm_campaign=index&utm_content=original",
+  "round": "R1",
+  "Thema": "Boeken & Strips"
+},
+{
+  "type": "open",
+  "question": "Hoe heet de kat die bekendstaat als Chief Mouser in de ambtswoning van de Britse premier in Downing Street?",
+  "correct": "Larry",
+  "image": "https://images.vrt.be/orig/2024/07/06/7b6417a2-3b7e-11ef-92ff-02b7b76bf47f.jpg",
+  "round": "R1",
+  "Thema": "Natuur"
+},
+{
+  "type": "open",
+  "question": "Hoe heet de smeerbare, gekruide worstspecialiteit van de Balearen, gemaakt van varkensvlees en paprikapoeder?",
+  "correct": "Sobrasada",
+  "image": "https://favorflav.com/images/shutterstock_1507665245-539x360.jpg",
+  "round": "R1",
+  "Thema": "Gastronomie"
+},
+{
+  "type": "open",
+  "question": "Welke Belgische voetbalscheidsrechter leidt wedstrijden in de Jupiler Pro League en op internationaal niveau?",
+  "correct": "Bram Van Driessche",
+  "image": "https://images.vrt.be/width960/2025/04/14/a7e087a5-d5f4-47a7-bce8-9cea04356e03.jpg",
+  "round": "R1",
+  "Thema": "Sport"
+},
+{
+  "type": "open",
+  "question": "Hoe heet de Nederlandse documentairefilm over een groep oudere Amsterdamse vrouwen die openhartig praten over seks, intimiteit en ouder worden?",
+  "correct": "De Grannies van Amsterdam",
+  "image": "https://image.veronicasuperguide.nl/257148149/width/2048/de-grannies-van-amsterdam-meest-verrassende-tv-programma-van-2025-tot-nu-toe-zo-oud-worden-is-een-gigantische-droom",
+  "round": "R1",
+  "Thema": "Shows & Films"
+},
+{
+  "type": "open",
+  "question": "Welk volk uit de oudheid leefde aan de zuidwestkust van Kanaän en streed onder meer tegen de Israëlieten?",
+  "correct": "Filistijnen",
+  "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/01/Osmar_Schindler_-_David_und_Goliath.jpg/960px-Osmar_Schindler_-_David_und_Goliath.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "round": "R1",
+  "Thema": "Geschiedenis"
+},
+{
+  "type": "open",
+  "question": "Welke wilde rozensoort met roze of witte bloemen en rode rozenbottels komt veel voor in Europa?",
+  "correct": "Hondsroos",
+  "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS7_G3EhdjmhoN0kR2gLzwmZP6HAngramK1CqjloNH0deHO6XaU0Vg1uCo&s=10",
+  "round": "R1",
+  "Thema": "Natuur"
+},
+{
+  "type": "open",
+  "question": "Hoe heet de app waarmee gebruikers digitale bestanden en persoonlijke gegevens veilig kunnen bewaren in een digitale kluis?",
+  "correct": "Izimi",
+  "image": "https://play-lh.googleusercontent.com/K8ujY0Tgri4Sq2jHKp8Ipq-_YxvAVKLPq6IgddXXeYZvptp3at0Kugoo1wTY32VCi544vKxM_KsOE4GPjuq8vBw",
+  "round": "R1",
+  "Thema": "IT & Games"
+},
+{
+  "type": "open",
+  "question": "Hoe heet het ronde, fruitige snoepje met een zachte, schuimachtige textuur dat vaak in suiker wordt gerold?",
+  "correct": "Tagada",
+  "image": "https://m.media-amazon.com/images/I/51TptdMTLkL.jpg",
+  "round": "R1",
+  "Thema": "Gastronomie"
+},
+{
+  "type": "open",
+  "question": "Welke Vlaamse film uit 2011 van Geoffrey Enthoven volgt vier jonge mannen met een beperking die naar Spanje reizen om hun eerste seksuele ervaringen op te doen?",
+  "correct": "Hasta la Vista",
+  "image": "https://www.filmhuismechelen.be/wp-content/uploads/2014/07/hastlavista_groot.jpg",
+  "round": "R1",
+  "Thema": "Shows & Films"
+},
+{
+  "type": "open",
+  "question": "Hoe heet de politieagent die voorkomt in de Vlaamse stripreeks Kiekeboe?",
+  "correct": "Firmin Van de Kasseien",
+  "image": "https://media.invisioncic.com/r227137/monthly_2020_02/Firmin.jpg.775d8454c1c9e156eed3cb315a57b6a4.jpg",
+  "round": "R1",
+  "Thema": "Boeken & Strips"
+},
+{
+  "type": "open",
+  "question": "Hoe heet het Nederlandse modemerk dat bekendstaat om zijn eclectische ontwerpen en casual kleding?",
+  "correct": "Scotch & Soda",
+  "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c6/Scotch_%26_Soda%2C_Brisbane%2C_2022%2C_02.jpg/250px-Scotch_%26_Soda%2C_Brisbane%2C_2022%2C_02.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+  "round": "R1",
+  "Thema": "Cultuur"
+},
+{
+  "type": "open",
+  "question": "Hoe heet de driejaarlijkse kunsttriënnale aan de Belgische kust waarbij hedendaagse kunstwerken in de openbare ruimte worden tentoongesteld?",
+  "correct": "Beaufort",
+  "image": "https://cms.westtoer.be/sites/default/files/2023-06/De_Haan_Xu_Zhen_09.jpg",
+  "round": "R1",
+  "Thema": "Kunst"
+},
+{
+  "type": "open",
+  "question": "Hoe heet de klassieke cocktail op basis van gin, kersenlikeur en ananassap die rond 1915 werd gecreëerd in het Raffles Hotel?",
+  "correct": "Singapore Sling",
+  "image": "https://cdn.apartmenttherapy.info/image/upload/f_jpg,q_auto:eco,c_fill,g_auto,w_1500,ar_1:1/tk%2Fphoto%2F2025%2F08-2025%2F2024-05-singapore-sling%2Fsingapore-sling_1",
+  "round": "R1",
+  "Thema": "Gastronomie"
+},
+{
+  "type": "open",
+  "question": "Hoe heet de moeder van Maria en volgens de christelijke traditie de grootmoeder van Jezus?",
+  "correct": "Sint-Anna",
+  "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6a/Masolino_008.jpg/330px-Masolino_008.jpg?utm_source=nl.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+  "round": "R1",
+  "Thema": "Cultuur"
+},
+{
+  "type": "open",
+  "question": "Hoe heet de cocktail op basis van wodka en muntlikeur, die vaak wordt geserveerd met ijs?",
+  "correct": "Colonel",
+  "image": "https://assets.tmecosys.com/image/upload/t_web_rdp_recipe_584x480_1_5x/img/recipe/ras/Assets/9A112D37-1057-4E49-AE5B-6C0519BE8598/Derivates/FDFBA07E-35BF-4923-AFFE-33C5641995FA.jpg",
+  "round": "R1",
+  "Thema": "Gastronomie"
+},
+{
+  "type": "open",
+  "question": "Welk Frans sportmerk is gespecialiseerd in tennis- en racketsportmateriaal en staat bekend om zijn rackets en padeluitrusting?",
+  "correct": "Babolat",
+  "image": "https://media.babolat.com/image/upload/f_auto,q_auto,c_scale,w_456,h_420/v1736873215/Web_content/Tennis/Cat_product/2025/Pure_Drive_product_push.png",
+  "round": "R1",
+  "Thema": "Sport"
+},
+{
+  "type": "open",
+  "question": "Hoe noemt men het officieel neerleggen van de wapens en het zich overgeven van een leger of land aan de tegenstander?",
+  "correct": "Capitulatie",
+  "image": "https://historiek.net/wp-content/uploads-phistor1/2020/04/dd-2020.04.18-3.jpg",
+  "round": "R1",
+  "Thema": "Geschiedenis"
+}
+  ]
+}

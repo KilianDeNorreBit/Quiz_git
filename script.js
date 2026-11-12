@@ -17,7 +17,8 @@ const QUIZZES = {
   "FC Dender": "quizzes/quiz-questions15.json",
   "BBC Vesting": "quizzes/quiz-questions16.json",
   "Greut & Groesj": "quizzes/quiz-questions17.json",
-  "De slimste mens van Eeregem 2026": "quizzes/quiz-questions18.json"
+  "De slimste mens van Eeregem 2026": "quizzes/quiz-questions18.json",
+  "After Work Ninof": "quizzes/quiz-questions19.json"
 };
 
 let questions = [];
