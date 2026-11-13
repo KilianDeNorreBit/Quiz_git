@@ -1,109 +1,455 @@
+:root {
+  --background: #000000;
+  --surface: #101010;
+  --card: #242424;
+  --primary: #586bff;
+  --primary-light: #eef0ff;
+  --text: #f5f5f5;
+  --muted: #a0a0a0;
+  --border: #292929;
+  --radius: 13px;
+}
+
+* {
+  box-sizing: border-box;
+}
+
 body {
-  font-family: Arial, sans-serif;
-  background: linear-gradient(135deg, #1e3c72, #2a5298);
-  color: #fff;
-  text-align: center;
   margin: 0;
-  padding: 0;
+  padding: 20px 12px;
+  background: var(--background);
+  color: var(--text);
+  font-family: Inter, Arial, sans-serif;
+  line-height: 1.5;
 }
 
 .container {
-  max-width: 600px;
-  margin: auto;
-  padding: 20px;
+  max-width: 850px;
+  margin: 15px auto;
+  padding: 12px;
+  background: #050505;
+  border: 1px solid var(--border);
+  border-radius: 15px;
 }
 
-.menu h2 {
-  margin-bottom: 10px;
+h1 {
+  text-align: center;
+  color: var(--primary);
+  font-size: 32px;
+  letter-spacing: -1px;
+  margin: 0;
 }
+
+h2 {
+  font-size: 21px;
+  margin: 15px 0;
+}
+
+h3 {
+  font-size: 15px;
+}
+
+/* ALGEMENE KNOPPEN */
 
 button {
-  background-color: #00bcd4;
-  border: none;
-  padding: 12px 24px;
-  border-radius: 25px;
+  background: var(--primary);
   color: white;
-  font-size: 16px;
-  margin: 6px;
+  border: none;
+  border-radius: 10px;
+  padding: 12px 18px;
+  font-size: 14px;
+  font-weight: 600;
   cursor: pointer;
+  transition: background 0.2s ease, transform 0.2s ease;
 }
 
 button:hover {
-  background-color: #0198a3;
+  background: #7180ff;
+  transform: translateY(-1px);
 }
+
+button:focus-visible {
+  outline: 3px solid white;
+  outline-offset: 3px;
+}
+
+/* HOOFDMENU */
+
+#quiz-buttons,
+#theme-buttons {
+  display: grid;
+  grid-template-columns: repeat(2, minmax(0, 1fr));
+  gap: 10px;
+  margin: 15px 0;
+}
+
+#quiz-buttons button,
+#theme-buttons button {
+  background: var(--primary-light);
+  color: #26315f;
+  border-radius: 11px;
+  min-height: 78px;
+  text-align: left;
+  padding: 14px;
+  margin: 0;
+}
+
+#quiz-buttons button:hover,
+#theme-buttons button:hover {
+  background: #dfe3ff;
+}
+
+/* THEMA-ICOONTJES */
+
+.theme-button {
+  display: flex;
+  align-items: center;
+  gap: 12px;
+  text-align: left;
+}
+
+.theme-icon {
+  font-size: 22px;
+  width: 30px;
+  flex-shrink: 0;
+}
+
+/* QUIZVRAGEN */
 
 .quiz-card {
-  background: #ffffffee;
-  color: #333;
-  border-radius: 15px;
-  padding: 20px;
-  box-shadow: 0 4px 10px rgba(0,0,0,0.2);
+  background: var(--surface);
+  border: 1px solid var(--border);
+  border-radius: var(--radius);
+  padding: 22px;
 }
 
-.hidden {
-  display: none;
+#question-text {
+  color: var(--text);
+  font-size: 23px;
+  font-weight: 700;
+  line-height: 1.4;
+  margin: 20px 0;
+}
+
+/* FOTO'S: ALTIJD HETZELFDE FORMAAT */
+
+#question-image {
+  display: block;
+  width: 100%;
+  height: 300px;
+  object-fit: contain;
+  object-position: center;
+  background: #181818;
+  border-radius: 12px;
+  margin: 15px auto;
+}
+
+#question-image.hidden {
+  display: none !important;
+}
+
+/* ANTWOORDMOGELIJKHEDEN */
+
+#answers {
+  display: grid;
+  gap: 10px;
 }
 
 .answer-btn {
-  background: #f5f5f5;
-  color: #333;
-  padding: 12px;
-  margin: 6px 0;
-  border-radius: 8px;
   width: 100%;
-  cursor: pointer;
+  background: var(--card);
+  color: white;
+  border: 1px solid #383838;
+  text-align: left;
+  padding: 15px;
+  border-radius: 10px;
+  margin: 0;
+}
+
+.answer-btn:hover:not(:disabled) {
+  background: #333333;
+  border-color: var(--primary);
 }
 
 .answer-btn.correct {
-  background-color: #c8e6c9;
+  background: #123d2c;
+  border-color: #36bd80;
 }
 
 .answer-btn.incorrect {
-  background-color: #ffcdd2;
+  background: #481d25;
+  border-color: #e35c6b;
 }
+
+.answer-btn:disabled {
+  cursor: default;
+  opacity: 1;
+}
+
+/* OPEN ANTWOORDVELD */
 
 #open-input {
-width: 100%;
-  padding: 10px;
-  border-radius: 8px;
-  border: 1px solid #333;
-  margin-top: 10px;
-  box-sizing: border-box; /* Include padding and border in width calculation */
-  padding-left: 15px;  /* Optional: Add more space on the left */
-  padding-right: 15px; /* Optional: Add more space on the right */
-}
-
-
-#question-image {
-  width: 100%;
-  max-height: 250px;
+  display: block;
+  width: 80%;
+  max-width: 450px;
+  margin: 20px auto 12px;
+  padding: 14px;
+  text-align: center;
+  background: #202020;
+  color: white;
+  border: 1px solid #586bff;
   border-radius: 10px;
-  margin: 10px 0;
-  object-fit: contain;
+  font-size: 16px;
 }
+
+#open-input::placeholder {
+  color: #999;
+  text-align: center;
+}
+
+#open-input:focus-visible {
+  outline: 2px solid var(--primary);
+  outline-offset: 2px;
+}
+
+/* VOORTGANG */
+
+#progress {
+  color: var(--muted);
+  text-align: center;
+  font-size: 13px;
+}
+
+/* FEEDBACK: VASTE RUIMTE */
 
 #feedback {
-  font-weight: bold;
-  margin: 10px;
+  color: var(--text);
+  font-weight: 600;
+  min-height: 65px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  text-align: center;
+  margin: 15px 0;
+  padding: 8px 12px;
+  line-height: 1.5;
+}
+
+/* ANTWOORD INDIENEN EN VOLGENDE VRAAG */
+
+#submit-open,
+#next-btn {
+  width: 80%;
+  max-width: 450px;
+  height: 48px;
+  margin: 10px auto;
+  padding: 12px;
+  display: block;
+  text-align: center;
+  box-sizing: border-box;
+}
+
+/* VERBORGEN KNOPPEN */
+
+#submit-open.hidden,
+#next-btn.hidden {
+  display: none !important;
+}
+
+/* SCOREBORD */
+
+#scoreboard {
+  background: var(--surface);
+  border: 1px solid var(--border);
+  border-radius: 12px;
+  padding: 16px;
 }
 
 #scoreboard p {
-  color: #fff;
-  margin: 3px 0;
+  color: var(--muted);
+  border-bottom: 1px solid var(--border);
+  padding: 9px 0;
 }
 
-.return-btn {
-  background-color: #00bcd4;
-  border: none;
-  color: #fff;
-  padding: 10px 20px;
-  margin: 10px;
-  border-radius: 20px;
+/* RESULTATEN */
+
+#result {
+  text-align: center;
+  padding: 25px;
+}
+
+#result h2 {
+  color: var(--primary);
+}
+
+/* QUIZZEN PER JAAR */
+
+#quiz-groups {
+  display: grid;
+  grid-template-columns: 1fr;
+  gap: 15px;
+  margin: 20px 0;
+}
+
+.year-section {
+  background: #101010;
+  border: 1px solid #333333;
+  border-radius: 14px;
+  padding: 16px;
+  transition: border-color 0.2s ease;
+}
+
+.year-section:hover {
+  border-color: #586bff;
+}
+
+.year-section summary {
+  color: #8996ff;
+  font-size: 18px;
+  font-weight: 700;
   cursor: pointer;
-  transition: background 0.3s;
+  padding: 5px;
+  list-style: none;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
 }
 
-.return-btn:hover {
-  background-color: #0198a3;
+.year-section summary::-webkit-details-marker {
+  display: none;
 }
 
+.year-section summary::after {
+  content: "+";
+  font-size: 22px;
+  color: #8996ff;
+}
+
+.year-section[open] summary::after {
+  content: "−";
+}
+
+.year-quiz-buttons {
+  display: grid;
+  grid-template-columns: repeat(2, minmax(0, 1fr));
+  gap: 10px;
+  margin-top: 16px;
+}
+
+.year-quiz-buttons button {
+  width: 100%;
+  min-height: 65px;
+  margin: 0;
+  padding: 14px;
+  background: #eef0ff;
+  color: #26315f;
+  border: none;
+  border-radius: 11px;
+  font-size: 13px;
+  font-weight: 700;
+  text-align: left;
+}
+
+.year-quiz-buttons button:hover {
+  background: #dce2ff;
+}
+
+.year-quiz-buttons button:focus-visible {
+  outline: 3px solid #8996ff;
+  outline-offset: 3px;
+}
+
+/* VERBERG NIET-ACTIEVE SCHERMEN */
+
+.hidden {
+  display: none !important;
+}
+
+#menu.hidden,
+#scoreboard.hidden,
+#result.hidden,
+#quiz.hidden,
+#quiz-container.hidden {
+  display: none !important;
+}
+
+/* MOBIELE WEERGAVE */
+
+@media (max-width: 600px) {
+  body {
+    padding: 8px;
+  }
+
+  .container {
+    margin: 5px auto;
+    padding: 12px;
+  }
+
+  #quiz-buttons,
+  #theme-buttons,
+  .year-quiz-buttons {
+    grid-template-columns: 1fr;
+  }
+
+  #question-text {
+    font-size: 20px;
+  }
+
+  .quiz-card {
+    padding: 16px;
+  }
+
+  #question-image {
+    height: 250px;
+  }
+
+  #open-input,
+  #submit-open,
+  #next-btn {
+    width: 100%;
+  }
+
+  .year-section {
+    padding: 13px;
+  }
+
+  .year-section summary {
+    font-size: 16px;
+  }
+}
+
+/* TOEGANKELIJKHEID */
+
+@media (prefers-reduced-motion: reduce) {
+  *,
+  *::before,
+  *::after {
+    animation-duration: 0.01ms !important;
+    transition-duration: 0.01ms !important;
+  }
+}
+
+
+/* Beide knoppen exact op dezelfde positie */
+
+#submit-open,
+#next-btn {
+    width: 80%;
+    max-width: 450px;
+    height: 48px;
+    margin: 10px auto !important;
+    padding: 12px;
+    display: block;
+    position: relative;
+    left: 0;
+    text-align: center;
+    box-sizing: border-box;
+    font-size: 14px;
+    line-height: 24px;
+}
+
+/* Verborgen knop neemt geen ruimte in */
+#submit-open.hidden,
+#next-btn.hidden {
+    display: none !important;
+}

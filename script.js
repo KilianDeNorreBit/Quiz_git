@@ -1,25 +1,105 @@
+
 const QUIZZES = {
-  "Alle Quizzen": "quizzes/alles.json",
-  "Quiz My Ass": "quizzes/quiz-questions.json",
-  "De Grote Mei Quiz": "quizzes/quiz-questions2.json",
-  "De slimste mens van Eeregem 2025": "quizzes/quiz-questions3.json",
-  "Raak Quiz": "quizzes/quiz-questions4.json",
-  "De Valier": "quizzes/quiz-questions5.json",
-  "Levensvreugde Zomert": "quizzes/quiz-questions6.json",
-  "Ne Vriejen Auvend": "quizzes/quiz-questions7.json",
-  "De Lodderoeigen": "quizzes/quiz-questions8.json",
-  "Trebor Seam": "quizzes/quiz-questions9.json",
-  "Natuurpunt": "quizzes/quiz-questions10.json",
-  "TRIVIMI": "quizzes/quiz-questions11.json",
-  "Quiz N-VA": "quizzes/quiz-questions12.json",
-  "Daatmet": "quizzes/quiz-questions13.json",
-  "BCAT": "quizzes/quiz-questions14.json",
-  "FC Dender": "quizzes/quiz-questions15.json",
-  "BBC Vesting": "quizzes/quiz-questions16.json",
-  "Greut & Groesj": "quizzes/quiz-questions17.json",
-  "De slimste mens van Eeregem 2026": "quizzes/quiz-questions18.json",
-  "After Work Ninof": "quizzes/quiz-questions19.json"
+
+    "Quiz My Ass": {
+        file: "quizzes/quiz-questions.json",
+        year: 2025
+    },
+
+    "De Grote Mei Quiz": {
+        file: "quizzes/quiz-questions2.json",
+        year: 2025
+    },
+
+    "De slimste mens van Eeregem": {
+        file: "quizzes/quiz-questions3.json",
+        year: 2025
+    },
+
+    "Raak Quiz": {
+        file: "quizzes/quiz-questions4.json",
+        year: 2025
+    },
+
+    "De Valier": {
+        file: "quizzes/quiz-questions5.json",
+        year: 2025
+    },
+
+    "Levensvreugde Zomert": {
+        file: "quizzes/quiz-questions6.json",
+        year: 2025
+    },
+
+    "Ne Vriejen Auvend": {
+        file: "quizzes/quiz-questions7.json",
+        year: 2025
+    },
+
+    "De Lodderoeigen": {
+        file: "quizzes/quiz-questions8.json",
+        year: 2025
+    },
+
+    "Trebor Seam": {
+        file: "quizzes/quiz-questions9.json",
+        year: 2025
+    },
+
+    "Natuurpunt": {
+        file: "quizzes/quiz-questions10.json",
+        year: 2025
+    },
+
+    "TRIVIMI": {
+        file: "quizzes/quiz-questions11.json",
+        year: 2026
+    },
+
+    "Quiz N-VA": {
+        file: "quizzes/quiz-questions12.json",
+        year: 2026
+    },
+
+    "Daatmet": {
+        file: "quizzes/quiz-questions13.json",
+        year: 2026
+    },
+
+    "BCAT": {
+        file: "quizzes/quiz-questions14.json",
+        year: 2026
+    },
+
+    "FC Dender": {
+        file: "quizzes/quiz-questions15.json",
+        year: 2026
+    },
+
+    "BBC Vesting": {
+        file: "quizzes/quiz-questions16.json",
+        year: 2026
+    },
+
+    "Greut & Groesj": {
+        file: "quizzes/quiz-questions17.json",
+        year: 2026
+    },
+
+    "De slimste mens van Eeregem": {
+        file: "quizzes/quiz-questions18.json",
+        year: 2026
+    },
+
+    "After Work Ninof": {
+        file: "quizzes/quiz-questions19.json",
+        year: 2026
+    }
 };
+
+// ========================================
+// VARIABELEN
+// ========================================
 
 let questions = [];
 let allQuestions = [];
@@ -27,218 +107,426 @@ let current = 0;
 let score = 0;
 let selectedQuiz = null;
 let selectedTheme = null;
-let scoreboard = JSON.parse(localStorage.getItem("scoreboard") || "[]");
 
 const menu = document.getElementById("menu");
 const quizDiv = document.getElementById("quiz");
 const resultDiv = document.getElementById("result");
+
 const questionText = document.getElementById("question-text");
 const answersDiv = document.getElementById("answers");
 const questionImage = document.getElementById("question-image");
+
 const openInput = document.getElementById("open-input");
 const submitOpen = document.getElementById("submit-open");
+
 const feedback = document.getElementById("feedback");
 const nextBtn = document.getElementById("next-btn");
 const progress = document.getElementById("progress");
+
 const finalScore = document.getElementById("final-score");
-const scoreboardDiv = document.getElementById("scoreboard");
-const quizButtons = document.getElementById("quiz-buttons");
 const themeButtons = document.getElementById("theme-buttons");
+const quizGroups = document.getElementById("quiz-groups");
+
 const returnBtn = document.getElementById("returnBtn");
+const backBtn = document.getElementById("back-btn");
 
-function shuffle(array) {
-  return array.map(a => ({ sort: Math.random(), value: a }))
-              .sort((a, b) => a.sort - b.sort)
-              .map(a => a.value);
+// ========================================
+// THEMA-ICOONTJES
+// ========================================
+
+function getThemeIcon(theme) {
+    const name = theme.toLowerCase();
+
+    if (name.includes("natuur")) return "🌿";
+    if (name.includes("dier")) return "🐾";
+    if (name.includes("geschiedenis")) return "🏛️";
+    if (name.includes("sport")) return "🏆";
+    if (name.includes("muziek")) return "🎵";
+    if (name.includes("film")) return "🎬";
+    if (name.includes("wetenschap")) return "🔬";
+    if (name.includes("geografie")) return "🌍";
+    if (name.includes("it & games")) return "💻";
+    if (name.includes("cultuur")) return "🎭";
+    if (name.includes("gastronomie")) return "🍔";
+    if (name.includes("kunst")) return "🎨";
+    if (name.includes("politiek")) return "🏛️";
+    if (name.includes("auto")) return "🚗";
+    if (name.includes("taal")) return "📚";
+    if (name.includes("ruimte")) return "🚀";
+    if (name.includes("algemeen")) return "🧠";
+
+    return "📖";
 }
 
-function renderScoreboard() {
-  if (scoreboard.length === 0) return;
-  scoreboardDiv.innerHTML = "<h3>Past Scores</h3>" +
-    scoreboard.map(e => `<p>${e.quiz}: ${e.score} / ${e.total}</p>`).join("");
+// ========================================
+// QUIZZEN VERDELEN PER JAAR
+// ========================================
+
+function renderQuizGroups() {
+    quizGroups.innerHTML = "";
+
+    const groups = {};
+
+    Object.keys(QUIZZES).forEach(name => {
+
+        // Alle Quizzen niet tonen
+        if (name === "Alle Quizzen") return;
+
+        const year = QUIZZES[name].year || "Overige quizzen";
+
+        if (!groups[year]) {
+            groups[year] = [];
+        }
+
+        groups[year].push(name);
+    });
+
+    // Oud naar nieuw sorteren
+    const years = Object.keys(groups).sort((a, b) => {
+        if (a === "Overige quizzen") return 1;
+        if (b === "Overige quizzen") return -1;
+
+        return Number(a) - Number(b);
+    });
+
+    years.forEach(year => {
+
+        const section = document.createElement("details");
+        section.className = "year-section";
+
+        // Alle jaartabbladen starten gesloten
+        section.open = false;
+
+        const title = document.createElement("summary");
+
+        title.textContent = year === "Overige quizzen"
+            ? "📁 Overige quizzen"
+            : `📅 Quizzen ${year}`;
+
+        section.appendChild(title);
+
+        const buttons = document.createElement("div");
+        buttons.className = "year-quiz-buttons";
+
+        groups[year].forEach(name => {
+
+            const button = document.createElement("button");
+
+            button.textContent = name.toUpperCase();
+            button.onclick = () => startQuiz(name);
+
+            buttons.appendChild(button);
+        });
+
+        section.appendChild(buttons);
+        quizGroups.appendChild(section);
+    });
 }
+
+// ========================================
+// MENU TONEN
+// ========================================
 
 function showMenu() {
-  menu.classList.remove("hidden");
-  quizDiv.classList.add("hidden");
-  resultDiv.classList.add("hidden");
-  renderScoreboard();
+    menu.classList.remove("hidden");
+    quizDiv.classList.add("hidden");
+    resultDiv.classList.add("hidden");
 }
 
-function startQuiz(name) {
-  selectedQuiz = name;
-  selectedTheme = null;
-  fetch(QUIZZES[name])
-    .then(res => res.json())
-    .then(data => {
-      allQuestions = data.questions;
-      questions = shuffle(allQuestions).map(q => ({
-        ...q,
-        answers: q.answers ? shuffle(q.answers) : []
-      }));
-      current = 0;
-      score = 0;
-      menu.classList.add("hidden");
-      resultDiv.classList.add("hidden");
-      quizDiv.classList.remove("hidden");
-      showQuestion();
-      renderThemes(allQuestions);
-    })
-    .catch(err => alert("Error loading quiz: " + err));
+// ========================================
+// QUIZ LADEN
+// ========================================
+
+async function startQuiz(name) {
+    try {
+        selectedQuiz = name;
+        selectedTheme = null;
+
+        const response = await fetch(QUIZZES[name].file);
+
+        if (!response.ok) {
+            throw new Error("Quiz kon niet geladen worden.");
+        }
+
+        const data = await response.json();
+
+        allQuestions = data.questions || data;
+
+        if (!Array.isArray(allQuestions) || allQuestions.length === 0) {
+            throw new Error("Deze quiz bevat geen vragen.");
+        }
+
+        questions = shuffle(allQuestions).map(q => ({
+            ...q,
+            answers: q.answers ? shuffle([...q.answers]) : []
+        }));
+
+        current = 0;
+        score = 0;
+
+        menu.classList.add("hidden");
+        resultDiv.classList.add("hidden");
+        quizDiv.classList.remove("hidden");
+
+        renderThemes(allQuestions);
+        showQuestion();
+
+    } catch (error) {
+        alert("Fout bij laden: " + error.message);
+    }
 }
+
+// ========================================
+// THEMA'S TONEN
+// ========================================
 
 function renderThemes(qs) {
-  const themes = [...new Set(qs.map(q => q.Thema))].sort();
-  themeButtons.innerHTML = "";
-  themes.forEach(theme => {
-    const btn = document.createElement("button");
-    btn.textContent = theme;
-    btn.onclick = () => startTheme(theme);
-    themeButtons.appendChild(btn);
-  });
+    if (!themeButtons) return;
+
+    themeButtons.innerHTML = "";
+
+    const themes = [
+        ...new Set(qs.map(q => q.Thema).filter(Boolean))
+    ].sort();
+
+    themes.forEach(theme => {
+
+        const button = document.createElement("button");
+        button.className = "theme-button";
+
+        const icon = document.createElement("span");
+        icon.className = "theme-icon";
+        icon.textContent = getThemeIcon(theme);
+        icon.setAttribute("aria-hidden", "true");
+
+        const label = document.createElement("span");
+        label.textContent = theme;
+
+        button.append(icon, label);
+
+        button.onclick = () => startTheme(theme);
+
+        themeButtons.appendChild(button);
+    });
 }
+
+// ========================================
+// THEMA STARTEN
+// ========================================
 
 function startTheme(theme) {
-  selectedTheme = theme;
-  questions = shuffle(allQuestions.filter(q => q.Thema === theme))
-    .map(q => ({ ...q, answers: q.answers ? shuffle(q.answers) : [] }));
-  current = 0;
-  score = 0;
-  menu.classList.add("hidden");
-  quizDiv.classList.remove("hidden");
-  resultDiv.classList.add("hidden");
-  showQuestion();
+    selectedTheme = theme;
+
+    questions = shuffle(
+        allQuestions.filter(q => q.Thema === theme)
+    ).map(q => ({
+        ...q,
+        answers: q.answers ? shuffle([...q.answers]) : []
+    }));
+
+    if (questions.length === 0) {
+        alert("Geen vragen gevonden voor dit thema.");
+        return;
+    }
+
+    current = 0;
+    score = 0;
+
+    menu.classList.add("hidden");
+    quizDiv.classList.remove("hidden");
+    resultDiv.classList.add("hidden");
+
+    showQuestion();
 }
+
+// ========================================
+// VRAAG TONEN
+// ========================================
 
 function showQuestion() {
-  const q = questions[current];
-  feedback.textContent = "";
-  openInput.classList.add("hidden");
-  submitOpen.classList.add("hidden");
-  nextBtn.classList.add("hidden");
-  answersDiv.innerHTML = "";
+    const q = questions[current];
 
-  questionText.textContent = q.question;
-  progress.textContent = `${current + 1} / ${questions.length}`;
+    feedback.textContent = "";
+    answersDiv.innerHTML = "";
 
-  if (q.image) {
-    questionImage.src = q.image;
-    questionImage.classList.remove("hidden");
-  } else {
-    questionImage.classList.add("hidden");
-  }
+    nextBtn.classList.add("hidden");
+    openInput.classList.add("hidden");
+    submitOpen.classList.add("hidden");
 
-  if (!q.answers || q.answers.length === 0) {
-    openInput.value = "";
-    openInput.classList.remove("hidden");
-    submitOpen.classList.remove("hidden");
-    submitOpen.onclick = () => handleOpenSubmit(q);
-  } else {
-    q.answers.forEach(ans => {
-      const btn = document.createElement("button");
-      btn.className = "answer-btn";
-      btn.textContent = ans;
-      btn.onclick = () => handleAnswer(q, ans, btn);
-      answersDiv.appendChild(btn);
-    });
-  }
+    openInput.classList.remove("correct", "incorrect");
+
+    questionText.textContent = q.question;
+
+    progress.textContent =
+        `Vraag ${current + 1} van ${questions.length}`;
+
+    if (q.image) {
+        questionImage.src = q.image;
+        questionImage.classList.remove("hidden");
+    } else {
+        questionImage.classList.add("hidden");
+    }
+
+    if (!q.answers || q.answers.length === 0) {
+        openInput.value = "";
+        openInput.classList.remove("hidden");
+        submitOpen.classList.remove("hidden");
+
+        submitOpen.onclick = () => handleOpenSubmit(q);
+
+    } else {
+        q.answers.forEach(answer => {
+
+            const button = document.createElement("button");
+
+            button.className = "answer-btn";
+            button.textContent = answer;
+
+            button.onclick = () => handleAnswer(q, answer, button);
+
+            answersDiv.appendChild(button);
+        });
+    }
 }
 
-function handleAnswer(q, ans, btn) {
-  const buttons = document.querySelectorAll(".answer-btn");
-  buttons.forEach(b => b.disabled = true);
+// ========================================
+// ANTWOORD CONTROLEREN
+// ========================================
 
-  const isCorrect = ans === q.correct;
-  if (isCorrect) {
-    btn.classList.add("correct");
-    score++;
-  } else {
-    btn.classList.add("incorrect");
-    buttons.forEach(b => {
-      if (b.textContent === q.correct) b.classList.add("correct");
-    });
-  }
+function handleAnswer(q, answer, button) {
+    const buttons = answersDiv.querySelectorAll("button");
 
-  nextBtn.classList.remove("hidden");
-  nextBtn.onclick = nextQuestion;
+    buttons.forEach(btn => btn.disabled = true);
+
+    const correct = answer === q.correct;
+
+    if (correct) {
+        score++;
+        button.classList.add("correct");
+        feedback.textContent = "✅ Correct!";
+    } else {
+        button.classList.add("incorrect");
+
+        buttons.forEach(btn => {
+            if (btn.textContent === q.correct) {
+                btn.classList.add("correct");
+            }
+        });
+
+        feedback.textContent =
+            "❌ Fout! Het juiste antwoord is: " + q.correct;
+    }
+
+    nextBtn.classList.remove("hidden");
 }
+
+// ========================================
+// OPEN VRAGEN
+// ========================================
 
 function handleOpenSubmit(q) {
-  const correctAnswers = Array.isArray(q.correct)
-    ? q.correct.map(a => a.toLowerCase().trim())
-    : [q.correct.toLowerCase().trim()];
-  const userAnswer = openInput.value.toLowerCase().trim();
+    const correctAnswers = Array.isArray(q.correct)
+        ? q.correct.map(a => String(a).toLowerCase().trim())
+        : [String(q.correct).toLowerCase().trim()];
 
-  const correct = correctAnswers.includes(userAnswer);
-  if (correct) score++;
+    const userAnswer = openInput.value.toLowerCase().trim();
 
-  feedback.textContent = correct
-    ? "✅ Correct!"
-    : "❌ Wrong! Correct: " + (Array.isArray(q.correct) ? q.correct.join(", ") : q.correct);
+    const correct = correctAnswers.includes(userAnswer);
 
-  openInput.classList.add(correct ? "correct" : "incorrect");
-  submitOpen.classList.add("hidden");
-  nextBtn.classList.remove("hidden");
-  nextBtn.onclick = nextQuestion;
+    if (correct) {
+        score++;
+        feedback.textContent = "✅ Correct!";
+        openInput.classList.add("correct");
+    } else {
+        feedback.textContent =
+            "❌ Fout! Correct antwoord: " +
+            (Array.isArray(q.correct) ? q.correct.join(", ") : q.correct);
+
+        openInput.classList.add("incorrect");
+    }
+
+    submitOpen.classList.add("hidden");
+    nextBtn.classList.remove("hidden");
 }
+
+// ========================================
+// VOLGENDE VRAAG
+// ========================================
 
 function nextQuestion() {
-  if (current + 1 < questions.length) {
-    current++;
-    showQuestion();
-  } else {
-    endQuiz();
-  }
+    if (current + 1 < questions.length) {
+        current++;
+        showQuestion();
+    } else {
+        endQuiz();
+    }
 }
+
+// ========================================
+// QUIZ BEËINDIGEN
+// ========================================
 
 function endQuiz() {
-  quizDiv.classList.add("hidden");
-  resultDiv.classList.remove("hidden");
+    quizDiv.classList.add("hidden");
+    resultDiv.classList.remove("hidden");
 
-  // Determine how to label the quiz result
-  let label;
-  if (selectedQuiz && selectedTheme) {
-    label = `${selectedQuiz} (${selectedTheme})`;
-  } else if (selectedTheme) {
-    label = selectedTheme;
-  } else {
-    label = selectedQuiz || "Unknown Quiz";
-  }
-
-  finalScore.textContent = `Score: ${score} / ${questions.length}`;
-
-  scoreboard.push({ quiz: label, score, total: questions.length });
-  localStorage.setItem("scoreboard", JSON.stringify(scoreboard));
+    finalScore.textContent =
+        `Score: ${score} / ${questions.length}`;
 }
 
+// ========================================
+// HULPFUNCTIES
+// ========================================
 
-document.getElementById("back-btn").onclick = showMenu;
-returnBtn.addEventListener('click', showMenu);
+function shuffle(array) {
+    return array
+        .map(value => ({
+            sort: Math.random(),
+            value
+        }))
+        .sort((a, b) => a.sort - b.sort)
+        .map(item => item.value);
+}
 
-// === QUIZ SELECTION BUTTONS ===
-Object.keys(QUIZZES).forEach(key => {
-  const btn = document.createElement("button");
-  btn.textContent = key.toUpperCase();
-  btn.onclick = () => startQuiz(key);
-  quizButtons.appendChild(btn);
-});
+// ========================================
+// KNOPPEN EN NAVIGATIE
+// ========================================
 
-// === LOAD THEMES FROM alles.json ON STARTUP ===
-fetch("quizzes/alles.json")
-  .then(res => res.json())
-  .then(data => {
-    allQuestions = data.questions;
-    renderThemes(allQuestions); // build the theme buttons immediately
-  })
-  .catch(err => console.warn("Could not load themes:", err));
+nextBtn.onclick = nextQuestion;
 
-// === RETURN & MENU ===
-document.getElementById("back-btn").onclick = showMenu;
-returnBtn.addEventListener('click', showMenu);
+if (backBtn) {
+    backBtn.onclick = showMenu;
+}
 
+if (returnBtn) {
+    returnBtn.onclick = showMenu;
+}
+
+// ========================================
+// OPSTARTEN
+// ========================================
+
+renderQuizGroups();
 showMenu();
 
+// Thema's laden vanuit alle vragen
+async function loadThemes() {
+    try {
+        const response = await fetch("quizzes/alles.json");
 
+        if (!response.ok) {
+            throw new Error("Thema's konden niet geladen worden.");
+        }
 
+        const data = await response.json();
 
+        allQuestions = data.questions || data;
 
+        renderThemes(allQuestions);
+
+    } catch (error) {
+        console.error("Fout bij laden van thema's:", error);
+    }
+}
+
+loadThemes();

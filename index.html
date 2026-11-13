@@ -1,50 +1,357 @@
+
 <!DOCTYPE html>
-<html lang="en">
+<html lang="nl">
+
 <head>
-  <meta charset="UTF-8" />
-  <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>Zwazje's Ultimate Quiz</title>
-  <link rel="stylesheet" href="style.css">
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+    <title>"Zwazje's Ultimate Quiz"</title>
+
+   
+    <link rel="stylesheet" href="style.css">
+
+    <style>
+        body {
+            background: #000;
+            color: #f5f5f5;
+        }
+
+        .page-header {
+            text-align: center;
+            padding: 25px 10px;
+        }
+
+        .page-header h1 {
+            color: #8996ff;
+            font-size: 34px;
+            margin: 0;
+        }
+
+        .page-header p {
+            color: #999;
+            margin-top: 5px;
+        }
+
+        .menu-section {
+            background: #101010;
+            border: 1px solid #303030;
+            border-radius: 14px;
+            padding: 18px;
+            margin: 20px 0;
+        }
+
+        .menu-section h2,
+        .menu-section h3 {
+            margin-top: 0;
+            color: #8996ff;
+        }
+
+        #quiz-groups {
+            display: grid;
+            gap: 15px;
+        }
+
+        .year-section {
+            background: #181818;
+            border: 1px solid #333;
+            border-radius: 12px;
+            padding: 15px;
+        }
+
+        .year-section summary {
+            color: #a3adff;
+            font-size: 17px;
+            font-weight: bold;
+            cursor: pointer;
+            list-style: none;
+        }
+
+        .year-section summary::-webkit-details-marker {
+            display: none;
+        }
+
+        .year-section summary::after {
+            content: "+";
+            float: right;
+        }
+
+        .year-section[open] summary::after {
+            content: "−";
+        }
+
+        .year-quiz-buttons {
+            display: grid;
+            grid-template-columns: repeat(2, minmax(0, 1fr));
+            gap: 10px;
+            margin-top: 15px;
+        }
+
+        .year-quiz-buttons button {
+            background: #eef0ff;
+            color: #26315f;
+            text-align: left;
+            min-height: 60px;
+            margin: 0;
+        }
+
+        .year-quiz-buttons button:hover {
+            background: #dce2ff;
+        }
+
+        #theme-buttons {
+            display: grid;
+            grid-template-columns: repeat(2, minmax(0, 1fr));
+            gap: 10px;
+        }
+
+        .theme-button {
+            display: flex;
+            align-items: center;
+            gap: 12px;
+            text-align: left;
+            background: #242424;
+            color: white;
+            border: 1px solid #383838;
+            border-radius: 11px;
+            min-height: 58px;
+            margin: 0;
+        }
+
+        .theme-button:hover {
+            background: #333;
+            border-color: #8996ff;
+        }
+
+        .theme-icon {
+            font-size: 22px;
+            width: 30px;
+            flex-shrink: 0;
+        }
+
+        #scoreboard {
+            background: #181818;
+            border-radius: 11px;
+            padding: 15px;
+            margin-top: 15px;
+        }
+
+        #scoreboard h3 {
+            color: #a3adff;
+        }
+
+        .quiz-card {
+            background: #101010;
+            border: 1px solid #333;
+            border-radius: 14px;
+            padding: 22px;
+        }
+
+        #question-text {
+            font-size: 23px;
+            line-height: 1.5;
+        }
+
+        .answer-btn {
+            width: 100%;
+            margin: 5px 0;
+            text-align: left;
+            background: #242424;
+            color: white;
+            border: 1px solid #444;
+        }
+
+        .answer-btn.correct {
+            background: #123d2c;
+            border-color: #36bd80;
+        }
+
+        .answer-btn.incorrect {
+            background: #481d25;
+            border-color: #e35c6b;
+        }
+
+        #progress {
+            text-align: center;
+            color: #aaa;
+        }
+
+        #feedback {
+            font-weight: bold;
+        }
+
+        #result {
+            text-align: center;
+            padding: 30px;
+            background: #101010;
+            border: 1px solid #333;
+            border-radius: 14px;
+        }
+
+        #result h2 {
+            color: #8996ff;
+        }
+
+        button:focus-visible,
+        summary:focus-visible,
+        input:focus-visible {
+            outline: 3px solid #8996ff;
+            outline-offset: 3px;
+        }
+
+        .hidden {
+            display: none !important;
+        }
+
+        @media (max-width: 600px) {
+            .year-quiz-buttons,
+            #theme-buttons {
+                grid-template-columns: 1fr;
+            }
+
+            .page-header h1 {
+                font-size: 28px;
+            }
+
+            .quiz-card {
+                padding: 15px;
+            }
+
+            #question-text {
+                font-size: 20px;
+            }
+        }
+
+        @media (prefers-reduced-motion: reduce) {
+            *,
+            *::before,
+            *::after {
+                transition-duration: 0.01ms !important;
+                animation-duration: 0.01ms !important;
+            }
+        }
+    </style>
 </head>
+
 <body>
-  <div class="container" id="app">
-    <h1>Zwazje's Ultimate Quiz</h1>
 
-    <div id="menu" class="menu">
-      <h2>Choose a Quiz</h2>
-      <div id="quiz-buttons"></div>
-      <h3>Choose a Theme</h3>
-      <div id="theme-buttons"></div>
+    <main class="container">
 
-      <div id="scoreboard"></div>
-    </div>
+        <!-- HEADER -->
 
-    <div id="quiz" class="hidden">
-      <div class="quiz-card">
-        <h3 id="question-text"></h3>
-        <img id="question-image" class="hidden" />
-        <div id="answers"></div>
-
-        <input id="open-input" class="hidden" placeholder="Type your answer" />
-        <button id="submit-open" class="hidden">Submit</button>
-
-        <p id="feedback"></p>
-
-        <button id="next-btn" class="hidden">Next</button>
-        <p id="progress"></p>
-        <button id="returnBtn" class="return-btn">Back to Menu</button>
-
-      </div>
-    </div>
+        <header class="page-header">
+            <h1>Zwazje's Ultimate Quiz</h1>
+        </header>
 
 
-    <div id="result" class="hidden">
-      <h2>✅ Quiz Completed!</h2>
-      <p id="final-score"></p>
-      <button id="back-btn">Back to Menu</button>
-    </div>
-  </div>
+        <!-- HOOFDMENU -->
 
-  <script src="script.js"></script>
+        <section id="menu" class="menu">
+
+            <!-- QUIZZEN PER JAAR -->
+
+            <section class="menu-section">
+
+                <h2>quizzen</h2>
+
+                <div id="quiz-groups"></div>
+
+            </section>
+
+
+            <!-- THEMA'S -->
+
+            <section class="menu-section">
+
+                <h2>🎨 Kies een thema</h2>
+
+                <div id="theme-buttons"></div>
+
+            </section>
+
+
+            <!-- SCOREBORD -->
+<!--
+            <section class="menu-section">
+
+                <div id="scoreboard">
+                    <h3>🏆 Scorebord</h3>
+                </div>
+
+            </section>-->
+
+        </section>
+
+
+        <!-- QUIZSCHERM -->
+
+        <section id="quiz" class="hidden">
+
+            <p id="progress" aria-live="polite"></p>
+
+            <div class="quiz-card">
+
+                <h2 id="question-text"></h2>
+
+                <img
+                    id="question-image"
+                    class="hidden"
+                    alt="Afbeelding bij de quizvraag"
+                >
+
+                <div id="answers"></div>
+
+                <input
+                    id="open-input"
+                    class="hidden"
+                    type="text"
+                    placeholder="Typ je antwoord..."
+                    autocomplete="off"
+                >
+
+                <button id="submit-open" class="hidden">
+                    Antwoord indienen
+                </button>
+
+                <p
+                    id="feedback"
+                    role="status"
+                    aria-live="polite"
+                ></p>
+
+                <button id="next-btn" class="hidden">
+                    Volgende vraag →
+                </button>
+
+                <button id="back-btn" class="return-btn">
+                    ← Terug naar menu
+                </button>
+
+            </div>
+
+        </section>
+
+
+        <!-- RESULTAATSCHERM -->
+
+        <section id="result" class="hidden">
+
+            <h2>🎉 Quiz afgelopen!</h2>
+
+            <p id="final-score"></p>
+
+            <button id="returnBtn">
+                Terug naar menu
+            </button>
+
+        </section>
+
+    </main>
+
+
+    <!-- JAVASCRIPT -->
+
+    <script src="script.js" defer></script>
+
 </body>
 </html>
